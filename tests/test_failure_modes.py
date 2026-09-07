@@ -258,7 +258,8 @@ def test_the_real_stores_json_passes_validation(hz):
     hz.set_stores(real)
     hz.use_products({s["slug"]: [prod("a")] for s in real})
     assert hz.run() == 0
-    assert {s["slug"] for s in real} == {"herbaldirect", "supplementhealthshoppe"}
+    assert {s["slug"] for s in real} == {"herbaldirect", "supplementhealthshoppe",
+                                        "vitakingz"}
 
 
 def test_config_errors_are_rejected_in_dry_run_too(hz, capsys):
