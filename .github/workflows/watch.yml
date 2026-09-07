@@ -47,7 +47,12 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
+          # The parser canary below runs tests/test_parser.py, which drives
+          # pytest.main(). pytest is a test-only dependency, so it is installed
+          # here rather than in requirements.txt.
+          pip install pytest
         # Chromium is NOT installed here. The plain-HTTP path never needs it, and
         # installing it on every run would cost ~2 minutes of Actions time each
         # time. scrape.py installs it on demand the first time eBay blocks us.
