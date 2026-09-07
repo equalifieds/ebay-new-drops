@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-07T17:52:51+00:00",
-  "count": 577,
+  "scraped_at": "2026-09-07T18:25:35+00:00",
+  "count": 578,
   "seen": [
     "153886790983",
     "153894822521",
@@ -932,7 +932,7 @@
     },
     {
       "id": "154752037058",
-      "title": "GPro Uric Acid Support Formula Support Healthy Uric Acid Levels \u2013 60 Capsules",
+      "title": "GPro Uric Acid Support Formula Support Healthy Uric Acid Levels – 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/uOwAAOSwr85hu2Ua/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/154752037058",
       "price": "$24.97"
@@ -999,6 +999,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -2913,7 +2920,7 @@
     },
     {
       "id": "157424282280",
-      "title": "NeuroPure (Neuro Pure) Nerve & Brain Health Support Supplement \u2013 60 Capsules",
+      "title": "NeuroPure (Neuro Pure) Nerve & Brain Health Support Supplement – 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/HoYAAeSwreJpALzv/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157424282280",
       "price": "$39.00"
