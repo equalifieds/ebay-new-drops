@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-07T18:56:15+00:00",
-  "count": 575,
+  "scraped_at": "2026-09-07T20:54:17+00:00",
+  "count": 576,
   "seen": [
     "153886790983",
     "153894822521",
@@ -819,6 +819,13 @@
       "price": "$29.00"
     },
     {
+      "id": "154573758906",
+      "title": "GlucoFlow Advanced Blood Sugar Upgraded Formula - New",
+      "image": "https://i.ebayimg.com/images/g/rWcAAOSwFu1gEJ1T/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/154573758906",
+      "price": "$49.00"
+    },
+    {
       "id": "154577566430",
       "title": "Hyperexol  Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/ALEAAOSwbm9dyegn/s-l1600.jpg",
@@ -985,13 +992,6 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
-    },
-    {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -1503,6 +1503,13 @@
       "image": "https://i.ebayimg.com/images/g/UJQAAOSwaGJm2izk/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156393217165",
       "price": "$49.00"
+    },
+    {
+      "id": "156405203546",
+      "title": "MicroBio Brands Blood Booster Blood Health Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/lcQAAOSwb2Rm40X-/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156405203546",
+      "price": "$24.97"
     },
     {
       "id": "156405215556",
