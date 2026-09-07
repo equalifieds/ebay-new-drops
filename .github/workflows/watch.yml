@@ -1,0 +1,110 @@
+name: eBay store watcher
+
+on:
+  schedule:
+    # Every 2 hours. Cron is UTC; :45 lands the runs at quarter past the hour
+    # in IST (00:45 UTC = 06:15 IST, 02:45 UTC = 08:15 IST, and so on).
+    #
+    # Why :45 and not :30: the older watcher repo runs on :30. Offsetting this
+    # one by 15 minutes means the two never hit eBay in the same minute.
+    #
+    # Why every 2 hours is affordable here: this repo is PUBLIC, and public
+    # repositories get unlimited GitHub Actions minutes. On a private repo the
+    # same schedule would cost ~1,900 of the 2,000 free monthly minutes (95%)
+    # and the watcher would go silent mid-month. If this repo is ever made
+    # private, move the cron back to "45 */3 * * *" first.
+    - cron: "45 */2 * * *"
+  workflow_dispatch:
+    inputs:
+      reset:
+        description: "Rebuild the baseline without sending new-product alerts"
+        type: boolean
+        default: false
+
+# Only one run at a time, so two runs can never fight over data/*.json
+concurrency:
+  group: ebay-watcher
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # The commit step may need to rebase onto origin/main after a race,
+          # which a depth-1 clone cannot do.
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+        # Chromium is NOT installed here. The plain-HTTP path never needs it, and
+        # installing it on every run would cost ~2 minutes of Actions time each
+        # time. scrape.py installs it on demand the first time eBay blocks us.
+
+      - name: Test the parser against saved real eBay markup
+        # Optional: skipped if you didn't upload the tests/ folder.
+        run: |
+          if [ -f tests/test_parser.py ]; then
+            python tests/test_parser.py
+          else
+            echo "tests/ not present, skipping."
+          fi
+
+      - name: Run watcher
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MAX_PHOTOS: "100"
+        run: |
+          python scrape.py ${{ inputs.reset && '--reset' || '' }}
+
+      - name: Commit updated snapshots
+        if: always()
+        run: |
+          git config user.name  "ebay-watcher-bot"
+          git config user.email "actions@github.com"
+          mkdir -p data
+          git add -A data/ || true
+          if git diff --staged --quiet; then
+            echo "No snapshot changes to commit."
+            exit 0
+          fi
+          git commit -m "Update product snapshots ($(date -u +%Y-%m-%d\ %H:%M) UTC)"
+          # Someone may have pushed while we were scraping. If we lose that
+          # race the snapshot is thrown away and every product found this run
+          # is announced all over again on the next one, so rebase and retry.
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push rejected; rebasing onto origin/main and retrying."
+            # The snapshot is derived data: if another run wrote it while we
+            # were scraping, ours is the newer read and simply wins. A conflict
+            # must never be fatal, or this run's findings are announced again.
+            if ! git pull --rebase origin main; then
+              # A conflict on derived data is not worth resolving: our snapshot
+              # is the newer read, so keep it and replay it on top of theirs.
+              git rebase --abort || true
+              rm -rf /tmp/snapshot-keep && cp -r data /tmp/snapshot-keep
+              git fetch origin main
+              git reset --hard origin/main
+              rm -rf data && cp -r /tmp/snapshot-keep data
+              git add -A data/
+              git diff --staged --quiet || git commit -m "Update product snapshots (replayed after a push race)"
+            fi
+            sleep 5
+          done
+          echo "Could not push the snapshot after 3 attempts." >&2
+          exit 1
