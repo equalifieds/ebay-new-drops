@@ -20,7 +20,7 @@ GitHub Actions par apne aap chalta hai, aapka laptop band ho tab bhi.
 | Telegram bot | `@eBay_New_Drops_bot` |
 | Chat id | aapka apna Telegram DM — repo secret `TELEGRAM_CHAT_ID` me, file me kabhi nahi |
 | Schedule | har **2 ghante** — cron `45 */2 * * *` (UTC) = 06:15, 08:15, 10:15 … IST |
-| Stores | HerbalDirect, VitaminRush Health Shop (`stores.json` me) |
+| Stores | HerbalDirect, VitaminRush Health Shop, Vitakingz (`stores.json` me) |
 
 ---
 
