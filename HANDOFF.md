@@ -8,7 +8,7 @@ A GitHub Actions job that watches two eBay storefronts and pushes **newly-listed
 products only** to Telegram, as photo albums with clickable links.
 
 - Repo: `equalifieds/ebay-new-drops` (**public**)
-- Telegram bot: `@EbayNewDropsBot`
+- Telegram bot: `@eBay_New_Drops_bot`
 - Chat id: owner's DM — lives only in the `TELEGRAM_CHAT_ID` repo secret
 - Schedule: every 2 hours — cron `45 */2 * * *` (UTC), i.e. 06:15, 08:15, 10:15, … IST.
   Two things are deliberate about that cron:

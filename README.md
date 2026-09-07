@@ -17,7 +17,7 @@ GitHub Actions par apne aap chalta hai, aapka laptop band ho tab bhi.
 | Cheez | Value |
 |---|---|
 | Repo | `equalifieds/ebay-new-drops` (**public**) |
-| Telegram bot | `@EbayNewDropsBot` |
+| Telegram bot | `@eBay_New_Drops_bot` |
 | Chat id | aapka apna Telegram DM — repo secret `TELEGRAM_CHAT_ID` me, file me kabhi nahi |
 | Schedule | har **2 ghante** — cron `45 */2 * * *` (UTC) = 06:15, 08:15, 10:15 … IST |
 | Stores | HerbalDirect, VitaminRush Health Shop (`stores.json` me) |
@@ -68,7 +68,7 @@ normal hai, ghabraiye mat.
 
 ## 4. Telegram bot aur secrets
 
-Is repo ka apna alag bot hai: **`@EbayNewDropsBot`** (purane
+Is repo ka apna alag bot hai: **`@eBay_New_Drops_bot`** (purane
 `@wdbEbayStoreWatcherBot` se alag, taaki dono watchers ke alerts na mix hon).
 
 ### Pehli baar bot set karna
@@ -76,8 +76,7 @@ Is repo ka apna alag bot hai: **`@EbayNewDropsBot`** (purane
 1. Telegram me **@BotFather** kholiye
 2. `/newbot` bhejiye
 3. Display name: `eBay New Drops`
-4. Username: `EbayNewDropsBot` (agar taken ho to `EbayNewDrops_Bot` jaisa koi
-   variant — jo bhi mile, wo README me note kar lijiye)
+4. Username: `eBay_New_Drops_bot`  ← ye already bana hua hai
 5. BotFather ek **token** dega — `1234567890:AA...` jaisa. **Use kisi file me
    mat likhiye, kisi chat me paste mat kijiye.** Seedha repo secret me daaliye.
 6. Ab apne naye bot ko kholiye aur **`/start`** bhejiye. Ye zaroori hai — jab
