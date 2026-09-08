@@ -1,8 +1,8 @@
 {
   "store": "Vitakingz",
   "url": "https://www.ebay.com/str/vitakingz",
-  "scraped_at": "2026-09-07T23:00:17+00:00",
-  "count": 3883,
+  "scraped_at": "2026-09-08T01:06:15+00:00",
+  "count": 3889,
   "seen": [
     "364109863600",
     "364121781894",
@@ -7112,6 +7112,13 @@
       "price": "$19.95"
     },
     {
+      "id": "365969720799",
+      "title": "Soundful Daily Gummy, Soundful Daily Gummies for Hearing & Ear Health - 2 Pack",
+      "image": "https://i.ebayimg.com/images/g/HvMAAeSwAM1pDjaA/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/365969720799",
+      "price": "$39.95"
+    },
+    {
       "id": "365984766866",
       "title": "Tonormix Capsules, Premium Formula for Healthy Blood Circulation (60ct)",
       "image": "https://i.ebayimg.com/images/g/PqYAAeSwqZdpFfCy/s-l1600.jpg",
@@ -7166,13 +7173,6 @@
       "image": "https://i.ebayimg.com/images/g/1FEAAeSwSXhpFfce/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/365984829358",
       "price": "$59.95"
-    },
-    {
-      "id": "365985231368",
-      "title": "Primal TRT Gummies - PrimalTRT for Men, Male Health Support Supplement 60ct",
-      "image": "https://i.ebayimg.com/images/g/6rMAAeSwkMZpFiQi/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/365985231368",
-      "price": "$21.95"
     },
     {
       "id": "365985232129",
@@ -8169,6 +8169,13 @@
       "price": "$59.95"
     },
     {
+      "id": "366106151103",
+      "title": "Vismax Revive, Advanced Eye Supplement for Clear and Healthy Eyes 60ct",
+      "image": "https://i.ebayimg.com/images/g/zWQAAeSw5n9pXSyt/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366106151103",
+      "price": "$19.95"
+    },
+    {
       "id": "366106151177",
       "title": "Vismax Revive, Advanced Eye Supplement for Clear and Healthy Eyes - 2 Pack",
       "image": "https://i.ebayimg.com/images/g/urAAAeSwYHZpXSy-/s-l1600.jpg",
@@ -8923,13 +8930,6 @@
       "image": "https://i.ebayimg.com/images/g/gEMAAeSw~D5pZsE2/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366122500562",
       "price": "$19.95"
-    },
-    {
-      "id": "366122500859",
-      "title": "Madeirada Capsules - Natural Stamina, Energy & Male Performance Formula - 2 Pack",
-      "image": "https://i.ebayimg.com/images/g/92oAAeSwbqlpZsFJ/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366122500859",
-      "price": "$29.95"
     },
     {
       "id": "366122501054",
@@ -12131,13 +12131,6 @@
       "price": "$59.95"
     },
     {
-      "id": "366344137202",
-      "title": "Lipo Genetic Capsules – Metabolism, Weight Loss & Energy Support Supplement 60ct",
-      "image": "https://i.ebayimg.com/images/g/OeMAAeSwUbhp3JyT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366344137202",
-      "price": "$19.95"
-    },
-    {
       "id": "366344137292",
       "title": "Lipo Genetic Capsules – Daily Metabolism, Weight Loss & Energy Support - 2 Pack",
       "image": "https://i.ebayimg.com/images/g/mTkAAeSwQldp3JyX/s-l1600.jpg",
@@ -13083,6 +13076,13 @@
       "price": "$29.95"
     },
     {
+      "id": "366387251577",
+      "title": "Nervetin Capsules, Daily Supplement for Nerve Support, Relaxation & Comfort -3pk",
+      "image": "https://i.ebayimg.com/images/g/~dAAAeSwATdp-Gcc/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366387251577",
+      "price": "$39.95"
+    },
+    {
       "id": "366387252132",
       "title": "Nervetin Capsules, Daily Supplement for Nerve Support, Relaxation & Comfort -5pk",
       "image": "https://i.ebayimg.com/images/g/6-YAAeSw-H1p-Gcf/s-l1600.jpg",
@@ -13942,13 +13942,6 @@
       "image": "https://i.ebayimg.com/images/g/2MAAAeSwANdqAbSF/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366401775516",
       "price": "$29.95"
-    },
-    {
-      "id": "366401775644",
-      "title": "BreathEaseX Drops, BreathEase X Premium Liquid Supplement for Lung Support - 3Pk",
-      "image": "https://i.ebayimg.com/images/g/yogAAeSwZqJqAbSM/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366401775644",
-      "price": "$39.95"
     },
     {
       "id": "366401775758",
@@ -15295,13 +15288,6 @@
       "price": "$29.95"
     },
     {
-      "id": "366411012444",
-      "title": "Green Slim Drops, GreenSlim Liquid Supplement for Weight Loss & Energy - 3 Pack",
-      "image": "https://i.ebayimg.com/images/g/a~MAAeSw8kxqBzyW/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366411012444",
-      "price": "$39.95"
-    },
-    {
       "id": "366411012533",
       "title": "Green Slim Drops, GreenSlim Liquid Supplement for Weight Loss & Energy - 5 Pack",
       "image": "https://i.ebayimg.com/images/g/3VgAAeSwSdhqBzyY/s-l1600.jpg",
@@ -15342,6 +15328,13 @@
       "image": "https://i.ebayimg.com/images/g/gfkAAeSw3YRqCyFf/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366417334793",
       "price": "$19.95"
+    },
+    {
+      "id": "366417334891",
+      "title": "Self Centered Capsules, Advanced Male Supplement for Energy & Performance -2PK",
+      "image": "https://i.ebayimg.com/images/g/m6IAAeSwkXBqCyFm/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366417334891",
+      "price": "$29.95"
     },
     {
       "id": "366417334980",
@@ -16758,6 +16751,13 @@
       "price": "$39.95"
     },
     {
+      "id": "366430572303",
+      "title": "Potent Vital Capsules for Men, PotentVital Male Supplement for Daily Health -5PK",
+      "image": "https://i.ebayimg.com/images/g/mPEAAeSwJSpqEp7U/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366430572303",
+      "price": "$59.95"
+    },
+    {
       "id": "366433081109",
       "title": "PrimeXForce Gummies – Prime X Force Gummy Supplement, Male Health Formula 60ct",
       "image": "https://i.ebayimg.com/images/g/fjcAAeSwo1lqFE-l/s-l1600.jpg",
@@ -17556,13 +17556,6 @@
       "price": "$29.95"
     },
     {
-      "id": "366442855959",
-      "title": "Black Sugar Protect Capsules, Advanced Formula for Overall Blood Support - 3Pack",
-      "image": "https://i.ebayimg.com/images/g/Vy4AAeSwi0lqGfT~/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366442855959",
-      "price": "$39.95"
-    },
-    {
       "id": "366442856052",
       "title": "Black Sugar Protect Capsules, Advanced Formula for Overall Blood Support - 5Pack",
       "image": "https://i.ebayimg.com/images/g/LGgAAeSw5ApqGfUG/s-l1600.jpg",
@@ -18254,6 +18247,13 @@
       "image": "https://i.ebayimg.com/images/g/KY4AAeSwvGZqHu~S/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366450836617",
       "price": "$39.95"
+    },
+    {
+      "id": "366450836958",
+      "title": "Gluco Off Gummies, GlucoOff Advanced Gummy Formula, Heart & Blood Support -3Pack",
+      "image": "https://i.ebayimg.com/images/g/y8EAAeSwDIVqHu~d/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366450836958",
+      "price": "$49.95"
     },
     {
       "id": "366450853977",
@@ -19425,6 +19425,13 @@
       "price": "$29.95"
     },
     {
+      "id": "366482549124",
+      "title": "Lipporyn Capsules, Advanced Formula to Boost Energy & Weight Loss - 3 Pack",
+      "image": "https://i.ebayimg.com/images/g/bjUAAeSwf1FqMQzt/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366482549124",
+      "price": "$39.95"
+    },
+    {
       "id": "366482549324",
       "title": "Lipporyn Capsules, Advanced Formula to Boost Energy & Weight Loss - 5 Pack",
       "image": "https://i.ebayimg.com/images/g/vaoAAeSwMtBqMQzy/s-l1600.jpg",
@@ -19908,13 +19915,6 @@
       "price": "$19.95"
     },
     {
-      "id": "366485766507",
-      "title": "Cognivex Clarity Plus Capsules, Advanced Formula for Brain Health & Memory - 2PK",
-      "image": "https://i.ebayimg.com/images/g/pHQAAeSw0DZqMsO7/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366485766507",
-      "price": "$29.95"
-    },
-    {
       "id": "366485766592",
       "title": "Cognivex Clarity Plus Capsules, Advanced Formula for Brain Health & Memory - 3PK",
       "image": "https://i.ebayimg.com/images/g/YqAAAeSwogFqMsO~/s-l1600.jpg",
@@ -20032,6 +20032,13 @@
       "image": "https://i.ebayimg.com/images/g/3igAAeSwDSdqMtCq/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366485851804",
       "price": "$59.95"
+    },
+    {
+      "id": "366485865631",
+      "title": "Liporyn Capsules, Advanced Weight Loss Supplement & Metabolism Support 60ct",
+      "image": "https://i.ebayimg.com/images/g/QD8AAeSwAdhqMtKj/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366485865631",
+      "price": "$19.95"
     },
     {
       "id": "366485865778",
@@ -22106,6 +22113,13 @@
       "price": "$39.95"
     },
     {
+      "id": "366528236333",
+      "title": "Viril Sense Advanced Gummies for Men, VirilSense Male Performance Support - 3PK",
+      "image": "https://i.ebayimg.com/images/g/QjEAAeSwcyhqTSqr/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366528236333",
+      "price": "$49.95"
+    },
+    {
       "id": "366528274747",
       "title": "Phenodrex Capsules, Weight Loss Supplement & Metabolic Balance 60ct",
       "image": "https://i.ebayimg.com/images/g/9OQAAeSw82lqTS9L/s-l1600.jpg",
@@ -22118,6 +22132,13 @@
       "image": "https://i.ebayimg.com/images/g/3BwAAeSw23FqTS9O/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366528275037",
       "price": "$29.95"
+    },
+    {
+      "id": "366528275113",
+      "title": "Phenodrex Capsules, Weight Loss Supplement & Metabolic Balance - 3 Pack",
+      "image": "https://i.ebayimg.com/images/g/478AAeSwGGJqTS9U/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366528275113",
+      "price": "$39.95"
     },
     {
       "id": "366528276091",
@@ -23175,13 +23196,6 @@
       "image": "https://i.ebayimg.com/images/g/5rUAAeSwS0BqVpBQ/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366542730276",
       "price": "$19.95"
-    },
-    {
-      "id": "366542730335",
-      "title": "Hyper Drops, Blood Support Supplement & Metabolic Balance - 2 Pack",
-      "image": "https://i.ebayimg.com/images/g/udAAAeSwY89qVpBU/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366542730335",
-      "price": "$29.95"
     },
     {
       "id": "366542730448",
@@ -27762,6 +27776,13 @@
       "price": "$59.95"
     },
     {
+      "id": "366605158568",
+      "title": "Nerve Relief Gelatin Capsules, Natural Nerve Support Pills 60ct",
+      "image": "https://i.ebayimg.com/images/g/GrkAAeSwiodqfwAh/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366605158568",
+      "price": "$19.95"
+    },
+    {
       "id": "366605159017",
       "title": "Nerve Relief Gelatin Capsules, Natural Nerve Support Pills - 2 Pack",
       "image": "https://i.ebayimg.com/images/g/J3wAAeSwj0VqfwAl/s-l1600.jpg",
@@ -28516,6 +28537,13 @@
       "image": "https://i.ebayimg.com/images/g/DwgAAeSwMcdqhT~7/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366615024713",
       "price": "$39.95"
+    },
+    {
+      "id": "366615024793",
+      "title": "24 Burn Capsules, 24Burn Fat Burning Formula & Weight Loss Support - 5 Pack",
+      "image": "https://i.ebayimg.com/images/g/sDcAAeSw6xpqhUAA/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366615024793",
+      "price": "$59.95"
     },
     {
       "id": "366615043636",
@@ -29799,6 +29827,13 @@
       "price": "$29.95"
     },
     {
+      "id": "366631161797",
+      "title": "Glicomax Capsules, Healthy Blood Support & Metabolic Wellness - 3 Pack",
+      "image": "https://i.ebayimg.com/images/g/NpEAAeSwyTVqj54F/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366631161797",
+      "price": "$39.95"
+    },
+    {
       "id": "366631161840",
       "title": "Glicomax Capsules, Healthy Blood Support & Metabolic Wellness - 5 Pack",
       "image": "https://i.ebayimg.com/images/g/wPYAAeSw94Nqj54S/s-l1600.jpg",
@@ -31022,6 +31057,13 @@
       "image": "https://i.ebayimg.com/images/g/m~QAAeSwEYJqntXo/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366654414066",
       "price": "$39.95"
+    },
+    {
+      "id": "366654414471",
+      "title": "Honey Balance Drops, Daily Metabolic Balance & Blood Support - 5 Pack",
+      "image": "https://i.ebayimg.com/images/g/l18AAeSww05qntXt/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366654414471",
+      "price": "$59.95"
     },
     {
       "id": "366654420800",

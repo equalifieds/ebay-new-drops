@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-07T22:53:01+00:00",
-  "count": 578,
+  "scraped_at": "2026-09-08T00:58:51+00:00",
+  "count": 574,
   "seen": [
     "153886790983",
     "153894822521",
@@ -714,13 +714,6 @@
       "price": "$28.95"
     },
     {
-      "id": "154363170228",
-      "title": "AlphaZym Plus Weight Loss Dietary Supplement - Alpha Zym 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/I6UAAOSwgvdgRViN/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/154363170228",
-      "price": "$39.00"
-    },
-    {
       "id": "154370838269",
       "title": "Bio Melt Pro Dietary Supplement Formulated For Weight Loss 60 Tablets BioMelt",
       "image": "https://i.ebayimg.com/images/g/kHkAAOSwyRxgPEZh/s-l1600.jpg",
@@ -817,13 +810,6 @@
       "image": "https://i.ebayimg.com/images/g/giIAAOSwxN1gfJr9/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/154559612323",
       "price": "$29.00"
-    },
-    {
-      "id": "154573758906",
-      "title": "GlucoFlow Advanced Blood Sugar Upgraded Formula - New",
-      "image": "https://i.ebayimg.com/images/g/rWcAAOSwFu1gEJ1T/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/154573758906",
-      "price": "$49.00"
     },
     {
       "id": "154577566430",
@@ -2891,13 +2877,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157415879830",
-      "title": "Sugar Wise Blood Health Support Dietary Supplement 60 Capsules of SugarWise",
-      "image": "https://i.ebayimg.com/images/g/~UQAAeSwv3Fo~O3r/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157415879830",
-      "price": "$39.00"
-    },
-    {
       "id": "157417635714",
       "title": "ThyraFemme Balance Thyroid Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/rwQAAeSwRqto~ONA/s-l1600.jpg",
@@ -4274,13 +4253,6 @@
       "title": "Visium Plus Plus Eye Health Vision Support Supplement 60 Capsules  Hungary Ship",
       "image": "https://i.ebayimg.com/images/g/ehgAAOSwfZxhs6mt/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158057893850",
-      "price": "$39.00"
-    },
-    {
-      "id": "158058129400",
-      "title": "Java Tide Digestive and Appetite Support Dietary Supplement 30 Capsules JavaTide",
-      "image": "https://i.ebayimg.com/images/g/cxEAAeSwEZhqSsL7/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158058129400",
       "price": "$39.00"
     },
     {
