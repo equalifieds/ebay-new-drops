@@ -1,8 +1,8 @@
 {
   "store": "Vitakingz",
   "url": "https://www.ebay.com/str/vitakingz",
-  "scraped_at": "2026-09-08T15:08:31+00:00",
-  "count": 3946,
+  "scraped_at": "2026-09-08T17:06:29+00:00",
+  "count": 3955,
   "seen": [
     "364109863600",
     "364121781894",
@@ -10080,6 +10080,13 @@
       "price": "$39.95"
     },
     {
+      "id": "366139882804",
+      "title": "Therma Burn Capsules, ThermaBurn Fat Burner, Metabolism & Weight Loss - 5 Pack",
+      "image": "https://i.ebayimg.com/images/g/TqMAAeSwAHxpcJ0u/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366139882804",
+      "price": "$59.95"
+    },
+    {
       "id": "366247212238",
       "title": "Sugar Control Gummies, Natural Keto & Metabolism Support for Weight Loss 60ct",
       "image": "https://i.ebayimg.com/images/g/tlsAAeSwpvJpqSYa/s-l1600.jpg",
@@ -10799,6 +10806,13 @@
       "image": "https://i.ebayimg.com/images/g/PL8AAeSwdbdpwkOG/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366299487027",
       "price": "$39.95"
+    },
+    {
+      "id": "366299487113",
+      "title": "MemoryOn Capsules – Memory On Brain Focus Support Supplement - 5 Pack",
+      "image": "https://i.ebayimg.com/images/g/QI0AAeSwBo9pwkOJ/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366299487113",
+      "price": "$59.95"
     },
     {
       "id": "366302523480",
@@ -11884,13 +11898,6 @@
       "image": "https://i.ebayimg.com/images/g/kikAAeSwHP5p1gSP/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366334092545",
       "price": "$19.95"
-    },
-    {
-      "id": "366334092620",
-      "title": "Cortexi Oral Drops – Ear Support, Hearing Clarity & Comfort Supplement -2 Pack",
-      "image": "https://i.ebayimg.com/images/g/j9YAAeSwYxxp1gSV/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366334092620",
-      "price": "$29.95"
     },
     {
       "id": "366334092676",
@@ -13643,13 +13650,6 @@
       "price": "$19.95"
     },
     {
-      "id": "366393474461",
-      "title": "Slim Shift Capsules, SlimShift Pills for Energy, Metabolism & Weight Loss -2Pack",
-      "image": "https://i.ebayimg.com/images/g/~ooAAeSwe5tp~BLu/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366393474461",
-      "price": "$29.95"
-    },
-    {
       "id": "366393474530",
       "title": "Slim Shift Capsules, SlimShift Pills for Energy, Metabolism & Weight Loss -3Pack",
       "image": "https://i.ebayimg.com/images/g/dywAAeSwZXNp~BLz/s-l1600.jpg",
@@ -14572,6 +14572,13 @@
       "image": "https://i.ebayimg.com/images/g/gzUAAeSwPY9qBCLq/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366405678962",
       "price": "$59.95"
+    },
+    {
+      "id": "366405687678",
+      "title": "Eros Power Capsules - Supplement for Men for Stamina, Energy & Male Health 60ct",
+      "image": "https://i.ebayimg.com/images/g/i7sAAeSw7aZqBCP0/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366405687678",
+      "price": "$19.95"
     },
     {
       "id": "366405687746",
@@ -16896,6 +16903,13 @@
       "image": "https://i.ebayimg.com/images/g/rfsAAeSwLDNqFFWQ/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366433127670",
       "price": "$39.95"
+    },
+    {
+      "id": "366433128359",
+      "title": "NerveCell Capsules, Nerve Cell Advanced Formula for Nerve Health & Comfort - 5PK",
+      "image": "https://i.ebayimg.com/images/g/uqoAAeSwhIJqFFWY/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366433128359",
+      "price": "$59.95"
     },
     {
       "id": "366434900440",
@@ -20165,13 +20179,6 @@
       "image": "https://i.ebayimg.com/images/g/q24AAeSwTLhqOKzp/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366495954825",
       "price": "$99.95"
-    },
-    {
-      "id": "366495985580",
-      "title": "Slim Jelly Powder, SlimJelly Advanced Formula, Weight Loss & Energy (30 Servs.)",
-      "image": "https://i.ebayimg.com/images/g/zgUAAeSwTLhqOLHN/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366495985580",
-      "price": "$39.95"
     },
     {
       "id": "366495985642",
@@ -31519,6 +31526,62 @@
       "image": "https://i.ebayimg.com/images/g/URoAAeSwgyJqn9jT/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366655961799",
       "price": "$99.95"
+    },
+    {
+      "id": "366656461011",
+      "title": "Sugar Clear Drops, Daily Blood Support & Metabolic Balance Supplement (30 servs)",
+      "image": "https://i.ebayimg.com/images/g/GtwAAeSw7QVqoCSG/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366656461011",
+      "price": "$19.95"
+    },
+    {
+      "id": "366656461124",
+      "title": "Sugar Clear Drops - Daily Blood Support & Metabolic Balance Supplement (2 Pack)",
+      "image": "https://i.ebayimg.com/images/g/OgEAAeSwUz9qoCSK/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366656461124",
+      "price": "$29.95"
+    },
+    {
+      "id": "366656461244",
+      "title": "Sugar Clear Drops - Daily Blood Support & Metabolic Balance Supplement (3 Pack)",
+      "image": "https://i.ebayimg.com/images/g/HsYAAeSwa5VqoCSQ/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366656461244",
+      "price": "$39.95"
+    },
+    {
+      "id": "366656461413",
+      "title": "Sugar Clear Drops - Daily Blood Support & Metabolic Balance Supplement (5 Pack)",
+      "image": "https://i.ebayimg.com/images/g/xl4AAeSwDyJqoCTl/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366656461413",
+      "price": "$59.95"
+    },
+    {
+      "id": "366656469489",
+      "title": "TingleGuard Nerve Support Capsules - Daily Nerve Health Supplement 60ct",
+      "image": "https://i.ebayimg.com/images/g/c4YAAeSwxH9qoCav/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366656469489",
+      "price": "$19.95"
+    },
+    {
+      "id": "366656469546",
+      "title": "TingleGuard Nerve Support Capsules - Daily Nerve Health Supplement  (2 Pack)",
+      "image": "https://i.ebayimg.com/images/g/JcMAAeSwv8BqoCa0/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366656469546",
+      "price": "$29.95"
+    },
+    {
+      "id": "366656469634",
+      "title": "TingleGuard Nerve Support Capsules - Daily Nerve Health Supplement  (3 Pack)",
+      "image": "https://i.ebayimg.com/images/g/QT0AAeSw9SRqoCa6/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366656469634",
+      "price": "$39.95"
+    },
+    {
+      "id": "366656469671",
+      "title": "TingleGuard Nerve Support Capsules - Daily Nerve Health Supplement  (5 Pack)",
+      "image": "https://i.ebayimg.com/images/g/cgwAAeSwn5BqoCa~/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366656469671",
+      "price": "$59.95"
     }
   ]
 }
