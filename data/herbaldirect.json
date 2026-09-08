@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-08T18:58:00+00:00",
+  "scraped_at": "2026-09-08T20:54:50+00:00",
   "count": 577,
   "seen": [
     "153886790983",
@@ -3528,6 +3528,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157735370064",
+      "title": "Boost Power Mens Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/JW0AAeSw4v9prcTt/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157735370064",
+      "price": "$49.00"
+    },
+    {
       "id": "157735399970",
       "title": "FocusMax Advanced Mind Memory & Cognitive Support 30 Capsules Genuine Focus Max",
       "image": "https://i.ebayimg.com/images/g/BTMAAeSw52Vprciu/s-l1600.jpg",
@@ -4435,13 +4442,6 @@
       "title": "GlyTrix Blood Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/MmwAAeSwSUhqd5Ft/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158167909238",
-      "price": "$39.00"
-    },
-    {
-      "id": "158167967876",
-      "title": "Nephora Renal Restore Kidney Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/x5UAAeSwR01qd5Yy/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158167967876",
       "price": "$39.00"
     },
     {
