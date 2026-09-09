@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-09T08:56:00+00:00",
-  "count": 575,
+  "scraped_at": "2026-09-09T10:55:37+00:00",
+  "count": 577,
   "seen": [
     "153886790983",
     "153894822521",
@@ -819,6 +819,13 @@
       "price": "$29.00"
     },
     {
+      "id": "154573758906",
+      "title": "GlucoFlow Advanced Blood Sugar Upgraded Formula - New",
+      "image": "https://i.ebayimg.com/images/g/rWcAAOSwFu1gEJ1T/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/154573758906",
+      "price": "$49.00"
+    },
+    {
       "id": "154577566430",
       "title": "Hyperexol  Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/ALEAAOSwbm9dyegn/s-l1600.jpg",
@@ -959,6 +966,13 @@
       "price": "$29.95"
     },
     {
+      "id": "155068944119",
+      "title": "LeanBiome Probiotic To Promote Weight Management and Gut Health 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/AXMAAOSwx5ZiyE47/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155068944119",
+      "price": "$49.00"
+    },
+    {
       "id": "155068950774",
       "title": "FluxActive Complete Vital Prostate Wellness Formula 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/RM4AAOSwnLhiyFFt/s-l1600.jpg",
@@ -985,13 +999,6 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
-    },
-    {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -3169,6 +3176,13 @@
       "image": "https://i.ebayimg.com/images/g/53kAAeSwlw1pGIMq/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157467387436",
       "price": "$39.00"
+    },
+    {
+      "id": "157467614480",
+      "title": "CogniSurge Premium Mind & Cognitive Formula Supplement 60 Capsules Cogni Surge",
+      "image": "https://i.ebayimg.com/images/g/cjAAAeSwlPBpGJw5/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157467614480",
+      "price": "$49.00"
     },
     {
       "id": "157467642549",
