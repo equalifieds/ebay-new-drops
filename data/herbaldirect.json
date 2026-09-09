@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-09T14:56:29+00:00",
-  "count": 575,
+  "scraped_at": "2026-09-09T16:55:35+00:00",
+  "count": 579,
   "seen": [
     "153886790983",
     "153894822521",
@@ -819,6 +819,13 @@
       "price": "$29.00"
     },
     {
+      "id": "154573758906",
+      "title": "GlucoFlow Advanced Blood Sugar Upgraded Formula - New",
+      "image": "https://i.ebayimg.com/images/g/rWcAAOSwFu1gEJ1T/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/154573758906",
+      "price": "$49.00"
+    },
+    {
       "id": "154577566430",
       "title": "Hyperexol  Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/ALEAAOSwbm9dyegn/s-l1600.jpg",
@@ -957,6 +964,13 @@
       "image": "https://i.ebayimg.com/images/g/CvsAAOSw6WhijU3M/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155008727904",
       "price": "$29.95"
+    },
+    {
+      "id": "155068944119",
+      "title": "LeanBiome Probiotic To Promote Weight Management and Gut Health 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/AXMAAOSwx5ZiyE47/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155068944119",
+      "price": "$49.00"
     },
     {
       "id": "155068950774",
@@ -4340,6 +4354,13 @@
       "price": "$39.00"
     },
     {
+      "id": "158116862964",
+      "title": "Dentanol Promotes Healthy Teeth And Gums 30 Chewable Probiotic Tablets",
+      "image": "https://i.ebayimg.com/images/g/g2YAAeSwrptqY8Xw/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158116862964",
+      "price": "$49.00"
+    },
+    {
       "id": "158116973586",
       "title": "JellyFil Mens Health Support Stamina & Endurance Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/Oy8AAeSwwnxqY8s4/s-l1600.jpg",
@@ -4603,6 +4624,13 @@
       "title": "Nervo Max Nerve Health Support Dietary Supplement 60 Capsules NervoMax",
       "image": "https://i.ebayimg.com/images/g/wsUAAeSwoAJqmJca/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158251278553",
+      "price": "$39.00"
+    },
+    {
+      "id": "158275186364",
+      "title": "Glyco Barrier Blood Health Support Supplement Now Available In 60 Capsule Bottle",
+      "image": "https://i.ebayimg.com/images/g/jAcAAeSw7QVqoXya/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158275186364",
       "price": "$39.00"
     }
   ]
