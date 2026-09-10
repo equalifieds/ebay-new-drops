@@ -1,8 +1,8 @@
 {
   "store": "Vitakingz",
   "url": "https://www.ebay.com/str/vitakingz",
-  "scraped_at": "2026-09-10T01:12:25+00:00",
-  "count": 3989,
+  "scraped_at": "2026-09-10T03:10:10+00:00",
+  "count": 3999,
   "seen": [
     "364109863600",
     "364121781894",
@@ -7203,6 +7203,13 @@
       "price": "$39.95"
     },
     {
+      "id": "365985255361",
+      "title": "Primo Boost XL Gummies - Official Formula for Men to Support Lasting Energy 60ct",
+      "image": "https://i.ebayimg.com/images/g/0aEAAeSw1r9pFiXU/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/365985255361",
+      "price": "$21.95"
+    },
+    {
       "id": "365990036794",
       "title": "RagnarX Male Gummies, Ragnar X Formula for Men, Advanced Energy Support 60ct",
       "image": "https://i.ebayimg.com/images/g/JZUAAeSwjkBpGFHg/s-l1600.jpg",
@@ -7915,13 +7922,6 @@
       "image": "https://i.ebayimg.com/images/g/6MUAAeSwHsVpU7zl/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366090765389",
       "price": "$19.95"
-    },
-    {
-      "id": "366090765534",
-      "title": "TrimX Drops, Trim X Advanced Weight Loss & Metabolism Support - 2 Pack",
-      "image": "https://i.ebayimg.com/images/g/4bQAAeSwyElpU7zp/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366090765534",
-      "price": "$29.95"
     },
     {
       "id": "366090765658",
@@ -9252,13 +9252,6 @@
       "image": "https://i.ebayimg.com/images/g/H-gAAeSwMsFpZs3E/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366122576253",
       "price": "$59.95"
-    },
-    {
-      "id": "366124546293",
-      "title": "Rambo Max Gummies for Men – Male Performance & Men's Vitality Support 60ct",
-      "image": "https://i.ebayimg.com/images/g/1RkAAeSwnpdpZ9Lh/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366124546293",
-      "price": "$21.95"
     },
     {
       "id": "366124546397",
@@ -12950,13 +12943,6 @@
       "price": "$29.95"
     },
     {
-      "id": "366372390197",
-      "title": "Venus Factor Capsules, Advanced Weight Management, Energy & Metabolism - 3 Pack",
-      "image": "https://i.ebayimg.com/images/g/I08AAeSwmT1p70bq/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366372390197",
-      "price": "$39.95"
-    },
-    {
       "id": "366372390265",
       "title": "Venus Factor Capsules, Advanced Weight Management, Energy & Metabolism - 5 Pack",
       "image": "https://i.ebayimg.com/images/g/9OAAAeSwYi9p70bx/s-l1600.jpg",
@@ -12990,6 +12976,13 @@
       "image": "https://i.ebayimg.com/images/g/OQwAAeSw6z9p8I96/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366374468495",
       "price": "$59.95"
+    },
+    {
+      "id": "366374480633",
+      "title": "Slimvex Capsules, Daily Supplement for Weight Loss, Metabolism & Energy 60ct",
+      "image": "https://i.ebayimg.com/images/g/dw4AAeSwYi9p8JEV/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366374480633",
+      "price": "$19.95"
     },
     {
       "id": "366374480695",
@@ -14266,13 +14259,6 @@
       "price": "$29.95"
     },
     {
-      "id": "366403936012",
-      "title": "X Kakunaz Pro Capsules - Supplement for Energy, Metabolism & Weight Loss - 3Pack",
-      "image": "https://i.ebayimg.com/images/g/ZmMAAeSwZK1qAxII/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366403936012",
-      "price": "$39.95"
-    },
-    {
       "id": "366403936079",
       "title": "X Kakunaz Pro Capsules - Supplement for Energy, Metabolism & Weight Loss - 5Pack",
       "image": "https://i.ebayimg.com/images/g/JKEAAeSwH-dqAxIK/s-l1600.jpg",
@@ -14600,6 +14586,13 @@
       "image": "https://i.ebayimg.com/images/g/ZtUAAeSwisJqBCP9/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366405687937",
       "price": "$59.95"
+    },
+    {
+      "id": "366405693387",
+      "title": "Boost Surge X Capsules - Energy Supplement for Men, Stamina & Performance 60ct",
+      "image": "https://i.ebayimg.com/images/g/6fQAAeSw0F5qBCWP/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366405693387",
+      "price": "$19.95"
     },
     {
       "id": "366405693557",
@@ -17253,13 +17246,6 @@
       "image": "https://i.ebayimg.com/images/g/GJIAAeSwpp1qGFIF/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366440164243",
       "price": "$59.95"
-    },
-    {
-      "id": "366440176238",
-      "title": "Apex Neuro Elite Capsules, Brain Health Supplement to Support Memory 60ct",
-      "image": "https://i.ebayimg.com/images/g/bycAAeSwv4RqGFUZ/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366440176238",
-      "price": "$19.95"
     },
     {
       "id": "366440176598",
@@ -23632,6 +23618,13 @@
       "price": "$59.95"
     },
     {
+      "id": "366544621121",
+      "title": "Pure Power Performance Capsules for Men, Advanced Male Supplement 60ct",
+      "image": "https://i.ebayimg.com/images/g/fAsAAeSwnN9qV891/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366544621121",
+      "price": "$19.95"
+    },
+    {
       "id": "366544621185",
       "title": "Pure Power Performance Capsules for Men, Advanced Male Supplement - 2 Pack",
       "image": "https://i.ebayimg.com/images/g/zVAAAeSwpwZqV896/s-l1600.jpg",
@@ -24995,6 +24988,13 @@
       "image": "https://i.ebayimg.com/images/g/frUAAeSwrFJqanA-/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366573386302",
       "price": "$99.95"
+    },
+    {
+      "id": "366573399337",
+      "title": "Fastburn Pro Gummies, Advanced Gummy Formula, Natural Fat Burn Support 60ct",
+      "image": "https://i.ebayimg.com/images/g/kGkAAeSwSApqanE3/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366573399337",
+      "price": "$21.95"
     },
     {
       "id": "366573399445",
@@ -29162,13 +29162,6 @@
       "price": "$19.95"
     },
     {
-      "id": "366625604880",
-      "title": "Nerve Reset Drops, NerveReset Nerve Support Liquid Supplement - 2 Pack",
-      "image": "https://i.ebayimg.com/images/g/CrUAAeSwKX9qjDNF/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366625604880",
-      "price": "$29.95"
-    },
-    {
       "id": "366625604921",
       "title": "Nerve Reset Drops, NerveReset Nerve Support Liquid Supplement - 3 Pack",
       "image": "https://i.ebayimg.com/images/g/HSMAAeSwoAJqjDNK/s-l1600.jpg",
@@ -31591,13 +31584,6 @@
       "price": "$19.95"
     },
     {
-      "id": "366657852138",
-      "title": "Maxvora Capsules - Male Vitality, Performance & Stamina Support for Men (2 Pack)",
-      "image": "https://i.ebayimg.com/images/g/kZ4AAeSwTNpqoQly/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366657852138",
-      "price": "$29.95"
-    },
-    {
       "id": "366657852177",
       "title": "Maxvora Capsules - Male Vitality, Performance & Stamina Support for Men (3 Pack)",
       "image": "https://i.ebayimg.com/images/g/kgkAAeSwTNpqoQl2/s-l1600.jpg",
@@ -31820,6 +31806,90 @@
       "image": "https://i.ebayimg.com/images/g/W-UAAeSw0EJqoVJC/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366658361685",
       "price": "$49.95"
+    },
+    {
+      "id": "366659466934",
+      "title": "FoliPrime Drops – Natural Formula For Healthy Hair Growth Support (30 Servs)",
+      "image": "https://i.ebayimg.com/images/g/SGUAAeSwoS5qog2l/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366659466934",
+      "price": "$19.95"
+    },
+    {
+      "id": "366659467011",
+      "title": "FoliPrime Drops – Natural Formula For Healthy Hair Growth Support (2 Pack)",
+      "image": "https://i.ebayimg.com/images/g/ziQAAeSwN1tqog22/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366659467011",
+      "price": "$29.95"
+    },
+    {
+      "id": "366659467048",
+      "title": "FoliPrime Drops – Natural Formula For Healthy Hair Growth Support (3 Pack)",
+      "image": "https://i.ebayimg.com/images/g/oHkAAeSw~bRqog2~/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366659467048",
+      "price": "$39.95"
+    },
+    {
+      "id": "366659467159",
+      "title": "FoliPrime Drops – Natural Formula For Healthy Hair Growth Support (5 Pack)",
+      "image": "https://i.ebayimg.com/images/g/UH8AAeSwNRdqog3F/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366659467159",
+      "price": "$59.95"
+    },
+    {
+      "id": "366659514313",
+      "title": "MatchaTide Capsules - Daily Weight Management & Metabolism Support 60ct",
+      "image": "https://i.ebayimg.com/images/g/bd8AAeSwEm9qohZh/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366659514313",
+      "price": "$19.95"
+    },
+    {
+      "id": "366659514340",
+      "title": "MatchaTide Capsules - Daily Weight Management & Metabolism Support (2PK)",
+      "image": "https://i.ebayimg.com/images/g/ME0AAeSwPEtqohZi/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366659514340",
+      "price": "$29.95"
+    },
+    {
+      "id": "366659514374",
+      "title": "MatchaTide Capsules - Daily Weight Management & Metabolism Support (3PK)",
+      "image": "https://i.ebayimg.com/images/g/B-cAAeSwdbpqohZn/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366659514374",
+      "price": "$39.95"
+    },
+    {
+      "id": "366659514413",
+      "title": "MatchaTide Capsules - Daily Weight Management & Metabolism Support (5PK)",
+      "image": "https://i.ebayimg.com/images/g/A9YAAeSwr4VqohZq/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366659514413",
+      "price": "$59.95"
+    },
+    {
+      "id": "366659527104",
+      "title": "SlimRise Powder, Slim Rise Supplement for Metabolism & Weight Loss (30 Servs.)",
+      "image": "https://i.ebayimg.com/images/g/aB0AAeSw7JRqohjs/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366659527104",
+      "price": "$39.95"
+    },
+    {
+      "id": "366659527132",
+      "title": "SlimRise Powder, Slim Rise Supplement for Metabolism & Weight Loss - 2 Pack",
+      "image": "https://i.ebayimg.com/images/g/WJ4AAeSwrjtqohjw/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366659527132",
+      "price": "$59.95"
+    },
+    {
+      "id": "366659527167",
+      "title": "SlimRise Powder, Slim Rise Supplement for Metabolism & Weight Loss - 3 Pack",
+      "image": "https://i.ebayimg.com/images/g/5j8AAeSwanZqohj1/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366659527167",
+      "price": "$79.95"
+    },
+    {
+      "id": "366659527203",
+      "title": "SlimRise Powder, Slim Rise Supplement for Metabolism & Weight Loss - 5 Pack",
+      "image": "https://i.ebayimg.com/images/g/WNUAAeSwKpJqohj8/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366659527203",
+      "price": "$99.95"
     }
   ]
 }
