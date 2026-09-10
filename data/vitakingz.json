@@ -1,8 +1,8 @@
 {
   "store": "Vitakingz",
   "url": "https://www.ebay.com/str/vitakingz",
-  "scraped_at": "2026-09-10T15:11:52+00:00",
-  "count": 4018,
+  "scraped_at": "2026-09-10T17:10:00+00:00",
+  "count": 4017,
   "seen": [
     "364109863600",
     "364121781894",
@@ -6692,13 +6692,6 @@
       "price": "$19.95"
     },
     {
-      "id": "365915771730",
-      "title": "SynaDentix Capsules, Syna Dentix Oral and Dental Health Support - 5 Pack",
-      "image": "https://i.ebayimg.com/images/g/KTMAAeSwQ1po6mjD/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/365915771730",
-      "price": "$59.95"
-    },
-    {
       "id": "365915795612",
       "title": "Gelatin Burn Powder - GelatinBurn Premium Formula for Active Body (30 Servs.)",
       "image": "https://i.ebayimg.com/images/g/6mkAAeSwVOJo6m6A/s-l1600.jpg",
@@ -6844,13 +6837,6 @@
       "image": "https://i.ebayimg.com/images/g/QAEAAeSw6B9o-nhb/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/365940255432",
       "price": "$19.95"
-    },
-    {
-      "id": "365940255739",
-      "title": "Endowmax Pills for Men, Powerful Formula to Support Male Health - 2 Pack",
-      "image": "https://i.ebayimg.com/images/g/CFoAAeSw2FFo-nhe/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/365940255739",
-      "price": "$29.95"
     },
     {
       "id": "365940268153",
@@ -8909,6 +8895,13 @@
       "image": "https://i.ebayimg.com/images/g/IicAAeSw1q5pZsBd/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366122495476",
       "price": "$19.95"
+    },
+    {
+      "id": "366122495620",
+      "title": "Erex Vital Capsules - Male Performance, Men's Health Supplement - 2 Pack",
+      "image": "https://i.ebayimg.com/images/g/ee8AAeSw8OtpZsBu/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366122495620",
+      "price": "$29.95"
     },
     {
       "id": "366122495796",
@@ -14427,6 +14420,13 @@
       "price": "$59.95"
     },
     {
+      "id": "366405573826",
+      "title": "NerveFluence Capsules, Natural Nerve Health Supplement Balance & Comfort 60ct",
+      "image": "https://i.ebayimg.com/images/g/kY8AAeSwtZBqBA6j/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366405573826",
+      "price": "$19.95"
+    },
+    {
       "id": "366405574060",
       "title": "NerveFluence Capsules, Natural Nerve Health Supplement Balance & Comfort -2 Pack",
       "image": "https://i.ebayimg.com/images/g/xWAAAeSw8ohqBA6o/s-l1600.jpg",
@@ -16555,13 +16555,6 @@
       "price": "$29.95"
     },
     {
-      "id": "366427017464",
-      "title": "Hunger Shield Capsules, HungerShield Supplement for Advanced Weight Loss -3 Pack",
-      "image": "https://i.ebayimg.com/images/g/VwMAAeSw12VqEG9X/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366427017464",
-      "price": "$39.95"
-    },
-    {
       "id": "366427017694",
       "title": "Hunger Shield Capsules, HungerShield Supplement for Advanced Weight Loss -5 Pack",
       "image": "https://i.ebayimg.com/images/g/i70AAeSw5vBqEG9d/s-l1600.jpg",
@@ -18221,13 +18214,6 @@
       "price": "$29.95"
     },
     {
-      "id": "366450786889",
-      "title": "Gluco Thrive Capsules, GlucoThrive Advanced Blood Support Supplement Pills - 3PK",
-      "image": "https://i.ebayimg.com/images/g/GewAAeSwEDtqHumK/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366450786889",
-      "price": "$39.95"
-    },
-    {
       "id": "366450787008",
       "title": "Gluco Thrive Capsules, GlucoThrive Advanced Blood Support Supplement Pills - 5PK",
       "image": "https://i.ebayimg.com/images/g/dXAAAeSwxEZqHump/s-l1600.jpg",
@@ -19563,6 +19549,13 @@
       "image": "https://i.ebayimg.com/images/g/~hcAAeSw6B9qMS9S/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366482756243",
       "price": "$29.95"
+    },
+    {
+      "id": "366482756391",
+      "title": "Visivol Capsules – Advanced Eyesight Supplement, Eye Health & Clear Vision - 3PK",
+      "image": "https://i.ebayimg.com/images/g/8WQAAeSweM5qMS9W/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366482756391",
+      "price": "$39.95"
     },
     {
       "id": "366482756831",
@@ -22743,6 +22736,13 @@
       "price": "$29.95"
     },
     {
+      "id": "366542008809",
+      "title": "Figur Boost Capsules - FigurBoost Advanced Weight Loss Support & Metabolism -3PK",
+      "image": "https://i.ebayimg.com/images/g/FBkAAeSwcUpqVjPZ/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366542008809",
+      "price": "$39.95"
+    },
+    {
       "id": "366542009206",
       "title": "Figur Boost Capsules - FigurBoost Advanced Weight Loss Support & Metabolism -5PK",
       "image": "https://i.ebayimg.com/images/g/v5EAAeSwx7pqVjPg/s-l1600.jpg",
@@ -25513,13 +25513,6 @@
       "image": "https://i.ebayimg.com/images/g/kPMAAeSwxMpqa2Zo/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366574828722",
       "price": "$19.95"
-    },
-    {
-      "id": "366574829237",
-      "title": "ManForge Capsules for Men, Man Forge Supplement Pills, Male Nutrition - 2 Pack",
-      "image": "https://i.ebayimg.com/images/g/t-MAAeSw1Klqa2iI/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366574829237",
-      "price": "$29.95"
     },
     {
       "id": "366574829504",
@@ -28497,6 +28490,13 @@
       "price": "$49.95"
     },
     {
+      "id": "366613083283",
+      "title": "JointLeaf Pro Capsules, Natural Joint Support Pills for Daily Mobility 60ct",
+      "image": "https://i.ebayimg.com/images/g/JVUAAeSwqn9qhCMg/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366613083283",
+      "price": "$19.95"
+    },
+    {
       "id": "366613083544",
       "title": "JointLeaf Pro Capsules, Natural Joint Support Pills for Daily Mobility - 2 Pack",
       "image": "https://i.ebayimg.com/images/g/-ncAAeSweAVqhCMl/s-l1600.jpg",
@@ -28642,13 +28642,6 @@
       "image": "https://i.ebayimg.com/images/g/RvEAAeSw7DBqhUuz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366615090918",
       "price": "$39.95"
-    },
-    {
-      "id": "366615091074",
-      "title": "Mind Excellium Capsules, Brain Health Support & Memory Pills - 5 Pack",
-      "image": "https://i.ebayimg.com/images/g/RfcAAeSwk7FqhUu4/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366615091074",
-      "price": "$59.95"
     },
     {
       "id": "366615122166",
