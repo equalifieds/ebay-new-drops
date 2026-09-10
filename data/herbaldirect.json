@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-10T16:54:53+00:00",
-  "count": 577,
+  "scraped_at": "2026-09-10T18:56:20+00:00",
+  "count": 578,
   "seen": [
     "153886790983",
     "153894822521",
@@ -581,13 +581,6 @@
   ],
   "products": [
     {
-      "id": "153638735258",
-      "title": "Candilex All Natural Formula  60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/ki8AAOSw45Vdd-1f/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/153638735258",
-      "price": "$24.99"
-    },
-    {
       "id": "153866202270",
       "title": "Liposomal Vitamin C Capsules High Absorption Immune Pills Supplements",
       "image": "https://i.ebayimg.com/images/g/qX0AAOSwktpebqN2/s-l1600.jpg",
@@ -999,6 +992,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -3848,6 +3848,13 @@
       "image": "https://i.ebayimg.com/images/g/7WIAAeSwKuRp5Tvq/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157845936276",
       "price": "$49.00"
+    },
+    {
+      "id": "157863423625",
+      "title": "SlimPic Advanced Daily Health Support Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/KU0AAeSwRZlp7nKR/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157863423625",
+      "price": "$39.00"
     },
     {
       "id": "157865432467",
