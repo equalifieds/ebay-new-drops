@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-09T22:53:39+00:00",
+  "scraped_at": "2026-09-10T00:57:59+00:00",
   "count": 578,
   "seen": [
     "153886790983",
@@ -2317,6 +2317,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157079298545",
+      "title": "SugarWell Blood Health Support Advanced Formula 60 Capsules of Sugar Well",
+      "image": "https://i.ebayimg.com/images/g/-8wAAOSwQbpoR2R9/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157079298545",
+      "price": "$39.00"
+    },
+    {
       "id": "157086051380",
       "title": "Blood Flow Pro Blood Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/KvoAAOSwNW1oSaKc/s-l1600.jpg",
@@ -3049,13 +3056,6 @@
       "title": "Nerve Restore Advanced Formula Nerve Health Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/SQIAAeSwuT9pEKmh/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157452008809",
-      "price": "$39.00"
-    },
-    {
-      "id": "157452549226",
-      "title": "Glyco Switch Blood Health and Weight Support Supplement 30 Capsules GlycoSwitch",
-      "image": "https://i.ebayimg.com/images/g/XIoAAeSwPJRpEPwV/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157452549226",
       "price": "$39.00"
     },
     {
