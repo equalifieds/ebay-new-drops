@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-10T02:55:27+00:00",
-  "count": 577,
+  "scraped_at": "2026-09-10T04:56:07+00:00",
+  "count": 579,
   "seen": [
     "153886790983",
     "153894822521",
@@ -3031,6 +3031,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157451954943",
+      "title": "Nervital Nerve Health and Blood Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/RuMAAeSw9n5pEKBT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157451954943",
+      "price": "$49.00"
+    },
+    {
       "id": "157451963336",
       "title": "Glycevia Blood Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/I8IAAeSwO5dpEKMw/s-l1600.jpg",
@@ -3049,6 +3056,13 @@
       "title": "Nerve Restore Advanced Formula Nerve Health Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/SQIAAeSwuT9pEKmh/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157452008809",
+      "price": "$39.00"
+    },
+    {
+      "id": "157452549226",
+      "title": "Glyco Switch Blood Health and Weight Support Supplement 30 Capsules GlycoSwitch",
+      "image": "https://i.ebayimg.com/images/g/XIoAAeSwPJRpEPwV/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157452549226",
       "price": "$39.00"
     },
     {
