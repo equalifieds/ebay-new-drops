@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-10T12:58:39+00:00",
-  "count": 576,
+  "scraped_at": "2026-09-10T14:56:53+00:00",
+  "count": 575,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1918,13 +1918,6 @@
       "price": "$39.00"
     },
     {
-      "id": "156934274234",
-      "title": "VitaFlow Vision Support Eye & Vision Health Supplement Genuine Vita Flow Vision",
-      "image": "https://i.ebayimg.com/images/g/1vwAAOSweyxoDqjO/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156934274234",
-      "price": "$39.00"
-    },
-    {
       "id": "156939480897",
       "title": "Blood Stabilizer Ultra Potency By Nano Earth Labs Genuine 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/xsAAAOSwSERoEOAl/s-l1600.jpg",
@@ -2447,13 +2440,6 @@
       "title": "ValaCore Joint Support Dietary Supplement Joint Health Balance 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/~qAAAeSw4g1obY7j/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157156779168",
-      "price": "$39.00"
-    },
-    {
-      "id": "157160760994",
-      "title": "Vital Mind Memory & Cognitive Support 30 Capsules Genuine VitalMind",
-      "image": "https://i.ebayimg.com/images/g/deoAAeSwDj5ob9Ly/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157160760994",
       "price": "$39.00"
     },
     {
@@ -4226,6 +4212,13 @@
       "image": "https://i.ebayimg.com/images/g/dscAAeSwp-1qPb1z/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158027604259",
       "price": "$49.00"
+    },
+    {
+      "id": "158035614152",
+      "title": "CardioFlush Blood Health Support Dietary Supplement 30 Capsules Cardio Flush",
+      "image": "https://i.ebayimg.com/images/g/x0AAAeSwFONqQWiW/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158035614152",
+      "price": "$39.00"
     },
     {
       "id": "158035933141",
