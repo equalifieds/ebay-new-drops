@@ -1,8 +1,8 @@
 {
   "store": "Vitakingz",
   "url": "https://www.ebay.com/str/vitakingz",
-  "scraped_at": "2026-09-10T07:14:58+00:00",
-  "count": 4002,
+  "scraped_at": "2026-09-10T09:11:39+00:00",
+  "count": 4000,
   "seen": [
     "364109863600",
     "364121781894",
@@ -9093,13 +9093,6 @@
       "price": "$39.95"
     },
     {
-      "id": "366122534162",
-      "title": "Lipo Forme Pro Drops, Fat Burner, Metabolism & Weight Loss Support - 5 Pack",
-      "image": "https://i.ebayimg.com/images/g/YL4AAeSwE3ppZsY-/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366122534162",
-      "price": "$59.95"
-    },
-    {
       "id": "366122544062",
       "title": "Lipo Flow Drops - Natural Energy, Metabolism & Weight Loss Support (30 serv)",
       "image": "https://i.ebayimg.com/images/g/SPgAAeSws-JpZsb2/s-l1600.jpg",
@@ -11487,6 +11480,13 @@
       "price": "$39.95"
     },
     {
+      "id": "366332388699",
+      "title": "Ultra Peak XL Gummies – Daily Energy, Stamina & Strength Support for Men -3 Pack",
+      "image": "https://i.ebayimg.com/images/g/h80AAeSwxmpp1Odo/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366332388699",
+      "price": "$49.95"
+    },
+    {
       "id": "366332406600",
       "title": "Enki Elixir Drops – Blood Support & Balance Liquid Supplement (30 servs.)",
       "image": "https://i.ebayimg.com/images/g/u1UAAeSw1bBp1Oq-/s-l1600.jpg",
@@ -13398,13 +13398,6 @@
       "price": "$59.95"
     },
     {
-      "id": "366390469710",
-      "title": "Memora Capsules – Premium Supplement for Memory, Focus & Brain Energy 60ct",
-      "image": "https://i.ebayimg.com/images/g/lccAAeSwZK1p-lWW/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366390469710",
-      "price": "$19.95"
-    },
-    {
       "id": "366390469943",
       "title": "Memora Capsules – Premium Supplement for Memory, Focus & Brain Energy - 2 Pack",
       "image": "https://i.ebayimg.com/images/g/6hMAAeSwEPFp-lW1/s-l1600.jpg",
@@ -13466,6 +13459,13 @@
       "image": "https://i.ebayimg.com/images/g/rrsAAeSw16pp-xc8/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366391761530",
       "price": "$29.95"
+    },
+    {
+      "id": "366391761885",
+      "title": "Vigorus Capsules for Men, Male Performance Supplement for Energy & Stamina - 3pk",
+      "image": "https://i.ebayimg.com/images/g/AugAAeSwX9xp-xdD/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366391761885",
+      "price": "$39.95"
     },
     {
       "id": "366391761982",
@@ -15169,6 +15169,13 @@
       "price": "$19.95"
     },
     {
+      "id": "366410818616",
+      "title": "SlimPal Capsules, Slim Pal Advanced Supplement for Weight Loss & Energy - 2 Pack",
+      "image": "https://i.ebayimg.com/images/g/mq8AAeSwJy5qByED/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366410818616",
+      "price": "$29.95"
+    },
+    {
       "id": "366410818684",
       "title": "SlimPal Capsules, Slim Pal Advanced Supplement for Weight Loss & Energy - 3 Pack",
       "image": "https://i.ebayimg.com/images/g/Se4AAeSwzJ1qByEG/s-l1600.jpg",
@@ -15440,13 +15447,6 @@
       "image": "https://i.ebayimg.com/images/g/X9gAAeSwbvhqCyX3/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366417362729",
       "price": "$39.95"
-    },
-    {
-      "id": "366417362915",
-      "title": "Virilan Capsules for Men, Premium Male Supplement for Energy & Stamina - 5 Pack",
-      "image": "https://i.ebayimg.com/images/g/9XkAAeSwn75qCyX6/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366417362915",
-      "price": "$59.95"
     },
     {
       "id": "366417381546",
@@ -16644,6 +16644,13 @@
       "image": "https://i.ebayimg.com/images/g/NRMAAeSwjiVqEpm4/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366430548348",
       "price": "$29.95"
+    },
+    {
+      "id": "366430548546",
+      "title": "Alpha Xploder Capsules for Men, Advanced Formula for Male Health & Energy -3Pack",
+      "image": "https://i.ebayimg.com/images/g/yFAAAeSwCbZqEpm6/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366430548546",
+      "price": "$39.95"
     },
     {
       "id": "366430548841",
@@ -24500,6 +24507,13 @@
       "price": "$59.95"
     },
     {
+      "id": "366571010221",
+      "title": "MindTrex Powder – Advanced Brain Supplement for Memory & Focus (30 Servs.)",
+      "image": "https://i.ebayimg.com/images/g/sq0AAeSwvA9qaMbk/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366571010221",
+      "price": "$39.95"
+    },
+    {
       "id": "366571010309",
       "title": "MindTrex Powder – Advanced Brain Supplement for Memory & Focus - 2 Pack",
       "image": "https://i.ebayimg.com/images/g/-IgAAeSw8QJqaMbo/s-l1600.jpg",
@@ -25478,13 +25492,6 @@
       "image": "https://i.ebayimg.com/images/g/Q9QAAeSw17Bqa2BF/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366574780547",
       "price": "$19.95"
-    },
-    {
-      "id": "366574781933",
-      "title": "Peak State Male Capsules, Advanced Formula Nutrition Support for Men - 3 Pack",
-      "image": "https://i.ebayimg.com/images/g/Vs0AAeSwrptqa2BS/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366574781933",
-      "price": "$39.95"
     },
     {
       "id": "366574781948",
@@ -26507,13 +26514,6 @@
       "image": "https://i.ebayimg.com/images/g/8YQAAeSwpAlqex~X/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366599079911",
       "price": "$59.95"
-    },
-    {
-      "id": "366599090597",
-      "title": "Flexorol Capsules, For Daily Joint Health & Mobility Support 60ct",
-      "image": "https://i.ebayimg.com/images/g/6s8AAeSws4lqeyfO/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366599090597",
-      "price": "$19.95"
     },
     {
       "id": "366599090715",
@@ -28236,13 +28236,6 @@
       "image": "https://i.ebayimg.com/images/g/zcYAAeSw7Slqgvac/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366611054705",
       "price": "$59.95"
-    },
-    {
-      "id": "366611113296",
-      "title": "Vigor Jelly Male Gummies, Advanced Performance & Vitality Support for Men 60ct",
-      "image": "https://i.ebayimg.com/images/g/lOwAAeSwM2lqgvzs/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366611113296",
-      "price": "$21.95"
     },
     {
       "id": "366611113380",
@@ -31078,13 +31071,6 @@
       "image": "https://i.ebayimg.com/images/g/m~QAAeSwEYJqntXo/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366654414066",
       "price": "$39.95"
-    },
-    {
-      "id": "366654414471",
-      "title": "Honey Balance Drops, Daily Metabolic Balance & Blood Support - 5 Pack",
-      "image": "https://i.ebayimg.com/images/g/l18AAeSww05qntXt/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366654414471",
-      "price": "$59.95"
     },
     {
       "id": "366654420800",
