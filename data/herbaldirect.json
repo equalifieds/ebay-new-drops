@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-11T08:56:15+00:00",
+  "scraped_at": "2026-09-11T10:55:09+00:00",
   "count": 576,
   "seen": [
     "153886790983",
@@ -987,6 +987,13 @@
       "price": "$33.95"
     },
     {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
+    },
+    {
       "id": "155122078304",
       "title": "Bloodsyl Advanced Health Support Supplement - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/CukAAOSwFI1i~Ai8/s-l1600.jpg",
@@ -1412,13 +1419,6 @@
       "image": "https://i.ebayimg.com/images/g/7aEAAOSw3ChmeHrP/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156269997712",
       "price": "$33.97"
-    },
-    {
-      "id": "156315094321",
-      "title": "GlucoGuard Blood Health Supplement Gluco Support - Genuine Gluco Guard",
-      "image": "https://i.ebayimg.com/images/g/WsoAAOSwjlFmnV4n/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156315094321",
-      "price": "$37.00"
     },
     {
       "id": "156315104001",
