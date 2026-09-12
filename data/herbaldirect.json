@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-12T20:55:37+00:00",
+  "scraped_at": "2026-09-12T22:53:53+00:00",
   "count": 577,
   "seen": [
     "153886790983",
@@ -3052,6 +3052,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157454306360",
+      "title": "Lipo Sculpt (LipoSculpt) Healthy Weight and Blood Support 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/mz8AAeSwlxdpEeif/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157454306360",
+      "price": "$39.00"
+    },
+    {
       "id": "157454315892",
       "title": "Memo Genesis Mind Memory & Cognitive Health Support 30 Capsules MemoGenesis",
       "image": "https://i.ebayimg.com/images/g/7u0AAeSw5zhpEett/s-l1600.jpg",
@@ -3560,13 +3567,6 @@
       "title": "Healthy Flow Immune System and Wellness Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/icAAAeSwUjNpsdDx/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157742998332",
-      "price": "$39.00"
-    },
-    {
-      "id": "157747173716",
-      "title": "Memopezil Mind & Memory Cognitive Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/IEcAAeSwUN9pszrc/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157747173716",
       "price": "$39.00"
     },
     {
