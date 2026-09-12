@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-12T02:54:25+00:00",
+  "scraped_at": "2026-09-12T04:54:02+00:00",
   "count": 576,
   "seen": [
     "153886790983",
@@ -819,13 +819,6 @@
       "price": "$29.00"
     },
     {
-      "id": "154573758906",
-      "title": "GlucoFlow Advanced Blood Sugar Upgraded Formula - New",
-      "image": "https://i.ebayimg.com/images/g/rWcAAOSwFu1gEJ1T/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/154573758906",
-      "price": "$49.00"
-    },
-    {
       "id": "154577566430",
       "title": "Hyperexol  Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/ALEAAOSwbm9dyegn/s-l1600.jpg",
@@ -966,13 +959,6 @@
       "price": "$29.95"
     },
     {
-      "id": "155068944119",
-      "title": "LeanBiome Probiotic To Promote Weight Management and Gut Health 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/AXMAAOSwx5ZiyE47/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155068944119",
-      "price": "$49.00"
-    },
-    {
       "id": "155068950774",
       "title": "FluxActive Complete Vital Prostate Wellness Formula 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/RM4AAOSwnLhiyFFt/s-l1600.jpg",
@@ -992,6 +978,13 @@
       "image": "https://i.ebayimg.com/images/g/duwAAOSwr-hi4C~1/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155092436920",
       "price": "$49.00"
+    },
+    {
+      "id": "155115236790",
+      "title": "TheyaVue Eye and Vision Health Support Formula - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115236790",
+      "price": "$33.95"
     },
     {
       "id": "155115244032",
@@ -1034,6 +1027,13 @@
       "image": "https://i.ebayimg.com/images/g/2FEAAOSw1ypjM2I1/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155181441413",
       "price": "$59.00"
+    },
+    {
+      "id": "155204800591",
+      "title": "ProDentim Probiotics For Healthy Teeth And Gums - 30 Soft Tablets - Genuine",
+      "image": "https://i.ebayimg.com/images/g/aqMAAOSw-lhjRd4y/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155204800591",
+      "price": "$49.00"
     },
     {
       "id": "155275981011",
@@ -2175,13 +2175,6 @@
       "image": "https://i.ebayimg.com/images/g/wPoAAOSw6SRoONB-/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157040219613",
       "price": "$49.00"
-    },
-    {
-      "id": "157040229863",
-      "title": "Vision Support Maximum Strength Eye Health Support 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/tKQAAOSwZR5oONGe/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157040229863",
-      "price": "$39.00"
     },
     {
       "id": "157040290264",
@@ -3903,6 +3896,13 @@
       "title": "ProstaPure Advantage Prostate Health Support Supplement 60 Capsules Prosta Pure",
       "image": "https://i.ebayimg.com/images/g/L9sAAeSwI3ZqAj50/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157902789094",
+      "price": "$39.00"
+    },
+    {
+      "id": "157902814813",
+      "title": "Uro Flow Mens Prostate Support Supplement 60 Capsules Genuine UroFlow",
+      "image": "https://i.ebayimg.com/images/g/gskAAeSw8ohqAkCI/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157902814813",
       "price": "$39.00"
     },
     {
