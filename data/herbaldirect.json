@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-11T22:53:02+00:00",
-  "count": 576,
+  "scraped_at": "2026-09-12T00:56:26+00:00",
+  "count": 575,
   "seen": [
     "153886790983",
     "153894822521",
@@ -991,6 +991,13 @@
       "title": "Protetox Powerful All Natural Formula 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/duwAAOSwr-hi4C~1/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155092436920",
+      "price": "$49.00"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
       "price": "$49.00"
     },
     {
@@ -3556,13 +3563,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157742998332",
-      "title": "Healthy Flow Immune System and Wellness Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/icAAAeSwUjNpsdDx/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157742998332",
-      "price": "$39.00"
-    },
-    {
       "id": "157747173716",
       "title": "Memopezil Mind & Memory Cognitive Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/IEcAAeSwUN9pszrc/s-l1600.jpg",
@@ -3896,13 +3896,6 @@
       "title": "ProstaPure Advantage Prostate Health Support Supplement 60 Capsules Prosta Pure",
       "image": "https://i.ebayimg.com/images/g/L9sAAeSwI3ZqAj50/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157902789094",
-      "price": "$39.00"
-    },
-    {
-      "id": "157902814813",
-      "title": "Uro Flow Mens Prostate Support Supplement 60 Capsules Genuine UroFlow",
-      "image": "https://i.ebayimg.com/images/g/gskAAeSw8ohqAkCI/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157902814813",
       "price": "$39.00"
     },
     {
