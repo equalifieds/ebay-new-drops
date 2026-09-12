@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-12T04:54:02+00:00",
+  "scraped_at": "2026-09-12T06:56:13+00:00",
   "count": 576,
   "seen": [
     "153886790983",
@@ -1386,13 +1386,6 @@
       "price": "$37.00"
     },
     {
-      "id": "156242596161",
-      "title": "Glycogen Support Blood Supplement By Sweet Relief - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/o6YAAOSw0XBmX40U/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156242596161",
-      "price": "$37.00"
-    },
-    {
       "id": "156245192175",
       "title": "Liv Pure Liver Health Support Supplement 60 Capsules of LivPure",
       "image": "https://i.ebayimg.com/images/g/U4IAAOSwYLVmYgEM/s-l1600.jpg",
@@ -2175,6 +2168,13 @@
       "image": "https://i.ebayimg.com/images/g/wPoAAOSw6SRoONB-/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157040219613",
       "price": "$49.00"
+    },
+    {
+      "id": "157040229863",
+      "title": "Vision Support Maximum Strength Eye Health Support 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/tKQAAOSwZR5oONGe/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157040229863",
+      "price": "$39.00"
     },
     {
       "id": "157040290264",
