@@ -1,8 +1,8 @@
 {
   "store": "Vitakingz",
   "url": "https://www.ebay.com/str/vitakingz",
-  "scraped_at": "2026-09-13T05:11:58+00:00",
-  "count": 4058,
+  "scraped_at": "2026-09-13T07:13:56+00:00",
+  "count": 4044,
   "seen": [
     "364109863600",
     "364121781894",
@@ -7595,20 +7595,6 @@
       "price": "$59.95"
     },
     {
-      "id": "366056181847",
-      "title": "Dentolyn Capsules, Advanced Oral and Dental Health Care Support- 3 Pack",
-      "image": "https://i.ebayimg.com/images/g/CJMAAeSw-Z5pPR2f/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366056181847",
-      "price": "$39.95"
-    },
-    {
-      "id": "366056185332",
-      "title": "Primo Boost TRT Gummies for Men, Advanced Male Performance Supplement - 2 Pack",
-      "image": "https://i.ebayimg.com/images/g/RV4AAeSwTGppPR46/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366056185332",
-      "price": "$39.95"
-    },
-    {
       "id": "366059866124",
       "title": "Ansiotratt Drops – Advanced Brain and Memory Supplement for Focus - 5 Pack",
       "image": "https://i.ebayimg.com/images/g/obMAAeSw4LBpQCKd/s-l1600.jpg",
@@ -7943,6 +7929,13 @@
       "image": "https://i.ebayimg.com/images/g/RjgAAeSw-ExpU7zz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366090765711",
       "price": "$59.95"
+    },
+    {
+      "id": "366090768679",
+      "title": "Brain Memo Capsules, BrainMemo for Advanced Brain and Memory Support 60ct",
+      "image": "https://i.ebayimg.com/images/g/SbMAAeSwDv9pU73B/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366090768679",
+      "price": "$19.95"
     },
     {
       "id": "366097136003",
@@ -10577,13 +10570,6 @@
       "price": "$79.95"
     },
     {
-      "id": "366299381984",
-      "title": "Memo Brew Powder – For Brain Focus, Memory, Clarity & Productivity - 5 Pack",
-      "image": "https://i.ebayimg.com/images/g/nRQAAeSwXslpwjMo/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366299381984",
-      "price": "$99.95"
-    },
-    {
       "id": "366299390483",
       "title": "Glytrix Capsules – Blood Support, Energy & Circulation Support Supplement (60ct)",
       "image": "https://i.ebayimg.com/images/g/EbMAAeSw7-tpwjRc/s-l1600.jpg",
@@ -11893,6 +11879,13 @@
       "price": "$21.95"
     },
     {
+      "id": "366334110196",
+      "title": "Power Surge Gummies for Men – Energy, Stamina, Strength & Male Support -2 Pack",
+      "image": "https://i.ebayimg.com/images/g/dxcAAeSwdX9p1gkL/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366334110196",
+      "price": "$39.95"
+    },
+    {
       "id": "366334110408",
       "title": "Power Surge Gummies for Men – Energy, Stamina, Strength & Male Support -3 Pack",
       "image": "https://i.ebayimg.com/images/g/fnsAAeSwP0hp1gkR/s-l1600.jpg",
@@ -12047,32 +12040,11 @@
       "price": "$59.95"
     },
     {
-      "id": "366344088410",
-      "title": "TestoVance Capsules – Male Support for Daily Energy, Strength & Vitality 60ct",
-      "image": "https://i.ebayimg.com/images/g/VqEAAeSwGYJp3JTN/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366344088410",
-      "price": "$19.95"
-    },
-    {
-      "id": "366344088545",
-      "title": "TestoVance Capsules – Male Support for Daily Energy, Strength & Vitality - 2 pk",
-      "image": "https://i.ebayimg.com/images/g/AzUAAeSwjGFp3JTm/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366344088545",
-      "price": "$29.95"
-    },
-    {
       "id": "366344088658",
       "title": "TestoVance Capsules – Male Support for Daily Energy, Strength & Vitality - 3 pk",
       "image": "https://i.ebayimg.com/images/g/UgAAAeSw3Hxp3JT2/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366344088658",
       "price": "$39.95"
-    },
-    {
-      "id": "366344088824",
-      "title": "TestoVance Capsules – Male Support for Daily Energy, Strength & Vitality - 5 pk",
-      "image": "https://i.ebayimg.com/images/g/~c8AAeSwDeVp3JUB/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366344088824",
-      "price": "$59.95"
     },
     {
       "id": "366344124211",
@@ -12528,13 +12500,6 @@
       "image": "https://i.ebayimg.com/images/g/-gUAAeSwe69p5w6q/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366359636323",
       "price": "$29.95"
-    },
-    {
-      "id": "366359636840",
-      "title": "Slim Force Capsules, SlimForce Pills for Healthy Weight, Metabolism Support -3pk",
-      "image": "https://i.ebayimg.com/images/g/yJkAAeSwAxtp5w6t/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366359636840",
-      "price": "$39.95"
     },
     {
       "id": "366359637306",
@@ -13025,13 +12990,6 @@
       "image": "https://i.ebayimg.com/images/g/W6sAAeSwSeRp8Jy0/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366374547892",
       "price": "$29.95"
-    },
-    {
-      "id": "366374548006",
-      "title": "Uroflux Pro + Capsules,  Natural Prostate Health Support Supplement for Men -3PK",
-      "image": "https://i.ebayimg.com/images/g/ad4AAeSwXCBp8JzF/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366374548006",
-      "price": "$39.95"
     },
     {
       "id": "366374548114",
@@ -13860,13 +13818,6 @@
       "price": "$59.95"
     },
     {
-      "id": "366401745630",
-      "title": "PureVantage Keto Gummies, Pure Vantage Keto ACV Supplement for Weight Loss 60ct",
-      "image": "https://i.ebayimg.com/images/g/ZpcAAeSwldpqAa6~/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366401745630",
-      "price": "$19.95"
-    },
-    {
       "id": "366401746127",
       "title": "PureVantage Keto Gummies, Pure Vantage Keto ACV Supplement for Weight Loss - 2pk",
       "image": "https://i.ebayimg.com/images/g/z1gAAeSwFbNqAa7K/s-l1600.jpg",
@@ -13893,13 +13844,6 @@
       "image": "https://i.ebayimg.com/images/g/-VsAAeSwPaJqAbGS/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366401758163",
       "price": "$29.95"
-    },
-    {
-      "id": "366401758255",
-      "title": "NovuMotion Capsules, Joint Support Supplement for Mobility & Flexibility -3 Pack",
-      "image": "https://i.ebayimg.com/images/g/xg8AAeSwcg9qAbGc/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366401758255",
-      "price": "$39.95"
     },
     {
       "id": "366401758370",
@@ -14427,13 +14371,6 @@
       "price": "$19.95"
     },
     {
-      "id": "366405623218",
-      "title": "Ketosis Labs Gummies – ACV Gummy Supplement for Weight Loss & Energy - 2 Pack",
-      "image": "https://i.ebayimg.com/images/g/MZIAAeSwZXNqBBYw/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366405623218",
-      "price": "$39.95"
-    },
-    {
       "id": "366405623406",
       "title": "Ketosis Labs Gummies – ACV Gummy Supplement for Weight Loss & Energy - 3 Pack",
       "image": "https://i.ebayimg.com/images/g/7kcAAeSwsj1qBBY0/s-l1600.jpg",
@@ -14488,27 +14425,6 @@
       "image": "https://i.ebayimg.com/images/g/pqsAAeSwevZqBB9D/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366405663394",
       "price": "$59.95"
-    },
-    {
-      "id": "366405672585",
-      "title": "NovuBurn Capsules, Novu Burn Supplement Weight Loss Support & Energy Pills 60ct",
-      "image": "https://i.ebayimg.com/images/g/qTAAAeSw3YRqBCGc/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366405672585",
-      "price": "$19.95"
-    },
-    {
-      "id": "366405672706",
-      "title": "NovuBurn Capsules, Novu Burn Supplement Weight Loss Support & Energy - 2 Pack",
-      "image": "https://i.ebayimg.com/images/g/fbUAAeSwWz1qBCGm/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366405672706",
-      "price": "$29.95"
-    },
-    {
-      "id": "366405672798",
-      "title": "NovuBurn Capsules, Novu Burn Supplement Weight Loss Support & Energy - 3 Pack",
-      "image": "https://i.ebayimg.com/images/g/hVAAAeSwANdqBCGr/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366405672798",
-      "price": "$39.95"
     },
     {
       "id": "366405672897",
@@ -14642,13 +14558,6 @@
       "image": "https://i.ebayimg.com/images/g/I3UAAeSwCmBqBCrg/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366405718266",
       "price": "$29.95"
-    },
-    {
-      "id": "366405718935",
-      "title": "ProstaMaster Drops, Natural Prostate Health Support, Prosta Master Pills -3 Pack",
-      "image": "https://i.ebayimg.com/images/g/jNIAAeSweUpqBCrt/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366405718935",
-      "price": "$39.95"
     },
     {
       "id": "366405719166",
@@ -17892,13 +17801,6 @@
       "price": "$39.95"
     },
     {
-      "id": "366448131787",
-      "title": "Erexiva Capsules, Potent Formula Male Supplement for Health & Vitality - 5 Pack",
-      "image": "https://i.ebayimg.com/images/g/2AEAAeSwALNqHW6L/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366448131787",
-      "price": "$59.95"
-    },
-    {
       "id": "366448144194",
       "title": "HorseBoost Male Gummies, Horse Boost Performance Gummy Supplement for Men 60ct",
       "image": "https://i.ebayimg.com/images/g/D5AAAeSwxEZqHW-x/s-l1600.jpg",
@@ -18016,13 +17918,6 @@
       "image": "https://i.ebayimg.com/images/g/WkoAAeSwCitqHXlz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366448271744",
       "price": "$29.95"
-    },
-    {
-      "id": "366448272181",
-      "title": "Neurocell Capsules, Neuro Cell Advanced Brain Supplement for Memory - 3 Pack",
-      "image": "https://i.ebayimg.com/images/g/RscAAeSwHjBqHXl1/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366448272181",
-      "price": "$39.95"
     },
     {
       "id": "366448272539",
@@ -18380,6 +18275,13 @@
       "image": "https://i.ebayimg.com/images/g/2HUAAeSwuXBqHzPH/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366451294670",
       "price": "$29.95"
+    },
+    {
+      "id": "366451294999",
+      "title": "OctoForce Capsules, Octo Force Advanced Supplement, Sharp Focus & Vitality -3PK",
+      "image": "https://i.ebayimg.com/images/g/U44AAeSwFGdqHzPN/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366451294999",
+      "price": "$39.95"
     },
     {
       "id": "366451295368",
@@ -20531,6 +20433,13 @@
       "price": "$39.95"
     },
     {
+      "id": "366512135194",
+      "title": "HyperPrime Capsules for Men - Hyper Prime Energy & Male Performance - 5 Pack",
+      "image": "https://i.ebayimg.com/images/g/tdEAAeSwbvBqQ1Eb/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366512135194",
+      "price": "$59.95"
+    },
+    {
       "id": "366512208730",
       "title": "Memo Matrix Capsules, MemoMatrix Supplement, Brain Health & Memory (60 Capsules)",
       "image": "https://i.ebayimg.com/images/g/Dq0AAeSww31qQ18e/s-l1600.jpg",
@@ -21537,6 +21446,13 @@
       "image": "https://i.ebayimg.com/images/g/O2QAAeSwQUtqS~Yy/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366526268965",
       "price": "$29.95"
+    },
+    {
+      "id": "366526269067",
+      "title": "HoneyPezil Capsules, Advanced Honey Pezil Memory & Brain Supplement - 3 Pack",
+      "image": "https://i.ebayimg.com/images/g/qZIAAeSwAZtqS~Y6/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366526269067",
+      "price": "$39.95"
     },
     {
       "id": "366526269168",
@@ -27076,6 +26992,13 @@
       "price": "$21.95"
     },
     {
+      "id": "366602671948",
+      "title": "Go Glow Gummies, Advanced Beauty and Body Formula, Skin Support Gummy - 2 Pack",
+      "image": "https://i.ebayimg.com/images/g/GvIAAeSwQ0FqfXMx/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/366602671948",
+      "price": "$39.95"
+    },
+    {
       "id": "366602671991",
       "title": "Go Glow Gummies, Advanced Beauty and Body Formula, Skin Support Gummy - 3 Pack",
       "image": "https://i.ebayimg.com/images/g/V3QAAeSwbjtqfXM4/s-l1600.jpg",
@@ -28560,13 +28483,6 @@
       "price": "$59.95"
     },
     {
-      "id": "366615090532",
-      "title": "Mind Excellium Capsules, Brain Health Support & Memory Pills (60 Count)",
-      "image": "https://i.ebayimg.com/images/g/Yo4AAeSw02JqhUus/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366615090532",
-      "price": "$19.95"
-    },
-    {
       "id": "366615090798",
       "title": "Mind Excellium Capsules, Brain Health Support & Memory Pills - 2 Pack",
       "image": "https://i.ebayimg.com/images/g/S7sAAeSwxFVqhUuu/s-l1600.jpg",
@@ -29307,13 +29223,6 @@
       "image": "https://i.ebayimg.com/images/g/SYoAAeSwhthqjUhH/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366627300231",
       "price": "$19.95"
-    },
-    {
-      "id": "366627300432",
-      "title": "Vigorfil Capsules, Male Nutrition, Men Energy & Performance Support - 2 Pack",
-      "image": "https://i.ebayimg.com/images/g/6T8AAeSw-qlqjUhL/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366627300432",
-      "price": "$29.95"
     },
     {
       "id": "366627300615",
@@ -31015,13 +30924,6 @@
       "image": "https://i.ebayimg.com/images/g/m~QAAeSwEYJqntXo/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/366654414066",
       "price": "$39.95"
-    },
-    {
-      "id": "366654414471",
-      "title": "Honey Balance Drops, Daily Metabolic Balance & Blood Support - 5 Pack",
-      "image": "https://i.ebayimg.com/images/g/l18AAeSww05qntXt/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/366654414471",
-      "price": "$59.95"
     },
     {
       "id": "366654420800",
