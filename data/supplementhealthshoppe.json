@@ -1,8 +1,8 @@
 {
   "store": "VitaminRush Health Shop",
   "url": "https://www.ebay.com/str/supplementhealthshoppe",
-  "scraped_at": "2026-09-13T15:02:51+00:00",
-  "count": 9461,
+  "scraped_at": "2026-09-13T17:04:27+00:00",
+  "count": 9389,
   "seen": [
     "285508218939",
     "285508220294",
@@ -10641,13 +10641,6 @@
       "price": "$69.95"
     },
     {
-      "id": "285508221112",
-      "title": "Keto Fuel Capsules - Keto Fuel Supplement For Weight Loss ORIGINAL - 1 Pack",
-      "image": "https://i.ebayimg.com/images/g/K-8AAOSwxnxk5sVF/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/285508221112",
-      "price": "$19.95"
-    },
-    {
       "id": "285508221113",
       "title": "(5 Pack) Herbal Virility Max Men Pills for Male Support & Energy (300 Capsules)",
       "image": "https://i.ebayimg.com/images/g/ne0AAOSwJ5Bls0JX/s-l1600.jpg",
@@ -11017,13 +11010,6 @@
       "image": "https://i.ebayimg.com/images/g/pRQAAOSw9TNlnLsa/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/285508221549",
       "price": "$38.95"
-    },
-    {
-      "id": "285508221550",
-      "title": "G6 Keto Gummies - G6 Keto ACV Gummys For Weight Loss ORIGINAL - 3 Pack",
-      "image": "https://i.ebayimg.com/images/g/TF8AAOSwQRZlFIbl/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/285508221550",
-      "price": "$54.95"
     },
     {
       "id": "285508221551",
@@ -11502,6 +11488,13 @@
       "price": "$24.45"
     },
     {
+      "id": "285508221626",
+      "title": "Keto GMY Gummies - Keto GMY ACV Gummys For Weight Loss ORIGINAL - 1 Pack",
+      "image": "https://i.ebayimg.com/images/g/qUEAAOSwcHtk6QLc/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/285508221626",
+      "price": "$19.45"
+    },
+    {
       "id": "285508221627",
       "title": "(5 Pack) Pineal XT, PinealXT Pineal Gland Support & Energy Pills (300 Capsules)",
       "image": "https://i.ebayimg.com/images/g/6isAAOSwLm1lxSmx/s-l1600.jpg",
@@ -11521,13 +11514,6 @@
       "image": "https://i.ebayimg.com/images/g/6lYAAOSwkohk7Axx/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/285508221629",
       "price": "$19.95"
-    },
-    {
-      "id": "285508221630",
-      "title": "You Can Keto Gummies - You Can Keto ACV Gummys For Weight Loss ORIGINAL - 5 Pack",
-      "image": "https://i.ebayimg.com/images/g/1OUAAOSww01k7Asj/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/285508221630",
-      "price": "$69.95"
     },
     {
       "id": "285508221631",
@@ -11633,6 +11619,13 @@
       "image": "https://i.ebayimg.com/images/g/iNYAAOSwdM5k6lwH/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/285508221649",
       "price": "$38.95"
+    },
+    {
+      "id": "285508221650",
+      "title": "(3 Pack) Keto Chews ACV Gummies, Keto Chews Keto Weight Loss (180 Gummies)",
+      "image": "https://i.ebayimg.com/images/g/Ol0AAOSw35dlrQ0A/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/285508221650",
+      "price": "$43.95"
     },
     {
       "id": "285508221652",
@@ -15163,6 +15156,13 @@
       "price": "$74.95"
     },
     {
+      "id": "285708044135",
+      "title": "Volumil, Volumil Tinnitus Supplement for Ringing Ears & Ear Health (60 Capsules)",
+      "image": "https://i.ebayimg.com/images/g/Q4gAAOSwNG9lz9BL/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/285708044135",
+      "price": "$29.95"
+    },
+    {
       "id": "285708045011",
       "title": "(2 Pack) Volumil, Volumil Tinnitus Supplement for Ringing Ears (120 Capsules)",
       "image": "https://i.ebayimg.com/images/g/7HYAAOSwdvJlz9Hb/s-l1600.jpg",
@@ -16962,25 +16962,11 @@
       "price": "$44.95"
     },
     {
-      "id": "285838025642",
-      "title": "(3 Pack) Ketoxpert Keto Gummies, Keto Xpert ACV Keto+ Weight Loss (180 Gummies)",
-      "image": "https://i.ebayimg.com/images/g/i4sAAOSwIEFmMSab/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/285838025642",
-      "price": "$59.95"
-    },
-    {
       "id": "285838027754",
       "title": "(5 Pack) Ketoxpert Keto Gummies, Keto Xpert ACV Keto+ Weight Loss (300 Gummies)",
       "image": "https://i.ebayimg.com/images/g/IVQAAOSwFPNmMSdZ/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/285838027754",
       "price": "$74.95"
-    },
-    {
-      "id": "285838031313",
-      "title": "Biopeak for Male, Bio Peak Advanced Formula Men Support Pills (60 Capsules)",
-      "image": "https://i.ebayimg.com/images/g/LugAAOSwRjlmMSik/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/285838031313",
-      "price": "$17.95"
     },
     {
       "id": "285838031814",
@@ -17324,13 +17310,6 @@
       "image": "https://i.ebayimg.com/images/g/TEoAAOSwPz9mMW59/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/285838291082",
       "price": "$37.95"
-    },
-    {
-      "id": "285838293058",
-      "title": "(3 Pack) Prostabiome Maximum Strength Prostate Formula Pills (180 Capsules)",
-      "image": "https://i.ebayimg.com/images/g/YvEAAOSwC3NmMW69/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/285838293058",
-      "price": "$49.95"
     },
     {
       "id": "285838293535",
@@ -17914,6 +17893,13 @@
       "price": "$44.95"
     },
     {
+      "id": "285860417057",
+      "title": "(3 Pack) Elite Burn Keto Gummies, Elite Burn ACV Keto Weight Loss (180 Gummies)",
+      "image": "https://i.ebayimg.com/images/g/lvcAAOSwaw1mRNWI/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/285860417057",
+      "price": "$59.95"
+    },
+    {
       "id": "285860419722",
       "title": "(5 Pack) Elite Burn Keto Gummies, Elite Burn ACV Keto Weight Loss (300 Gummies)",
       "image": "https://i.ebayimg.com/images/g/K7oAAOSw3nFmRNXb/s-l1600.jpg",
@@ -17926,13 +17912,6 @@
       "image": "https://i.ebayimg.com/images/g/3ycAAOSw0XZmRNfr/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/285860434400",
       "price": "$29.95"
-    },
-    {
-      "id": "285860436749",
-      "title": "(2 Pack) Fresh Health Keto Gummies, Fresh Health ACV Weight Loss (120 Gummies)",
-      "image": "https://i.ebayimg.com/images/g/2tMAAOSwP2RmRNhr/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/285860436749",
-      "price": "$44.95"
     },
     {
       "id": "285860439058",
@@ -18145,13 +18124,6 @@
       "price": "$74.95"
     },
     {
-      "id": "285870868056",
-      "title": "Core Slim Advanced Keto Formula, Core Slim Plus Keto Support (60 Capsules)",
-      "image": "https://i.ebayimg.com/images/g/MUIAAOSwuQJmTTap/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/285870868056",
-      "price": "$29.95"
-    },
-    {
       "id": "285870870303",
       "title": "(2 Pack) Core Slim Advanced Keto Formula, Core Slim Keto Support (120 Capsules)",
       "image": "https://i.ebayimg.com/images/g/EnkAAOSwjqRmTTb8/s-l1600.jpg",
@@ -18299,13 +18271,6 @@
       "price": "$44.95"
     },
     {
-      "id": "285906308273",
-      "title": "(3 Pack) True Keto Gummies, True Keto ACV Gummies Weight Loss (180 Gummies)",
-      "image": "https://i.ebayimg.com/images/g/scMAAOSwEW1macv~/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/285906308273",
-      "price": "$59.95"
-    },
-    {
       "id": "285906308738",
       "title": "(5 Pack) True Keto Gummies, True Keto ACV Gummies Weight Loss (300 Gummies)",
       "image": "https://i.ebayimg.com/images/g/W2gAAOSwne9macxB/s-l1600.jpg",
@@ -18395,13 +18360,6 @@
       "image": "https://i.ebayimg.com/images/g/5IoAAOSw6G9mhV-C/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/285939752621",
       "price": "$69.95"
-    },
-    {
-      "id": "285949397656",
-      "title": "Sugar Shield Blood Support Capsules, Sugar Shield Blood Flow Pills (60 Capsules)",
-      "image": "https://i.ebayimg.com/images/g/3wAAAOSwSiRmjCQW/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/285949397656",
-      "price": "$18.95"
     },
     {
       "id": "285949400139",
@@ -18528,13 +18486,6 @@
       "image": "https://i.ebayimg.com/images/g/pTkAAOSwfd5mlqc7/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/285964001621",
       "price": "$37.95"
-    },
-    {
-      "id": "285964002488",
-      "title": "(5 Pack) Cellucare Advanced Blood Sugar Support Promote Circulation 300 Capsules",
-      "image": "https://i.ebayimg.com/images/g/5GAAAOSwJuxmlqd0/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/285964002488",
-      "price": "$59.95"
     },
     {
       "id": "285964015043",
@@ -20117,13 +20068,6 @@
       "image": "https://i.ebayimg.com/images/g/YckAAOSwxcxmqgN8/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/285987266870",
       "price": "$59.95"
-    },
-    {
-      "id": "285987268752",
-      "title": "Stimula Blood Sugar Support - Balanced Blood Sugar and Well-Being (5 Pack)",
-      "image": "https://i.ebayimg.com/images/g/Z8cAAOSweFlmqgPp/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/285987268752",
-      "price": "$79.95"
     },
     {
       "id": "285987317310",
@@ -22289,13 +22233,6 @@
       "price": "$24.95"
     },
     {
-      "id": "286009410223",
-      "title": "Eagle Eye X20 - Enhance Daily Focus and Visual Sharpness (3 Pack)",
-      "image": "https://i.ebayimg.com/images/g/VBAAAOSwZb9mu0mm/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286009410223",
-      "price": "$38.95"
-    },
-    {
       "id": "286009414443",
       "title": "Eagle Eye X20 - Enhance Daily Focus and Visual Sharpness (5 Pack)",
       "image": "https://i.ebayimg.com/images/g/VM0AAOSwaV9mu0qH/s-l1600.jpg",
@@ -22728,13 +22665,6 @@
       "image": "https://i.ebayimg.com/images/g/xJAAAOSwFzdmv~rr/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286015198082",
       "price": "$27.95"
-    },
-    {
-      "id": "286015199391",
-      "title": "Size Revive Plus Male Enhancing Gummies - Men's Performance Support (2 Pack)",
-      "image": "https://i.ebayimg.com/images/g/-tQAAOSwj-dmv~t8/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286015199391",
-      "price": "$49.95"
     },
     {
       "id": "286015201120",
@@ -23360,13 +23290,6 @@
       "price": "$49.95"
     },
     {
-      "id": "286022143790",
-      "title": "Sugar Detox Advanced Blood Support Supplement 5 Pack",
-      "image": "https://i.ebayimg.com/images/g/IT0AAOSwkc9mxZ0~/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286022143790",
-      "price": "$69.95"
-    },
-    {
       "id": "286022183352",
       "title": "Blood Support Breakthrough - Support Blood Health and Daily Wellness 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/H8QAAOSwQPxmxaYM/s-l1600.jpg",
@@ -23785,13 +23708,6 @@
       "image": "https://i.ebayimg.com/images/g/75sAAOSwgvlmyHNg/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286025821926",
       "price": "$69.95"
-    },
-    {
-      "id": "286025829543",
-      "title": "Quick Fit Blood Drops Supports Daily Wellness and Overall Health (1 Pack)",
-      "image": "https://i.ebayimg.com/images/g/fjUAAOSwtKdmyHXm/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286025829543",
-      "price": "$19.95"
     },
     {
       "id": "286025831215",
@@ -24312,13 +24228,6 @@
       "price": "$49.95"
     },
     {
-      "id": "286035273348",
-      "title": "LungSoothe Premium Blood Drops Advanced Formula Supports Blood Health (5 Pack)",
-      "image": "https://i.ebayimg.com/images/g/ag4AAOSwwlZm0IIh/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286035273348",
-      "price": "$69.95"
-    },
-    {
       "id": "286036297438",
       "title": "Sonic Serene Tinnitus Drops Supports Advanced Relief for Daily Comfort (1 Pack)",
       "image": "https://i.ebayimg.com/images/g/s8cAAOSwUrlm0WSr/s-l1600.jpg",
@@ -24450,13 +24359,6 @@
       "image": "https://i.ebayimg.com/images/g/VlkAAOSwauNm0Yv2/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286036443541",
       "price": "$49.95"
-    },
-    {
-      "id": "286036445709",
-      "title": "Mita Thin Supports Weight Management, Metabolism and Boosts Energy (5 Pack)",
-      "image": "https://i.ebayimg.com/images/g/JscAAOSwwpNm0Yy9/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286036445709",
-      "price": "$69.95"
     },
     {
       "id": "286036463210",
@@ -25047,6 +24949,13 @@
       "price": "$69.95"
     },
     {
+      "id": "286053704975",
+      "title": "Keto Burner Keto ACV Gummies Advanced Formula for Weight Management 60 Gummies",
+      "image": "https://i.ebayimg.com/images/g/-AIAAOSwfmpm3-57/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/286053704975",
+      "price": "$29.95"
+    },
+    {
       "id": "286053711064",
       "title": "Keto Burner Keto ACV Gummies Advanced Formula for Weight Management (2 Pack)",
       "image": "https://i.ebayimg.com/images/g/ed0AAOSwAWtm3--X/s-l1600.jpg",
@@ -25369,6 +25278,13 @@
       "price": "$49.95"
     },
     {
+      "id": "286057058919",
+      "title": "Vita Rise Male Pills Supports Peak Performance and Vitality (5 Pack)",
+      "image": "https://i.ebayimg.com/images/g/C4gAAOSwVVtm4vYX/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/286057058919",
+      "price": "$69.95"
+    },
+    {
       "id": "286057073614",
       "title": "Neurolon High Performance Promotes Alertness and Brain Health 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/q8IAAOSw4AZm4vcZ/s-l1600.jpg",
@@ -25446,13 +25362,6 @@
       "price": "$49.95"
     },
     {
-      "id": "286058207631",
-      "title": "Dental Defender Oral Probiotic Supports Teeth and Gum Health (5 Pack)",
-      "image": "https://i.ebayimg.com/images/g/UX4AAOSw3F5m4~SD/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286058207631",
-      "price": "$69.95"
-    },
-    {
       "id": "286058215265",
       "title": "OptiBlend Keto+ACV Gummies Maximum Strength Support Weight Management 60 Gummies",
       "image": "https://i.ebayimg.com/images/g/VUkAAOSwVsFm4~XK/s-l1600.jpg",
@@ -25521,6 +25430,13 @@
       "image": "https://i.ebayimg.com/images/g/xtAAAOSwjkZm4~-i/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286058264115",
       "price": "$39.95"
+    },
+    {
+      "id": "286058269961",
+      "title": "Male Force Male Pills Supports Energy, Strength and Performance (3 Pack)",
+      "image": "https://i.ebayimg.com/images/g/kaUAAOSwImpm5ACp/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/286058269961",
+      "price": "$49.95"
     },
     {
       "id": "286058272718",
@@ -26550,13 +26466,6 @@
       "image": "https://i.ebayimg.com/images/g/2aEAAOSwc5xm~6SY/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286091683337",
       "price": "$29.95"
-    },
-    {
-      "id": "286091690320",
-      "title": "Keto Titan Keto ACV Gummies Promotes Weight Management (3 Pack)",
-      "image": "https://i.ebayimg.com/images/g/3xgAAOSwJq1m~6Vs/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286091690320",
-      "price": "$39.95"
     },
     {
       "id": "286091691744",
@@ -28029,13 +27938,6 @@
       "price": "$19.95"
     },
     {
-      "id": "286162771578",
-      "title": "(2 Pack) MD+ME Male Enhancement Pills - Maximize Energy, Vitality & Stamina",
-      "image": "https://i.ebayimg.com/images/g/-N4AAOSwM-VnNfXy/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286162771578",
-      "price": "$39.95"
-    },
-    {
       "id": "286162773917",
       "title": "(3 Pack) MD+ME Male Enhancement Pills - Maximize Energy, Vitality & Stamina",
       "image": "https://i.ebayimg.com/images/g/xS8AAOSwWjVnNfY5/s-l1600.jpg",
@@ -28358,13 +28260,6 @@
       "price": "$69.95"
     },
     {
-      "id": "286170193944",
-      "title": "(1 Pack) Endura Prime Male Pills - Maximize Energy, Vitality & Stamina 60ct",
-      "image": "https://i.ebayimg.com/images/g/~EsAAOSw1chnO7pB/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286170193944",
-      "price": "$19.95"
-    },
-    {
       "id": "286170196415",
       "title": "(2 Pack) Endura Prime Male Pills - Maximize Energy, Vitality & Stamina 120ct",
       "image": "https://i.ebayimg.com/images/g/BOQAAOSwqCRnO7sH/s-l1600.jpg",
@@ -28566,13 +28461,6 @@
       "image": "https://i.ebayimg.com/images/g/MB4AAOSwLC1nPQUv/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286171958737",
       "price": "$39.95"
-    },
-    {
-      "id": "286171959611",
-      "title": "(3 Pack) Alpha Boost Pro Male Pills - Maximize Energy, Vitality & Stamina 180ct",
-      "image": "https://i.ebayimg.com/images/g/nwUAAOSw9SlnPQVo/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286171959611",
-      "price": "$49.95"
     },
     {
       "id": "286171960625",
@@ -28881,13 +28769,6 @@
       "image": "https://i.ebayimg.com/images/g/deMAAOSwtBRnTnFB/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286195983960",
       "price": "$49.95"
-    },
-    {
-      "id": "286195984819",
-      "title": "(5 Pack) Tonosin Pro Max Pills For Ear Health Support & Tinnitus Relief, 300ct",
-      "image": "https://i.ebayimg.com/images/g/Q7UAAOSwzE5nTnGg/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286195984819",
-      "price": "$69.95"
     },
     {
       "id": "286196118310",
@@ -29485,11 +29366,11 @@
       "price": "$19.95"
     },
     {
-      "id": "286206964986",
-      "title": "(2 Pack) Vigor Pump Gummies for Men Advanced Drive and Energy Support 120 Gums",
-      "image": "https://i.ebayimg.com/images/g/kbMAAOSwcd9nVyn1/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286206964986",
-      "price": "$44.95"
+      "id": "286206967400",
+      "title": "(3 Pack) Vigor Pump Gummies for Men Advanced Drive and Energy Support 180 Gums",
+      "image": "https://i.ebayimg.com/images/g/p2QAAOSwpkhnVyo7/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/286206967400",
+      "price": "$59.95"
     },
     {
       "id": "286206968643",
@@ -30934,13 +30815,6 @@
       "price": "$19.95"
     },
     {
-      "id": "286244529667",
-      "title": "(2 Pack) Nerve Forte Pills - Nerve Health & Cognitive Support Supplement 120ct",
-      "image": "https://i.ebayimg.com/images/g/8AgAAOSwsB5ndvsG/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286244529667",
-      "price": "$39.95"
-    },
-    {
       "id": "286244531243",
       "title": "(3 Pack) Nerve Forte Pills - Nerve Health & Cognitive Support Supplement 180ct",
       "image": "https://i.ebayimg.com/images/g/hywAAOSwO9pndvtd/s-l1600.jpg",
@@ -31443,13 +31317,6 @@
       "image": "https://i.ebayimg.com/images/g/dSoAAOSwIVFngWkI/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286257841168",
       "price": "$39.95"
-    },
-    {
-      "id": "286257842212",
-      "title": "Glyco Peak Advanced Formula Blood Support Balance Supplement 180 Capsules",
-      "image": "https://i.ebayimg.com/images/g/-j0AAOSwJitngWlQ/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286257842212",
-      "price": "$49.95"
     },
     {
       "id": "286257842959",
@@ -32999,13 +32866,6 @@
       "price": "$59.95"
     },
     {
-      "id": "286299920134",
-      "title": "Max Blood Boost Formula Glycogen Support Advanced Glyco Optimizer, 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/3f4AAOSwQxpnoUtO/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286299920134",
-      "price": "$19.95"
-    },
-    {
       "id": "286299921738",
       "title": "Max Blood Boost Formula Glycogen Support Advanced Glyco Optimizer, 120 Capsules",
       "image": "https://i.ebayimg.com/images/g/RKgAAOSwl4ZnoUuc/s-l1600.jpg",
@@ -33076,13 +32936,6 @@
       "price": "$39.95"
     },
     {
-      "id": "286299938603",
-      "title": "Vert3X Perk Male Pills Advanced Vitality Support Formula Supplement 300 Capsules",
-      "image": "https://i.ebayimg.com/images/g/trYAAOSweihnoU99/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286299938603",
-      "price": "$59.95"
-    },
-    {
       "id": "286299942485",
       "title": "Electro Hard Male Pills Advanced Vitality Support Formula Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/BnYAAOSwyhpnoVA0/s-l1600.jpg",
@@ -33130,13 +32983,6 @@
       "image": "https://i.ebayimg.com/images/g/pNgAAOSwxy9noVK5/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286299951915",
       "price": "$39.95"
-    },
-    {
-      "id": "286299952580",
-      "title": "Mito Boost Keto Pills Advanced Weight Loss Support Maximum Strength 300 Capsules",
-      "image": "https://i.ebayimg.com/images/g/s7oAAOSw3zBnoVL9/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286299952580",
-      "price": "$59.95"
     },
     {
       "id": "286299955448",
@@ -35050,13 +34896,6 @@
       "price": "$19.95"
     },
     {
-      "id": "286469110339",
-      "title": "Lipid Control Plus Pill Advanced Balance Support Formula Supplement 120 Capsules",
-      "image": "https://i.ebayimg.com/images/g/O5cAAOSwJk9n9B85/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286469110339",
-      "price": "$29.95"
-    },
-    {
       "id": "286469117005",
       "title": "Lipid Control Plus Pill Advanced Balance Support Formula Supplement 180 Capsules",
       "image": "https://i.ebayimg.com/images/g/AzkAAOSwMPNn9B-n/s-l1600.jpg",
@@ -35776,13 +35615,6 @@
       "image": "https://i.ebayimg.com/images/g/USMAAOSwVUdoD7w7/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286528262934",
       "price": "$29.95"
-    },
-    {
-      "id": "286528265037",
-      "title": "Sacral Nectar Drops for Women Advanced Formula Balance Support 30 Servings",
-      "image": "https://i.ebayimg.com/images/g/CkgAAOSw69doD7ys/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286528265037",
-      "price": "$39.95"
     },
     {
       "id": "286528267172",
@@ -36744,13 +36576,6 @@
       "price": "$59.95"
     },
     {
-      "id": "286565802432",
-      "title": "Glyco Nix Advanced Formula Drops Natural Blood Support Supplement 30 Servings",
-      "image": "https://i.ebayimg.com/images/g/H2EAAOSwriloI3kY/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286565802432",
-      "price": "$19.95"
-    },
-    {
       "id": "286565804946",
       "title": "Glyco Nix Advanced Formula Drops Natural Blood Support Supplement 30 Servings",
       "image": "https://i.ebayimg.com/images/g/CEoAAOSwbHFoI3mi/s-l1600.jpg",
@@ -36959,13 +36784,6 @@
       "image": "https://i.ebayimg.com/images/g/2xUAAOSwmg5oM2-v/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286596787484",
       "price": "$39.95"
-    },
-    {
-      "id": "286596789311",
-      "title": "Ourlyard Blood Support Advanced Glycogen Maximum Formula Supplement 300 Capsules",
-      "image": "https://i.ebayimg.com/images/g/AsQAAOSwHZdoM2~n/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286596789311",
-      "price": "$59.95"
     },
     {
       "id": "286596795054",
@@ -37183,13 +37001,6 @@
       "image": "https://i.ebayimg.com/images/g/EcUAAOSwS55oNxH2/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286603745971",
       "price": "$36.95"
-    },
-    {
-      "id": "286603746575",
-      "title": "Glucoplus Advanced Formula All Natural Glyco Support Formula Gluco Plus 300 Caps",
-      "image": "https://i.ebayimg.com/images/g/Q4gAAOSwnCxoNxIo/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286603746575",
-      "price": "$57.95"
     },
     {
       "id": "286603748207",
@@ -37556,13 +37367,6 @@
       "price": "$59.95"
     },
     {
-      "id": "286640600558",
-      "title": "Lipobound Drops Max Strength Keto Formula Weight Management Supplement 60ML",
-      "image": "https://i.ebayimg.com/images/g/oSgAAOSwU9hoSH~D/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286640600558",
-      "price": "$19.95"
-    },
-    {
       "id": "286648816720",
       "title": "Lipobound Drops Max Strength Keto Formula Weight Management Supplement 60ML",
       "image": "https://i.ebayimg.com/images/g/C88AAOSwzqxoTFmp/s-l1600.jpg",
@@ -37701,13 +37505,6 @@
       "image": "https://i.ebayimg.com/images/g/r1UAAOSw9ddoUbob/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286659040255",
       "price": "$19.95"
-    },
-    {
-      "id": "286659043908",
-      "title": "Sugagen Pro Blood Advanced Formula Glycogen Max Support Supplement 120 Capsules",
-      "image": "https://i.ebayimg.com/images/g/LgMAAOSwychoUbpv/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286659043908",
-      "price": "$29.95"
     },
     {
       "id": "286659044331",
@@ -38312,13 +38109,6 @@
       "price": "$59.95"
     },
     {
-      "id": "286667378010",
-      "title": "Snail Complex Joint Support Pill Freedom to Move Vitamin Formula 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/XKQAAOSw5wVoVvoo/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286667378010",
-      "price": "$19.95"
-    },
-    {
       "id": "286667380745",
       "title": "Snail Complex Joint Support Pill Freedom to Move Vitamin Formula 120 Capsules",
       "image": "https://i.ebayimg.com/images/g/J2YAAOSw411oVvrM/s-l1600.jpg",
@@ -38667,13 +38457,6 @@
       "image": "https://i.ebayimg.com/images/g/tnsAAOSwFMloWZIh/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286670670471",
       "price": "$39.95"
-    },
-    {
-      "id": "286670671627",
-      "title": "Sciatica Pro + Advanced Support Formula Maximum Strength Vitamin 300 Capsules",
-      "image": "https://i.ebayimg.com/images/g/1Z8AAOSwuLFoWZKA/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286670671627",
-      "price": "$59.95"
     },
     {
       "id": "286670675870",
@@ -40459,20 +40242,6 @@
       "image": "https://i.ebayimg.com/images/g/RdoAAeSwuIdoeoOF/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286715453519",
       "price": "$39.95"
-    },
-    {
-      "id": "286715456962",
-      "title": "(5 Pack) Lymphaflo Pills Support Daily Balance and Overall Wellness 300 Capsules",
-      "image": "https://i.ebayimg.com/images/g/WcUAAeSwfmtoeoPY/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286715456962",
-      "price": "$59.95"
-    },
-    {
-      "id": "286722019094",
-      "title": "(1 Pack) Enduraxe Prime for Men Advanced Formula Vitamin Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/BtwAAeSwW5VofnEh/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286722019094",
-      "price": "$19.95"
     },
     {
       "id": "286722020776",
@@ -42526,13 +42295,6 @@
       "price": "$29.95"
     },
     {
-      "id": "286771911962",
-      "title": "(3 Pack) Gluco Gone Blood Support Drops Advanced Vitamin Supplement 90 Servings",
-      "image": "https://i.ebayimg.com/images/g/P9cAAeSwCsFoowvb/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286771911962",
-      "price": "$39.95"
-    },
-    {
       "id": "286771913514",
       "title": "(5 Pack) Gluco Gone Blood Support Drops Advanced Vitamin Supplement 150 Servings",
       "image": "https://i.ebayimg.com/images/g/CqQAAeSw5YNooww0/s-l1600.jpg",
@@ -42692,13 +42454,6 @@
       "image": "https://i.ebayimg.com/images/g/vWcAAeSwe2xoo14c/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286772334059",
       "price": "$29.95"
-    },
-    {
-      "id": "286772335492",
-      "title": "(3 Pack) BioCell Blood Health Support Bio Cell Glycogen Vitamin 180 Capsules",
-      "image": "https://i.ebayimg.com/images/g/wggAAeSw5xhoo16M/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286772335492",
-      "price": "$39.95"
     },
     {
       "id": "286772337364",
@@ -43555,13 +43310,6 @@
       "price": "$19.95"
     },
     {
-      "id": "286791488796",
-      "title": "(2 Pack) Uro Flow for Men Prostate Health & Urinary Support Supplement 120 Caps",
-      "image": "https://i.ebayimg.com/images/g/eSkAAeSwCQBosdkE/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286791488796",
-      "price": "$29.95"
-    },
-    {
       "id": "286791489554",
       "title": "(3 Pack) Uro Flow for Men Prostate Health & Urinary Support Supplement 180 Caps",
       "image": "https://i.ebayimg.com/images/g/iXUAAeSwE~losdlQ/s-l1600.jpg",
@@ -43833,13 +43581,6 @@
       "image": "https://i.ebayimg.com/images/g/MfAAAeSwlVtouF9u/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286800402193",
       "price": "$19.95"
-    },
-    {
-      "id": "286800405393",
-      "title": "(2 Pack) Hero Up for Men Advanced Max Formula Vitamin Supplement 120 Capsules",
-      "image": "https://i.ebayimg.com/images/g/ecAAAeSwtSRouF~R/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286800405393",
-      "price": "$29.95"
     },
     {
       "id": "286800408916",
@@ -44955,13 +44696,6 @@
       "price": "$19.95"
     },
     {
-      "id": "286875951617",
-      "title": "(2 Pack) Primal Lion Male Gummies Advanced Vitamin Max Supplement 120 Gummies",
-      "image": "https://i.ebayimg.com/images/g/8mkAAeSwrZho7VYl/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286875951617",
-      "price": "$29.95"
-    },
-    {
       "id": "286875952524",
       "title": "(3 Pack) Primal Lion Male Gummies Advanced Vitamin Max Supplement 180 Gummies",
       "image": "https://i.ebayimg.com/images/g/SvoAAeSwx8ho7VZ6/s-l1600.jpg",
@@ -45739,13 +45473,6 @@
       "price": "$19.95"
     },
     {
-      "id": "286892251278",
-      "title": "(2 Pack) Melt Jaro Max Natural Energy & Fitness Support Supplement 120 Capsules",
-      "image": "https://i.ebayimg.com/images/g/DMIAAeSwvZxo-QiL/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286892251278",
-      "price": "$29.95"
-    },
-    {
       "id": "286892253131",
       "title": "(3 Pack) Melt Jaro Max Natural Energy & Fitness Support Supplement 180 Capsules",
       "image": "https://i.ebayimg.com/images/g/6i0AAeSwPWJo-Qlq/s-l1600.jpg",
@@ -46129,13 +45856,6 @@
       "image": "https://i.ebayimg.com/images/g/j9gAAeSwP2Jo-8SG/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286896027790",
       "price": "$19.95"
-    },
-    {
-      "id": "286896028677",
-      "title": "(2 Pack) Magnum Xtreme for Men Advanced Formula Vitamin Supplement 120 Capsules",
-      "image": "https://i.ebayimg.com/images/g/nD8AAeSwZ19o-8Tl/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286896028677",
-      "price": "$29.95"
     },
     {
       "id": "286896029294",
@@ -46684,13 +46404,6 @@
       "price": "$39.95"
     },
     {
-      "id": "286905426024",
-      "title": "(5 Pack) Alpha Blend Pills for Men Advanced Formula Vitamin Supplement 300 Caps",
-      "image": "https://i.ebayimg.com/images/g/o-IAAeSwY~ppAkXf/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286905426024",
-      "price": "$59.95"
-    },
-    {
       "id": "286905431330",
       "title": "(1 Pack) Glycovent Bone and Cartilage Advanced Mobility Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/qaAAAeSwVLdpAkdF/s-l1600.jpg",
@@ -46759,13 +46472,6 @@
       "image": "https://i.ebayimg.com/images/g/PDYAAeSwduJpA7dk/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286907576777",
       "price": "$29.95"
-    },
-    {
-      "id": "286907577618",
-      "title": "(3 Pack) Blue Horse Salt Trick For Men Advanced Supplement BlueHorse 180 Caps",
-      "image": "https://i.ebayimg.com/images/g/Nb0AAeSwPkZpA7ea/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286907577618",
-      "price": "$39.95"
     },
     {
       "id": "286907579751",
@@ -47914,13 +47620,6 @@
       "image": "https://i.ebayimg.com/images/g/yekAAeSwBW5pFONA/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286934574898",
       "price": "$39.95"
-    },
-    {
-      "id": "286934576854",
-      "title": "(5 Pack) Slimique Advanced Formula Natural Energy & Fitness Vitamin 300 Capsules",
-      "image": "https://i.ebayimg.com/images/g/kYwAAeSwY0NpFOOR/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286934576854",
-      "price": "$59.95"
     },
     {
       "id": "286934633648",
@@ -49323,13 +49022,6 @@
       "price": "$59.95"
     },
     {
-      "id": "286967581326",
-      "title": "(1 Pack) NeuroSena Advanced Mobility & Nerve Supplement Neuro Sena 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/GzUAAeSw0gVpJJnD/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286967581326",
-      "price": "$19.95"
-    },
-    {
       "id": "286967582170",
       "title": "(2 Pack) NeuroSena Advanced Mobility & Nerve Supplement Neuro Sena 120 Capsules",
       "image": "https://i.ebayimg.com/images/g/I08AAeSwgnRpJJp5/s-l1600.jpg",
@@ -49792,6 +49484,13 @@
       "price": "$39.95"
     },
     {
+      "id": "286971953285",
+      "title": "(5 Pack) Memo Rise Advanced Nootropic Formula Brain Supplement MemoRise 300 Caps",
+      "image": "https://i.ebayimg.com/images/g/PEQAAeSwjVBpJ0AG/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/286971953285",
+      "price": "$59.95"
+    },
+    {
       "id": "286973920468",
       "title": "(1 Pack) Neuro Vance Nootropic Formula Brain Supplement NeuroVance 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/sjwAAeSwm6tpKGdz/s-l1600.jpg",
@@ -50049,13 +49748,6 @@
       "image": "https://i.ebayimg.com/images/g/5aMAAeSwE~JpLeHf/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/286982755675",
       "price": "$19.95"
-    },
-    {
-      "id": "286982757169",
-      "title": "(2 Pack) Thrive XXL Male Gummys Advanced Formula ThriveXXL Vitamin 120 Gummies",
-      "image": "https://i.ebayimg.com/images/g/l8AAAeSwlyJpLeJT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/286982757169",
-      "price": "$29.95"
     },
     {
       "id": "286982758457",
@@ -52158,13 +51850,6 @@
       "price": "$29.95"
     },
     {
-      "id": "287042978275",
-      "title": "Regula Root Pro Probiotic Gut Health Formula Enhance Digestive Function 180 Caps",
-      "image": "https://i.ebayimg.com/images/g/EVAAAeSweXppU-55/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287042978275",
-      "price": "$39.95"
-    },
-    {
       "id": "287042979634",
       "title": "Regula Root Pro Probiotic Gut Health Formula Enhance Digestive Function 300 Caps",
       "image": "https://i.ebayimg.com/images/g/eicAAeSwTfhpU-7I/s-l1600.jpg",
@@ -52247,13 +51932,6 @@
       "image": "https://i.ebayimg.com/images/g/IecAAeSwj8VpVAck/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287043100797",
       "price": "$39.95"
-    },
-    {
-      "id": "287043104467",
-      "title": "(5 Pack) Mens Upflow Male Support Supplement Advanced Mens Up flow 300 Capsules",
-      "image": "https://i.ebayimg.com/images/g/UmsAAeSwj59pVAds/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287043104467",
-      "price": "$59.95"
     },
     {
       "id": "287043126563",
@@ -52688,20 +52366,6 @@
       "image": "https://i.ebayimg.com/images/g/cf0AAeSwwQ1pV-tU/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287048817974",
       "price": "$29.95"
-    },
-    {
-      "id": "287048823285",
-      "title": "(3 Pack) Prostan Plus Advanced Prostate & Bladder Support Formula 180 Capsules",
-      "image": "https://i.ebayimg.com/images/g/eTwAAeSwQZBpV-ur/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287048823285",
-      "price": "$39.95"
-    },
-    {
-      "id": "287048824234",
-      "title": "(5 Pack) Prostan Plus Advanced Prostate & Bladder Support Formula 300 Capsules",
-      "image": "https://i.ebayimg.com/images/g/faAAAeSw~eVpV-wD/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287048824234",
-      "price": "$59.95"
     },
     {
       "id": "287048843678",
@@ -53579,13 +53243,6 @@
       "price": "$19.95"
     },
     {
-      "id": "287072533760",
-      "title": "(2 Pack) Glucosyl Advanced Blood Support Formula Supplement Gluco Syl 120 Caps",
-      "image": "https://i.ebayimg.com/images/g/XJ4AAeSw6o1pZnRw/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287072533760",
-      "price": "$29.95"
-    },
-    {
       "id": "287072534910",
       "title": "(3 Pack) Glucosyl Advanced Blood Support Formula Supplement Gluco Syl 180 Caps",
       "image": "https://i.ebayimg.com/images/g/slAAAeSwGblpZnTB/s-l1600.jpg",
@@ -53640,20 +53297,6 @@
       "image": "https://i.ebayimg.com/images/g/GDQAAeSwBM9pZoYx/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287072624684",
       "price": "$29.95"
-    },
-    {
-      "id": "287072625504",
-      "title": "(3 Pack) Light Steps Pro Advanced Joints Support Formula Supplement 180 Capsules",
-      "image": "https://i.ebayimg.com/images/g/P0IAAeSwAZFpZoZ9/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287072625504",
-      "price": "$39.95"
-    },
-    {
-      "id": "287072628147",
-      "title": "(5 Pack) Light Steps Pro Advanced Joints Support Formula Supplement 300 Capsules",
-      "image": "https://i.ebayimg.com/images/g/xF8AAeSwhWNpZobM/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287072628147",
-      "price": "$59.95"
     },
     {
       "id": "287074948763",
@@ -55441,6 +55084,13 @@
       "price": "$39.95"
     },
     {
+      "id": "287106219933",
+      "title": "(5 Pack) EroXT Advanced Male Pill Ero XT Formula Vitamin Supplement 300 Capsules",
+      "image": "https://i.ebayimg.com/images/g/evMAAeSw9nlpejbw/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/287106219933",
+      "price": "$59.95"
+    },
+    {
       "id": "287106245354",
       "title": "(1 Pack) Vitabion Blood Support Drops Vita Bion Vitamin Supplement 30 Servings",
       "image": "https://i.ebayimg.com/images/g/bgkAAeSwvOBpejqI/s-l1600.jpg",
@@ -55600,13 +55250,6 @@
       "image": "https://i.ebayimg.com/images/g/FgwAAeSwZfBpfNCi/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287110533630",
       "price": "$39.95"
-    },
-    {
-      "id": "287110534810",
-      "title": "(5 Pack) Prost Power Male Support Drops ProstPower Advanced Supplement 150 Servs",
-      "image": "https://i.ebayimg.com/images/g/zeMAAeSw~JVpfNDm/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287110534810",
-      "price": "$59.95"
     },
     {
       "id": "287110573081",
@@ -56412,13 +56055,6 @@
       "image": "https://i.ebayimg.com/images/g/Gm4AAeSwOtdphNYA/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287123970644",
       "price": "$32.95"
-    },
-    {
-      "id": "287123971347",
-      "title": "(5 Pack) Memopezil Nootropic All Natural Brain Supplement Memo Pezil 300 Capsule",
-      "image": "https://i.ebayimg.com/images/g/zckAAeSwVWFphNZ0/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287123971347",
-      "price": "$49.49"
     },
     {
       "id": "287123993433",
@@ -57658,27 +57294,6 @@
       "image": "https://i.ebayimg.com/images/g/cEwAAeSwzq5pj2PZ/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287140316706",
       "price": "$19.95"
-    },
-    {
-      "id": "287140318069",
-      "title": "(2 Pack) Honey Trick Nootropic Natural Brain Supplement HoneyTrick 120 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ja0AAeSwcJ5pj2SC/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287140318069",
-      "price": "$29.95"
-    },
-    {
-      "id": "287140319154",
-      "title": "(3 Pack) Honey Trick Nootropic Natural Brain Supplement HoneyTrick 180 Capsules",
-      "image": "https://i.ebayimg.com/images/g/-OgAAeSwsDBpj2TN/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287140319154",
-      "price": "$39.95"
-    },
-    {
-      "id": "287140319904",
-      "title": "(5 Pack) Honey Trick Nootropic Natural Brain Supplement HoneyTrick 300 Capsules",
-      "image": "https://i.ebayimg.com/images/g/K6oAAeSwmBVpj2UY/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287140319904",
-      "price": "$59.95"
     },
     {
       "id": "287140329042",
@@ -59571,13 +59186,6 @@
       "price": "$29.95"
     },
     {
-      "id": "287193352839",
-      "title": "(3 Pack) Claritox Pro Nootropic Natural Brain Supplement ClaritoxPro 180 Capsule",
-      "image": "https://i.ebayimg.com/images/g/2LsAAeSwWK1psFP~/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287193352839",
-      "price": "$39.95"
-    },
-    {
       "id": "287193354927",
       "title": "(5 Pack) Claritox Pro Nootropic Natural Brain Supplement ClaritoxPro 300 Capsule",
       "image": "https://i.ebayimg.com/images/g/-9sAAeSw9vJpsFRi/s-l1600.jpg",
@@ -59660,13 +59268,6 @@
       "image": "https://i.ebayimg.com/images/g/ZpoAAeSwfyppsZ2X/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287195425557",
       "price": "$39.95"
-    },
-    {
-      "id": "287195426423",
-      "title": "(5 Pack) Coramin Pills Advanced Blood Support Supplement Cora Min 300 Capsules",
-      "image": "https://i.ebayimg.com/images/g/d9sAAeSwscxpsZ3h/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287195426423",
-      "price": "$59.95"
     },
     {
       "id": "287195447392",
@@ -59814,6 +59415,13 @@
       "image": "https://i.ebayimg.com/images/g/HjwAAeSw4v9pstxj/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287197941838",
       "price": "$19.95"
+    },
+    {
+      "id": "287197943537",
+      "title": "(2 Pack) Glucogon Pro Advanced Blood Support Supplement GlucogonPro 120 Capsules",
+      "image": "https://i.ebayimg.com/images/g/p0oAAeSw~dxpstzy/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/287197943537",
+      "price": "$29.95"
     },
     {
       "id": "287197946061",
@@ -60514,13 +60122,6 @@
       "image": "https://i.ebayimg.com/images/g/ZFYAAeSwKyBpuuCW/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287214953367",
       "price": "$29.95"
-    },
-    {
-      "id": "287214955796",
-      "title": "(3 Pack) Purple Lean Drops Health & Fitness Supplement PurpleLean 90 Servings",
-      "image": "https://i.ebayimg.com/images/g/YkUAAeSw~WxpuuDl/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287214955796",
-      "price": "$39.95"
     },
     {
       "id": "287214958871",
@@ -61298,13 +60899,6 @@
       "image": "https://i.ebayimg.com/images/g/Z0gAAeSwi5hpyq9i/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287242974694",
       "price": "$29.95"
-    },
-    {
-      "id": "287242977200",
-      "title": "(3 Pack) Honeycept Nootropic All Natural Brain Supplement Honey Cept 180 Capsule",
-      "image": "https://i.ebayimg.com/images/g/sOYAAeSwUxBpyq~O/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287242977200",
-      "price": "$39.95"
     },
     {
       "id": "287242980590",
@@ -62525,6 +62119,13 @@
       "price": "$19.95"
     },
     {
+      "id": "287272244003",
+      "title": "(2 Pack) NervX Nootropic All Natural Super Nerve Supplement Nerv X 120 Capsules",
+      "image": "https://i.ebayimg.com/images/g/vOUAAeSwGYJp3lrc/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/287272244003",
+      "price": "$29.95"
+    },
+    {
       "id": "287272245577",
       "title": "(3 Pack) NervX Nootropic All Natural Super Nerve Supplement Nerv X 180 Capsules",
       "image": "https://i.ebayimg.com/images/g/OnkAAeSwQp1p3ls4/s-l1600.jpg",
@@ -62656,13 +62257,6 @@
       "image": "https://i.ebayimg.com/images/g/ujoAAeSwyMZp4PPS/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287275998224",
       "price": "$19.95"
-    },
-    {
-      "id": "287275999229",
-      "title": "(2 Pack) Lungvita Drops Advanced Lungs Support Formula Lung Vita 60 Servings",
-      "image": "https://i.ebayimg.com/images/g/9EEAAeSwEaNp4PR5/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287275999229",
-      "price": "$29.95"
     },
     {
       "id": "287276000211",
@@ -63239,13 +62833,6 @@
       "price": "$59.95"
     },
     {
-      "id": "287285991079",
-      "title": "(1 Pack) Artro Joint Advanced Joints & Mobility Support ArtroJoint 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Yi4AAeSwPw9p58iB/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287285991079",
-      "price": "$19.95"
-    },
-    {
       "id": "287285992207",
       "title": "(2 Pack) Artro Joint Advanced Joints & Mobility Support ArtroJoint 120 Capsules",
       "image": "https://i.ebayimg.com/images/g/zeQAAeSw6Ydp58lG/s-l1600.jpg",
@@ -63384,13 +62971,6 @@
       "image": "https://i.ebayimg.com/images/g/CfAAAeSw0lVp6Qrd/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287288003094",
       "price": "$29.95"
-    },
-    {
-      "id": "287288004659",
-      "title": "(2 Pack) Lean Bean Powder Max Support For Weight Management LeanBean 60 Servings",
-      "image": "https://i.ebayimg.com/images/g/i1YAAeSwSihp6Qv~/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287288004659",
-      "price": "$39.95"
     },
     {
       "id": "287288006059",
@@ -63972,13 +63552,6 @@
       "image": "https://i.ebayimg.com/images/g/SZsAAeSwkxVp8325/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287303464620",
       "price": "$59.95"
-    },
-    {
-      "id": "287303535481",
-      "title": "(1 Pack) Max Vitalize Advanced Male Support Supplement MaxVitalize 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/kDEAAeSwwatp84PO/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287303535481",
-      "price": "$19.95"
     },
     {
       "id": "287303536804",
@@ -65815,13 +65388,6 @@
       "price": "$29.95"
     },
     {
-      "id": "287352871117",
-      "title": "(3 Pack) Memory Prime Nootropic Natural Brain Supplement MemoryPrime 180 Capsule",
-      "image": "https://i.ebayimg.com/images/g/SgYAAeSw6YZqFHoH/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287352871117",
-      "price": "$39.95"
-    },
-    {
       "id": "287352872967",
       "title": "(5 Pack) Memory Prime Nootropic Natural Brain Supplement MemoryPrime 300 Capsule",
       "image": "https://i.ebayimg.com/images/g/XNIAAeSwOhNqFHpN/s-l1600.jpg",
@@ -66597,6 +66163,13 @@
       "image": "https://i.ebayimg.com/images/g/vWUAAeSw7XdqHvP6/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287369758442",
       "price": "$29.95"
+    },
+    {
+      "id": "287369759479",
+      "title": "(3 Pack) NovuBrain+ For Brain Health & Cognitive Support Novu Brain+ 180 Capsule",
+      "image": "https://i.ebayimg.com/images/g/BqEAAeSw~llqHvRY/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/287369759479",
+      "price": "$39.95"
     },
     {
       "id": "287369760732",
@@ -68622,13 +68195,6 @@
       "price": "$56.95"
     },
     {
-      "id": "287420583949",
-      "title": "(1 Pack) Prostaveda Advanced Prostate & Bladder Support Prosta Veda 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/a-oAAeSw7UBqPpzo/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287420583949",
-      "price": "$19.95"
-    },
-    {
       "id": "287420586844",
       "title": "(2 Pack) Prostaveda Advanced Prostate & Bladder Support Prosta Veda 120 Capsules",
       "image": "https://i.ebayimg.com/images/g/nt8AAeSwK3ZqPp3q/s-l1600.jpg",
@@ -68711,13 +68277,6 @@
       "image": "https://i.ebayimg.com/images/g/DhEAAeSweeRqPrEG/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287420697789",
       "price": "$19.95"
-    },
-    {
-      "id": "287420698861",
-      "title": "(2 Pack) Urofix Advanced Prostate & Bladder Support Formula Uro Fix 120 Capsules",
-      "image": "https://i.ebayimg.com/images/g/FN0AAeSwrrZqPrGK/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287420698861",
-      "price": "$29.95"
     },
     {
       "id": "287420699814",
@@ -68902,13 +68461,6 @@
       "price": "$59.95"
     },
     {
-      "id": "287427133972",
-      "title": "(1 Pack) Sugar Burn Blood Support Drops SugarBurn Vitamin Supplement 30 Servings",
-      "image": "https://i.ebayimg.com/images/g/D1UAAeSwYclqQqr3/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287427133972",
-      "price": "$19.95"
-    },
-    {
       "id": "287427135413",
       "title": "(2 Pack) Sugar Burn Blood Support Drops SugarBurn Vitamin Supplement 60 Servings",
       "image": "https://i.ebayimg.com/images/g/G5AAAeSwXOVqQqt3/s-l1600.jpg",
@@ -68963,13 +68515,6 @@
       "image": "https://i.ebayimg.com/images/g/iMEAAeSwiIVqkbpd/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287427168577",
       "price": "$19.95"
-    },
-    {
-      "id": "287427169444",
-      "title": "(2 Pack) Sodatide Probiotic Gut Health & Digestive Function Support 120 Capsules",
-      "image": "https://i.ebayimg.com/images/g/JQsAAeSw3vtqkbp6/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287427169444",
-      "price": "$29.95"
     },
     {
       "id": "287427223195",
@@ -69509,13 +69054,6 @@
       "image": "https://i.ebayimg.com/images/g/MYUAAeSwp7RqRpT~/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287433735392",
       "price": "$39.95"
-    },
-    {
-      "id": "287433736034",
-      "title": "(5 Pack) Aurex Vitalis Advanced Blood Health Support AurexVitalis 300 Capsules",
-      "image": "https://i.ebayimg.com/images/g/EDcAAeSwtCNqRpU~/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287433736034",
-      "price": "$59.95"
     },
     {
       "id": "287433745490",
@@ -70295,6 +69833,13 @@
       "price": "$39.95"
     },
     {
+      "id": "287458848701",
+      "title": "(5 Pack) Vital Max XXL Gums Advanced Male Support Formula VitalmaxXXL 300 Gummys",
+      "image": "https://i.ebayimg.com/images/g/WFoAAeSw~oJqVRHK/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/287458848701",
+      "price": "$59.95"
+    },
+    {
       "id": "287458859139",
       "title": "(1 Pack) Gluco Control Advanced Blood Support Formula GlucoControl 60 Capules",
       "image": "https://i.ebayimg.com/images/g/UX0AAeSwws5qVRN9/s-l1600.jpg",
@@ -70307,13 +69852,6 @@
       "image": "https://i.ebayimg.com/images/g/3QQAAeSwzZZqVRPh/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287458860157",
       "price": "$29.95"
-    },
-    {
-      "id": "287458861358",
-      "title": "(3 Pack) Gluco Control Advanced Blood Support Formula GlucoControl 180 Capules",
-      "image": "https://i.ebayimg.com/images/g/mDYAAeSwz-BqVRQi/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287458861358",
-      "price": "$39.95"
     },
     {
       "id": "287458862494",
@@ -70370,13 +69908,6 @@
       "image": "https://i.ebayimg.com/images/g/iHgAAeSwt25qVS1n/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287459077476",
       "price": "$39.95"
-    },
-    {
-      "id": "287459078576",
-      "title": "(5 Pack) Hyperprime Gummy Advanced Male Support Formula Hyper Prime 300 Gummies",
-      "image": "https://i.ebayimg.com/images/g/jm4AAeSw4oNqVS2r/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287459078576",
-      "price": "$59.95"
     },
     {
       "id": "287459092502",
@@ -70582,6 +70113,13 @@
       "price": "$19.95"
     },
     {
+      "id": "287461276990",
+      "title": "(2 Pack) GL Control Blood Health Support Drops GLControl Supplement 60 Servings",
+      "image": "https://i.ebayimg.com/images/g/00gAAeSw24RqVmS7/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/287461276990",
+      "price": "$29.95"
+    },
+    {
       "id": "287461290653",
       "title": "(3 Pack) GL Control Blood Health Support Drops GLControl Supplement 90 Servings",
       "image": "https://i.ebayimg.com/images/g/p5oAAeSwFKNqVmT2/s-l1600.jpg",
@@ -70622,13 +70160,6 @@
       "image": "https://i.ebayimg.com/images/g/IMAAAeSwW0ZqVnJg/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287461406212",
       "price": "$59.95"
-    },
-    {
-      "id": "287461415258",
-      "title": "(1 Pack) Nerve Reset Nootropic Nerve Support Supplement NerveReset 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/CQkAAeSwOzFqVnRe/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287461415258",
-      "price": "$19.95"
     },
     {
       "id": "287461416295",
@@ -71000,13 +70531,6 @@
       "image": "https://i.ebayimg.com/images/g/4ksAAeSwsFZqXjov/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287473921776",
       "price": "$29.95"
-    },
-    {
-      "id": "287473924298",
-      "title": "(3 Pack) ErektoMax Advanced Male Health Support Supplement Erekto Max 180 Caps",
-      "image": "https://i.ebayimg.com/images/g/H48AAeSwpx9qXjpu/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287473924298",
-      "price": "$39.95"
     },
     {
       "id": "287473927833",
@@ -72395,13 +71919,6 @@
       "price": "$29.95"
     },
     {
-      "id": "287507465530",
-      "title": "(3 Pack) JellyBlue Gummys Male Health Support Supplement Jelly Blue 180 Capsules",
-      "image": "https://i.ebayimg.com/images/g/tvgAAeSwG5pqdJda/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287507465530",
-      "price": "$39.95"
-    },
-    {
       "id": "287507467735",
       "title": "(5 Pack) JellyBlue Gummys Male Health Support Supplement Jelly Blue 300 Capsules",
       "image": "https://i.ebayimg.com/images/g/daAAAeSwFkJqdJea/s-l1600.jpg",
@@ -73081,13 +72598,6 @@
       "price": "$59.95"
     },
     {
-      "id": "287520970422",
-      "title": "(1 Pack) Neuro Cinnamon Advanced Joints & Mobility Support NeuroCinnamon 60 Cap",
-      "image": "https://i.ebayimg.com/images/g/SlYAAeSwIGNqfLKI/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287520970422",
-      "price": "$19.95"
-    },
-    {
       "id": "287520971609",
       "title": "(2 Pack) Neuro Cinnamon Advanced Joints & Mobility Support NeuroCinnamon 120 Cap",
       "image": "https://i.ebayimg.com/images/g/84AAAeSwCz5qfLMB/s-l1600.jpg",
@@ -73303,13 +72813,6 @@
       "image": "https://i.ebayimg.com/images/g/aTYAAeSwv8xqfffc/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287523018436",
       "price": "$59.95"
-    },
-    {
-      "id": "287523047831",
-      "title": "(1 Pack) Boster Advanced Male Health Support Supplement Bos Ter 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/~hAAAeSwBVhqffwK/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287523047831",
-      "price": "$19.95"
     },
     {
       "id": "287523048559",
@@ -75459,13 +74962,6 @@
       "image": "https://i.ebayimg.com/images/g/YPcAAeSwiRRqovnM/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/287578650951",
       "price": "$59.95"
-    },
-    {
-      "id": "287578663569",
-      "title": "Memo Volt Nootropic Natural Brain Health Support Supplement MemoVolt 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/UvsAAeSw6alqovsi/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/287578663569",
-      "price": "$19.95"
     },
     {
       "id": "287578664600",
