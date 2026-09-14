@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-14T08:57:20+00:00",
+  "scraped_at": "2026-09-14T10:55:34+00:00",
   "count": 581,
   "seen": [
     "153886790983",
@@ -999,6 +999,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -3449,13 +3456,6 @@
       "image": "https://i.ebayimg.com/images/g/nS8AAeSwjoxph6Ir/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157667030143",
       "price": "$39.00"
-    },
-    {
-      "id": "157667056376",
-      "title": "MemoCept Mind Memory & Cognitive Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/2u8AAeSwbcxph6Xh/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157667056376",
-      "price": "$49.00"
     },
     {
       "id": "157667071170",
