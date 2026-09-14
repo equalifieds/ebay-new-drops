@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-14T18:59:07+00:00",
-  "count": 581,
+  "scraped_at": "2026-09-14T20:55:32+00:00",
+  "count": 580,
   "seen": [
     "153886790983",
     "153894822521",
@@ -3157,13 +3157,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157465940711",
-      "title": "Zanari Mens Health Supplement Supports Energy and Endurance 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/j~AAAeSwHpZpF6Oy/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157465940711",
-      "price": "$49.00"
-    },
-    {
       "id": "157467282608",
       "title": "Mega Male Mens Health Support Dietary Supplement Stamina & Energy 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/FgoAAeSw~EVpGHP~/s-l1600.jpg",
@@ -3598,13 +3591,6 @@
       "price": "$49.00"
     },
     {
-      "id": "157754289538",
-      "title": "Jelly Burn Weight Support Dietary Supplement 30 Gummies Genuine Jelly Burn",
-      "image": "https://i.ebayimg.com/images/g/tcoAAeSwAYxptbw9/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157754289538",
-      "price": "$39.00"
-    },
-    {
       "id": "157763209658",
       "title": "Lipo Jaro Weight Support Dietary Supplement 30 Capsules Genuine LipoJaro",
       "image": "https://i.ebayimg.com/images/g/q2kAAeSwi3ppuXZz/s-l1600.jpg",
@@ -3770,6 +3756,13 @@
       "title": "Brain Honey Cognitive Focus & Mind Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/cR0AAeSwI3Zp3ANe/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157829097764",
+      "price": "$49.00"
+    },
+    {
+      "id": "157833566516",
+      "title": "Prime Perform Mens Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/h5QAAeSw13Zp3oJX/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157833566516",
       "price": "$49.00"
     },
     {
