@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-16T10:56:21+00:00",
-  "count": 585,
+  "scraped_at": "2026-09-16T12:59:47+00:00",
+  "count": 582,
   "seen": [
     "153886790983",
     "153894822521",
@@ -819,13 +819,6 @@
       "price": "$29.00"
     },
     {
-      "id": "154573758906",
-      "title": "GlucoFlow Advanced Blood Sugar Upgraded Formula - New",
-      "image": "https://i.ebayimg.com/images/g/rWcAAOSwFu1gEJ1T/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/154573758906",
-      "price": "$49.00"
-    },
-    {
       "id": "154577566430",
       "title": "Hyperexol  Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/ALEAAOSwbm9dyegn/s-l1600.jpg",
@@ -999,6 +992,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -1664,13 +1664,6 @@
       "image": "https://i.ebayimg.com/images/g/Z80AAOSwePdnk75J/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156653416545",
       "price": "$39.95"
-    },
-    {
-      "id": "156733442536",
-      "title": "Prostivity Advanced Relief Formula Supports Normal Prostate Health",
-      "image": "https://i.ebayimg.com/images/g/nNUAAOSwQmBnvPNv/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156733442536",
-      "price": "$49.00"
     },
     {
       "id": "156814692730",
@@ -2639,13 +2632,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157226904257",
-      "title": "VitalSyn Glyco Optimizer Blood Health Support Supplement 30 Capsules VitalSyn",
-      "image": "https://i.ebayimg.com/images/g/t8QAAeSw0axolMFp/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157226904257",
-      "price": "$39.00"
-    },
-    {
       "id": "157241457313",
       "title": "BioCell Blood Health Support Dietary Supplement 30 Capsules Genuine BioCell",
       "image": "https://i.ebayimg.com/images/g/YCwAAeSwHbBonKsj/s-l1600.jpg",
@@ -2783,13 +2769,6 @@
       "title": "Ignition 360 Gluco and Blood Health Support Supplement 30 Capsules Ignition360",
       "image": "https://i.ebayimg.com/images/g/vAcAAeSw5Pho78o7/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157393597228",
-      "price": "$39.00"
-    },
-    {
-      "id": "157395554938",
-      "title": "Brain Clear Mind Memory & Cognitive Support 30 Capsules Genuine BrainClear",
-      "image": "https://i.ebayimg.com/images/g/3ToAAeSwI29o8OsU/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157395554938",
       "price": "$39.00"
     },
     {
