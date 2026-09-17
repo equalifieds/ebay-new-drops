@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-17T04:56:50+00:00",
-  "count": 585,
+  "scraped_at": "2026-09-17T06:59:51+00:00",
+  "count": 582,
   "seen": [
     "153886790983",
     "153894822521",
@@ -3031,13 +3031,6 @@
       "price": "$49.00"
     },
     {
-      "id": "157451963336",
-      "title": "Glycevia Blood Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/I8IAAeSwO5dpEKMw/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157451963336",
-      "price": "$39.00"
-    },
-    {
       "id": "157451982725",
       "title": "Dear Apothecary Advanced Blood Health Support Dietary Supplemet 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/LDIAAeSwrwppEKW6/s-l1600.jpg",
@@ -4550,13 +4543,6 @@
       "price": "$39.00"
     },
     {
-      "id": "158237211274",
-      "title": "MemoFix Mind & Cognitive Health Support Dietary Supplement 60 Capsules Memo Fix",
-      "image": "https://i.ebayimg.com/images/g/8skAAeSwuVhqk0B-/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158237211274",
-      "price": "$39.00"
-    },
-    {
       "id": "158237231038",
       "title": "Silentia Ear Health & Hearing Support Formula Now In 30 Cappsule Bottles",
       "image": "https://i.ebayimg.com/images/g/lqAAAeSwzkRqk0Tm/s-l1600.jpg",
@@ -4575,13 +4561,6 @@
       "title": "Memo Meister Mind & Cognitive Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/uA4AAeSw9OVqlc12/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158243636474",
-      "price": "$49.00"
-    },
-    {
-      "id": "158243658967",
-      "title": "NeuroBoost Mind & Memory Cognitive Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/0FgAAeSwTgpqldDc/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158243658967",
       "price": "$49.00"
     },
     {
