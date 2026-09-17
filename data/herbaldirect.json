@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-16T22:53:59+00:00",
-  "count": 583,
+  "scraped_at": "2026-09-17T00:59:01+00:00",
+  "count": 582,
   "seen": [
     "153886790983",
     "153894822521",
@@ -819,13 +819,6 @@
       "price": "$29.00"
     },
     {
-      "id": "154573758906",
-      "title": "GlucoFlow Advanced Blood Sugar Upgraded Formula - New",
-      "image": "https://i.ebayimg.com/images/g/rWcAAOSwFu1gEJ1T/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/154573758906",
-      "price": "$49.00"
-    },
-    {
       "id": "154577566430",
       "title": "Hyperexol  Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/ALEAAOSwbm9dyegn/s-l1600.jpg",
@@ -992,6 +985,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -2114,13 +2114,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157017701248",
-      "title": "GlucoStat Blood Health Support Supplement Genuine Gluco Stat 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Gz8AAOSwlYBoMI8Y/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157017701248",
-      "price": "$39.00"
-    },
-    {
       "id": "157022034540",
       "title": "Gluco Synq Blood Health Support Supplement Advanced Formula GlucoSynq 60 Capsule",
       "image": "https://i.ebayimg.com/images/g/LNgAAOSwFTBoMigD/s-l1600.jpg",
@@ -2336,13 +2329,6 @@
       "image": "https://i.ebayimg.com/images/g/CCUAAOSw-m5oTxME/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157099912790",
       "price": "$49.00"
-    },
-    {
-      "id": "157107553035",
-      "title": "Nerve Flow Nerve Health and Fuction Support 30 Capsules Genuine Nerve Flow",
-      "image": "https://i.ebayimg.com/images/g/Ms8AAOSwWrVoUeps/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157107553035",
-      "price": "$39.00"
     },
     {
       "id": "157113990968",
@@ -3276,6 +3262,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157552146788",
+      "title": "Healthy Flow Lung Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/cn4AAeSw2FBpRGMo/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157552146788",
+      "price": "$39.00"
+    },
+    {
       "id": "157552276752",
       "title": "Optivell Vision and Eye Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/QNQAAeSwR3ppRGnj/s-l1600.jpg",
@@ -3757,13 +3750,6 @@
       "image": "https://i.ebayimg.com/images/g/h5QAAeSw13Zp3oJX/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157833566516",
       "price": "$49.00"
-    },
-    {
-      "id": "157838763901",
-      "title": "Jelly Lean Weight Support Dietary Supplement 30 Gummies Genuine Jelly Lean",
-      "image": "https://i.ebayimg.com/images/g/~N8AAeSwe5tp4Uvz/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157838763901",
-      "price": "$39.00"
     },
     {
       "id": "157838853875",
@@ -4625,6 +4611,13 @@
       "image": "https://i.ebayimg.com/images/g/wQ0AAeSwMYBqpuPZ/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158288400548",
       "price": "$39.00"
+    },
+    {
+      "id": "158288450631",
+      "title": "Apoapsis Advanced Formula Mens Health Support Dietary Supplement | 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/AlgAAeSwquFqpugt/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158288450631",
+      "price": "$49.00"
     },
     {
       "id": "158292480037",
