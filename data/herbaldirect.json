@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-17T14:56:42+00:00",
+  "scraped_at": "2026-09-17T16:55:51+00:00",
   "count": 582,
   "seen": [
     "153886790983",
@@ -999,13 +999,6 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
-    },
-    {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -2664,6 +2657,13 @@
       "title": "Healthy Flow Cleanse Dietary Supplement 60 Capsules of Healthy Flow Cleanse",
       "image": "https://i.ebayimg.com/images/g/MhIAAeSwKe1ooPmB/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157249536623",
+      "price": "$39.00"
+    },
+    {
+      "id": "157254295813",
+      "title": "CircuPulse Blood Health Support Dietary Supplement 60 Capsules Circu Pulse",
+      "image": "https://i.ebayimg.com/images/g/3dgAAeSwf0Voo6mM/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157254295813",
       "price": "$39.00"
     },
     {
