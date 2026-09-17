@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-17T20:53:50+00:00",
-  "count": 582,
+  "scraped_at": "2026-09-17T22:53:39+00:00",
+  "count": 586,
   "seen": [
     "153886790983",
     "153894822521",
@@ -2660,6 +2660,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157242261663",
+      "title": "GlucoAdvance Blood Health Support Dietary Supplement 60 Capsules Gluco Advance",
+      "image": "https://i.ebayimg.com/images/g/i4AAAeSwCT9onP1c/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157242261663",
+      "price": "$39.00"
+    },
+    {
       "id": "157249518903",
       "title": "Total Flow Blood Health Daily Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/g6EAAeSw3M9ooPcb/s-l1600.jpg",
@@ -3024,6 +3031,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157451954943",
+      "title": "Nervital Nerve Health and Blood Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/RuMAAeSw9n5pEKBT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157451954943",
+      "price": "$49.00"
+    },
+    {
       "id": "157451963336",
       "title": "Glycevia Blood Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/I8IAAeSwO5dpEKMw/s-l1600.jpg",
@@ -3255,6 +3269,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157551990394",
+      "title": "Pain Relief Ultra Formula Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/c~0AAeSwMQhpREdJ/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157551990394",
+      "price": "$39.00"
+    },
+    {
       "id": "157551996422",
       "title": "MemoTril Advanced Mind & Cognitive Support Formula 30 Capsules Genuine Memo Tril",
       "image": "https://i.ebayimg.com/images/g/HEYAAeSwDyppREk8/s-l1600.jpg",
@@ -3329,6 +3350,13 @@
       "title": "Sugar Harmony Blood Health Support Dietary Supplement Now In 60 Capsule Bottles",
       "image": "https://i.ebayimg.com/images/g/b10AAeSwUVhpb~Xw/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157626208600",
+      "price": "$39.00"
+    },
+    {
+      "id": "157628174054",
+      "title": "CircuSync Blood Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/KGcAAeSwD81pcS0q/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157628174054",
       "price": "$39.00"
     },
     {
@@ -3752,18 +3780,18 @@
       "price": "$49.00"
     },
     {
+      "id": "157838763901",
+      "title": "Jelly Lean Weight Support Dietary Supplement 30 Gummies Genuine Jelly Lean",
+      "image": "https://i.ebayimg.com/images/g/~N8AAeSwe5tp4Uvz/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157838763901",
+      "price": "$39.00"
+    },
+    {
       "id": "157838853875",
       "title": "Insta Surge XL Mens Health Support Dietary Supplement 30 Capsules InstaSurge XL",
       "image": "https://i.ebayimg.com/images/g/YUAAAeSwajBp4VjC/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157838853875",
       "price": "$49.00"
-    },
-    {
-      "id": "157843261360",
-      "title": "GlucoSera Blood Health Support Dietary Supplement 60 Capsules NTX Gluco Sera",
-      "image": "https://i.ebayimg.com/images/g/~wwAAeSwrclp48iW/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157843261360",
-      "price": "$39.00"
     },
     {
       "id": "157843565869",
