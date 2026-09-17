@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-17T06:59:51+00:00",
-  "count": 582,
+  "scraped_at": "2026-09-17T08:55:23+00:00",
+  "count": 584,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1001,6 +1001,13 @@
       "price": "$33.95"
     },
     {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
+    },
+    {
       "id": "155122078304",
       "title": "Bloodsyl Advanced Health Support Supplement - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/CukAAOSwFI1i~Ai8/s-l1600.jpg",
@@ -1104,13 +1111,6 @@
       "image": "https://i.ebayimg.com/images/g/7AUAAOSwOEZkA64e/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155438624459",
       "price": "$39.00"
-    },
-    {
-      "id": "155441971485",
-      "title": "Bio Lyfe Blood Booster - Advanced Blood Health Formula by BioLyfe 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/AQgAAOSweRdkBpYj/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155441971485",
-      "price": "$39.95"
     },
     {
       "id": "155457631968",
@@ -2191,13 +2191,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157040290264",
-      "title": "GlucoPlus Blood Health Support & Optimizer Supplement 30 Capsules Gluco Plus",
-      "image": "https://i.ebayimg.com/images/g/tFkAAOSwUk9oONXe/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157040290264",
-      "price": "$39.00"
-    },
-    {
       "id": "157050816023",
       "title": "Brain Defender Healthy Brain Support Supplement 30 Capsules Brain Defender",
       "image": "https://i.ebayimg.com/images/g/JqwAAOSwXk9oPKQj/s-l1600.jpg",
@@ -2356,13 +2349,6 @@
       "title": "Premium Glyco Blood Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/-rAAAOSw5gNoVE83/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157113990968",
-      "price": "$39.00"
-    },
-    {
-      "id": "157114233555",
-      "title": "Blood Fix Blood Health Support Dietary Supplement 30 Capsules of Blood Fix",
-      "image": "https://i.ebayimg.com/images/g/Ed4AAOSwg05oVHvh/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157114233555",
       "price": "$39.00"
     },
     {
@@ -3029,6 +3015,13 @@
       "image": "https://i.ebayimg.com/images/g/RuMAAeSw9n5pEKBT/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157451954943",
       "price": "$49.00"
+    },
+    {
+      "id": "157451963336",
+      "title": "Glycevia Blood Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/I8IAAeSwO5dpEKMw/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157451963336",
+      "price": "$39.00"
     },
     {
       "id": "157451982725",
@@ -3815,6 +3808,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157843631984",
+      "title": "Bruno Mens Health Support Dietary Supplement Genuine Bruno 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/QZIAAeSw0Qpp4~U9/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157843631984",
+      "price": "$49.00"
+    },
+    {
       "id": "157843653870",
       "title": "Glycogen Plus 800mg Capsules Blood Health Support 30 Capsules GlycogenPlus",
       "image": "https://i.ebayimg.com/images/g/ELAAAeSwGTpp4~c0/s-l1600.jpg",
@@ -4543,6 +4543,13 @@
       "price": "$39.00"
     },
     {
+      "id": "158237211274",
+      "title": "MemoFix Mind & Cognitive Health Support Dietary Supplement 60 Capsules Memo Fix",
+      "image": "https://i.ebayimg.com/images/g/8skAAeSwuVhqk0B-/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158237211274",
+      "price": "$39.00"
+    },
+    {
       "id": "158237231038",
       "title": "Silentia Ear Health & Hearing Support Formula Now In 30 Cappsule Bottles",
       "image": "https://i.ebayimg.com/images/g/lqAAAeSwzkRqk0Tm/s-l1600.jpg",
@@ -4561,6 +4568,13 @@
       "title": "Memo Meister Mind & Cognitive Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/uA4AAeSw9OVqlc12/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158243636474",
+      "price": "$49.00"
+    },
+    {
+      "id": "158243658967",
+      "title": "NeuroBoost Mind & Memory Cognitive Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/0FgAAeSwTgpqldDc/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158243658967",
       "price": "$49.00"
     },
     {
