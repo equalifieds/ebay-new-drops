@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-18T20:53:51+00:00",
-  "count": 582,
+  "scraped_at": "2026-09-18T22:53:55+00:00",
+  "count": 586,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1001,13 +1001,6 @@
       "price": "$33.95"
     },
     {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
-    },
-    {
       "id": "155122078304",
       "title": "Bloodsyl Advanced Health Support Supplement - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/CukAAOSwFI1i~Ai8/s-l1600.jpg",
@@ -1614,6 +1607,13 @@
       "title": "GlycoFix Blood Health Support Dietary Supplement - 30 Capsules Genuine Glyco Fix",
       "image": "https://i.ebayimg.com/images/g/xh0AAOSwWDhndB1N/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156612233733",
+      "price": "$39.00"
+    },
+    {
+      "id": "156613772371",
+      "title": "SugarSync Glyco Optimizer Blood Health Support - 30 Capsules Genuine Sugar Sync",
+      "image": "https://i.ebayimg.com/images/g/VBwAAOSwlPJndXbF/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156613772371",
       "price": "$39.00"
     },
     {
@@ -2653,6 +2653,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157242261663",
+      "title": "GlucoAdvance Blood Health Support Dietary Supplement 60 Capsules Gluco Advance",
+      "image": "https://i.ebayimg.com/images/g/i4AAAeSwCT9onP1c/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157242261663",
+      "price": "$39.00"
+    },
+    {
       "id": "157249518903",
       "title": "Total Flow Blood Health Daily Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/g6EAAeSw3M9ooPcb/s-l1600.jpg",
@@ -2993,6 +3000,13 @@
       "title": "CelluFend Blood Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/WuIAAeSwTllpDMBo/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157445215042",
+      "price": "$39.00"
+    },
+    {
+      "id": "157447577014",
+      "title": "Glyco Thrive Blood Health Support Dietary Supplement 60 Capsules GlycoThrive",
+      "image": "https://i.ebayimg.com/images/g/qF4AAeSwKZxpDhfu/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157447577014",
       "price": "$39.00"
     },
     {
@@ -3787,6 +3801,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157843582502",
+      "title": "Glyco Care Blood Health Support Dietary Supplement Genuine GlycoCare 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/CYAAAeSw5D5p4-1t/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157843582502",
+      "price": "$39.00"
+    },
+    {
       "id": "157843588989",
       "title": "VigorRiize Mens Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/tA8AAeSwy6tp4-8S/s-l1600.jpg",
@@ -3798,6 +3819,13 @@
       "title": "StaminoX Mens Health Support Dietary Supplement Genuine Stamino X 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/9xEAAeSw0Ulp4~Ij/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157843609307",
+      "price": "$49.00"
+    },
+    {
+      "id": "157843631984",
+      "title": "Bruno Mens Health Support Dietary Supplement Genuine Bruno 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/QZIAAeSw0Qpp4~U9/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157843631984",
       "price": "$49.00"
     },
     {
