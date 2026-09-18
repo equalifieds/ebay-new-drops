@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-18T02:54:47+00:00",
-  "count": 582,
+  "scraped_at": "2026-09-18T04:55:04+00:00",
+  "count": 583,
   "seen": [
     "153886790983",
     "153894822521",
@@ -817,13 +817,6 @@
       "image": "https://i.ebayimg.com/images/g/giIAAOSwxN1gfJr9/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/154559612323",
       "price": "$29.00"
-    },
-    {
-      "id": "154573758906",
-      "title": "GlucoFlow Advanced Blood Sugar Upgraded Formula - New",
-      "image": "https://i.ebayimg.com/images/g/rWcAAOSwFu1gEJ1T/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/154573758906",
-      "price": "$49.00"
     },
     {
       "id": "154577566430",
@@ -3087,6 +3080,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157456797292",
+      "title": "Beast Force Mens Health Support Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/KX0AAeSw~eNpE01y/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157456797292",
+      "price": "$49.00"
+    },
+    {
       "id": "157456856769",
       "title": "Memyts Mind Health and Cognitive Blend Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/RXIAAeSwzZRpE1ai/s-l1600.jpg",
@@ -3822,6 +3822,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157843631984",
+      "title": "Bruno Mens Health Support Dietary Supplement Genuine Bruno 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/QZIAAeSw0Qpp4~U9/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157843631984",
+      "price": "$49.00"
+    },
+    {
       "id": "157843653870",
       "title": "Glycogen Plus 800mg Capsules Blood Health Support 30 Capsules GlycogenPlus",
       "image": "https://i.ebayimg.com/images/g/ELAAAeSwGTpp4~c0/s-l1600.jpg",
@@ -4172,13 +4179,6 @@
       "price": "$39.00"
     },
     {
-      "id": "158011759729",
-      "title": "Vigor Maximum Mens Helath Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/YjkAAeSw8ShqNXQI/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158011759729",
-      "price": "$49.00"
-    },
-    {
       "id": "158011769206",
       "title": "PurDentix Probiotic Supports Healthy Teeth & Gums 30 Soft Chewable Tablets",
       "image": "https://i.ebayimg.com/images/g/bgYAAeSwUGhqNXX7/s-l1600.jpg",
@@ -4389,6 +4389,13 @@
       "price": "$39.00"
     },
     {
+      "id": "158147455765",
+      "title": "Hawaiian Harmony Blood Health Support Supplement Now In 30 Capsule Bottles",
+      "image": "https://i.ebayimg.com/images/g/p9AAAeSwi1Jqb7hX/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158147455765",
+      "price": "$39.00"
+    },
+    {
       "id": "158147488929",
       "title": "NeuroVera Mind & Cognitive Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/uYIAAeSw2Ohqb7ys/s-l1600.jpg",
@@ -4435,6 +4442,13 @@
       "title": "MemoHoney Mind & Cognitive Health Support Supplement 30 Capsules | Memo Honey",
       "image": "https://i.ebayimg.com/images/g/quwAAeSwWatqeNgs/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158170751220",
+      "price": "$39.00"
+    },
+    {
+      "id": "158195517275",
+      "title": "Gut-Glucose Blood Health Support Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/OgcAAeSwwSNqghhD/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158195517275",
       "price": "$39.00"
     },
     {
@@ -4554,13 +4568,6 @@
       "title": "Memo Meister Mind & Cognitive Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/uA4AAeSw9OVqlc12/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158243636474",
-      "price": "$49.00"
-    },
-    {
-      "id": "158243658967",
-      "title": "NeuroBoost Mind & Memory Cognitive Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/0FgAAeSwTgpqldDc/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158243658967",
       "price": "$49.00"
     },
     {
