@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-17T22:53:39+00:00",
-  "count": 586,
+  "scraped_at": "2026-09-18T00:56:57+00:00",
+  "count": 583,
   "seen": [
     "153886790983",
     "153894822521",
@@ -999,13 +999,6 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
-    },
-    {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -2646,13 +2639,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157226904257",
-      "title": "VitalSyn Glyco Optimizer Blood Health Support Supplement 30 Capsules VitalSyn",
-      "image": "https://i.ebayimg.com/images/g/t8QAAeSw0axolMFp/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157226904257",
-      "price": "$39.00"
-    },
-    {
       "id": "157241457313",
       "title": "BioCell Blood Health Support Dietary Supplement 30 Capsules Genuine BioCell",
       "image": "https://i.ebayimg.com/images/g/YCwAAeSwHbBonKsj/s-l1600.jpg",
@@ -2888,13 +2874,6 @@
       "title": "IQ Blast Pro Mind & Cognitive Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/A80AAeSwZ2Fo-jWZ/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157412375581",
-      "price": "$39.00"
-    },
-    {
-      "id": "157415879830",
-      "title": "Sugar Wise Blood Health Support Dietary Supplement 60 Capsules of SugarWise",
-      "image": "https://i.ebayimg.com/images/g/~UQAAeSwv3Fo~O3r/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157415879830",
       "price": "$39.00"
     },
     {
@@ -3259,13 +3238,6 @@
       "title": "Eros Power Mens Health Support Dietary Supplement 60 Capsules ErosPower",
       "image": "https://i.ebayimg.com/images/g/1gYAAeSwzltpREH7/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157551944750",
-      "price": "$49.00"
-    },
-    {
-      "id": "157551955467",
-      "title": "Climaxin Mens Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/gwMAAeSw6ZFpREO6/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157551955467",
       "price": "$49.00"
     },
     {
@@ -3792,6 +3764,13 @@
       "image": "https://i.ebayimg.com/images/g/YUAAAeSwajBp4VjC/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157838853875",
       "price": "$49.00"
+    },
+    {
+      "id": "157843261360",
+      "title": "GlucoSera Blood Health Support Dietary Supplement 60 Capsules NTX Gluco Sera",
+      "image": "https://i.ebayimg.com/images/g/~wwAAeSwrclp48iW/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157843261360",
+      "price": "$39.00"
     },
     {
       "id": "157843565869",
