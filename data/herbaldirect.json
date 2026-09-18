@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-18T04:55:04+00:00",
-  "count": 583,
+  "scraped_at": "2026-09-18T06:57:53+00:00",
+  "count": 582,
   "seen": [
     "153886790983",
     "153894822521",
@@ -959,13 +959,6 @@
       "price": "$29.95"
     },
     {
-      "id": "155068944119",
-      "title": "LeanBiome Probiotic To Promote Weight Management and Gut Health 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/AXMAAOSwx5ZiyE47/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155068944119",
-      "price": "$49.00"
-    },
-    {
       "id": "155068950774",
       "title": "FluxActive Complete Vital Prostate Wellness Formula 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/RM4AAOSwnLhiyFFt/s-l1600.jpg",
@@ -1712,13 +1705,6 @@
       "title": "Lymph Savior Advanced Lymphatic Health Support 60 Capsules Genuine Lymph Savior",
       "image": "https://i.ebayimg.com/images/g/E6kAAOSwH1Zn8FUi/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156857127640",
-      "price": "$49.00"
-    },
-    {
-      "id": "156857190414",
-      "title": "GumAktiv Oral Probiotics Healthy Teeth & Gums - 30 Tablets - Genuine Gum Aktiv",
-      "image": "https://i.ebayimg.com/images/g/Qu8AAOSwkFRn8Fgr/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156857190414",
       "price": "$49.00"
     },
     {
@@ -2807,13 +2793,6 @@
       "price": "$49.00"
     },
     {
-      "id": "157399865614",
-      "title": "Iron Horse Mens Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/2cQAAeSwlnxo82lr/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157399865614",
-      "price": "$49.00"
-    },
-    {
       "id": "157406856722",
       "title": "Proven Joint Health Support Advanced SugarWise Mobility Support 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/qAQAAeSwdfpo90UJ/s-l1600.jpg",
@@ -3070,13 +3049,6 @@
       "title": "Memo Genesis Mind Memory & Cognitive Health Support 30 Capsules MemoGenesis",
       "image": "https://i.ebayimg.com/images/g/7u0AAeSw5zhpEett/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157454315892",
-      "price": "$49.00"
-    },
-    {
-      "id": "157454559818",
-      "title": "Sugar Support Gummies Blood Health Support 60 Gummies",
-      "image": "https://i.ebayimg.com/images/g/5SUAAeSwMDlpEgvw/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157454559818",
       "price": "$49.00"
     },
     {
@@ -4179,11 +4151,25 @@
       "price": "$39.00"
     },
     {
+      "id": "158011759729",
+      "title": "Vigor Maximum Mens Helath Support Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/YjkAAeSw8ShqNXQI/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158011759729",
+      "price": "$49.00"
+    },
+    {
       "id": "158011769206",
       "title": "PurDentix Probiotic Supports Healthy Teeth & Gums 30 Soft Chewable Tablets",
       "image": "https://i.ebayimg.com/images/g/bgYAAeSwUGhqNXX7/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158011769206",
       "price": "$49.00"
+    },
+    {
+      "id": "158011922221",
+      "title": "JB Restore Pain Relief Natural Joint Function and Mobility Support 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/dMEAAeSwf9FqNZIZ/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158011922221",
+      "price": "$39.00"
     },
     {
       "id": "158020977201",
@@ -4568,6 +4554,13 @@
       "title": "Memo Meister Mind & Cognitive Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/uA4AAeSw9OVqlc12/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158243636474",
+      "price": "$49.00"
+    },
+    {
+      "id": "158243658967",
+      "title": "NeuroBoost Mind & Memory Cognitive Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/0FgAAeSwTgpqldDc/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158243658967",
       "price": "$49.00"
     },
     {
