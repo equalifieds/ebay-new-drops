@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-19T10:53:32+00:00",
+  "scraped_at": "2026-09-19T12:55:49+00:00",
   "count": 584,
   "seen": [
     "153886790983",
@@ -819,13 +819,6 @@
       "price": "$29.00"
     },
     {
-      "id": "154573758906",
-      "title": "GlucoFlow Advanced Blood Sugar Upgraded Formula - New",
-      "image": "https://i.ebayimg.com/images/g/rWcAAOSwFu1gEJ1T/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/154573758906",
-      "price": "$49.00"
-    },
-    {
       "id": "154577566430",
       "title": "Hyperexol  Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/ALEAAOSwbm9dyegn/s-l1600.jpg",
@@ -999,6 +992,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -1335,6 +1335,13 @@
       "image": "https://i.ebayimg.com/images/g/seoAAOSwn49l8a5T/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156210834516",
       "price": "$126.00"
+    },
+    {
+      "id": "156211325852",
+      "title": "GlycogenX Blood Health Support Supplement Glycogen X Advanced Formula",
+      "image": "https://i.ebayimg.com/images/g/SXUAAOSwgVhmRm-i/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156211325852",
+      "price": "$39.95"
     },
     {
       "id": "156211370927",
@@ -2114,6 +2121,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157017701248",
+      "title": "GlucoStat Blood Health Support Supplement Genuine Gluco Stat 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Gz8AAOSwlYBoMI8Y/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157017701248",
+      "price": "$39.00"
+    },
+    {
       "id": "157022034540",
       "title": "Gluco Synq Blood Health Support Supplement Advanced Formula GlucoSynq 60 Capsule",
       "image": "https://i.ebayimg.com/images/g/LNgAAOSwFTBoMigD/s-l1600.jpg",
@@ -2310,13 +2324,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157093731034",
-      "title": "SugarReset Blood Health Support Supplement 60 Capsules Genuine Sugar Reset",
-      "image": "https://i.ebayimg.com/images/g/swcAAOSwAPJoTJer/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157093731034",
-      "price": "$39.00"
-    },
-    {
       "id": "157097126470",
       "title": "CoreSpark Blood Balance Blood Health Support 30 Capsules Core Spark",
       "image": "https://i.ebayimg.com/images/g/964AAOSwFL1oTey2/s-l1600.jpg",
@@ -2342,13 +2349,6 @@
       "title": "Premium Glyco Blood Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/-rAAAOSw5gNoVE83/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157113990968",
-      "price": "$39.00"
-    },
-    {
-      "id": "157114233555",
-      "title": "Blood Fix Blood Health Support Dietary Supplement 30 Capsules of Blood Fix",
-      "image": "https://i.ebayimg.com/images/g/Ed4AAOSwg05oVHvh/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157114233555",
       "price": "$39.00"
     },
     {
