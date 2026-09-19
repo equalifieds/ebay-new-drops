@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-19T08:54:17+00:00",
-  "count": 585,
+  "scraped_at": "2026-09-19T10:53:32+00:00",
+  "count": 584,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1001,13 +1001,6 @@
       "price": "$33.95"
     },
     {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
-    },
-    {
       "id": "155122078304",
       "title": "Bloodsyl Advanced Health Support Supplement - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/CukAAOSwFI1i~Ai8/s-l1600.jpg",
@@ -1344,13 +1337,6 @@
       "price": "$126.00"
     },
     {
-      "id": "156211325852",
-      "title": "GlycogenX Blood Health Support Supplement Glycogen X Advanced Formula",
-      "image": "https://i.ebayimg.com/images/g/SXUAAOSwgVhmRm-i/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156211325852",
-      "price": "$39.95"
-    },
-    {
       "id": "156211370927",
       "title": "Ultimate Blood Flow Formula By True Health - Dietary Supplement - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/1M4AAOSwUIpmRnkF/s-l1600.jpg",
@@ -1517,6 +1503,13 @@
       "image": "https://i.ebayimg.com/images/g/UJQAAOSwaGJm2izk/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156393217165",
       "price": "$49.00"
+    },
+    {
+      "id": "156405203546",
+      "title": "MicroBio Brands Blood Booster Blood Health Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/lcQAAOSwb2Rm40X-/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156405203546",
+      "price": "$24.97"
     },
     {
       "id": "156405215556",
@@ -1904,6 +1897,13 @@
       "price": "$39.00"
     },
     {
+      "id": "156931203780",
+      "title": "Gluco Wonder Blood Health Support Supplement Genuine 60 Capsules 1 Month Supply",
+      "image": "https://i.ebayimg.com/images/g/U5cAAOSwQU9oDU7K/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156931203780",
+      "price": "$39.00"
+    },
+    {
       "id": "156931225302",
       "title": "Blood Balance Plus Blood Support Dietary Supplement Genuine 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/RlsAAOSwMyZoDVDG/s-l1600.jpg",
@@ -2111,13 +2111,6 @@
       "title": "Glyco Assist Blood Health Support Supplement Genuine GlycoAssist 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/1X0AAOSwBDtoMI24/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157017697492",
-      "price": "$39.00"
-    },
-    {
-      "id": "157017701248",
-      "title": "GlucoStat Blood Health Support Supplement Genuine Gluco Stat 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Gz8AAOSwlYBoMI8Y/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157017701248",
       "price": "$39.00"
     },
     {
