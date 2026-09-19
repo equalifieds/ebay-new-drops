@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-19T06:55:47+00:00",
-  "count": 584,
+  "scraped_at": "2026-09-19T08:54:17+00:00",
+  "count": 585,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1001,6 +1001,13 @@
       "price": "$33.95"
     },
     {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
+    },
+    {
       "id": "155122078304",
       "title": "Bloodsyl Advanced Health Support Supplement - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/CukAAOSwFI1i~Ai8/s-l1600.jpg",
@@ -1512,13 +1519,6 @@
       "price": "$49.00"
     },
     {
-      "id": "156405203546",
-      "title": "MicroBio Brands Blood Booster Blood Health Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/lcQAAOSwb2Rm40X-/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156405203546",
-      "price": "$24.97"
-    },
-    {
       "id": "156405215556",
       "title": "Plantsulin 3 Pack Blood and Weight Support Capsules - Genuine 3 Bottles",
       "image": "https://i.ebayimg.com/images/g/zzYAAOSwry1m40is/s-l1600.jpg",
@@ -1904,13 +1904,6 @@
       "price": "$39.00"
     },
     {
-      "id": "156931203780",
-      "title": "Gluco Wonder Blood Health Support Supplement Genuine 60 Capsules 1 Month Supply",
-      "image": "https://i.ebayimg.com/images/g/U5cAAOSwQU9oDU7K/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156931203780",
-      "price": "$39.00"
-    },
-    {
       "id": "156931225302",
       "title": "Blood Balance Plus Blood Support Dietary Supplement Genuine 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/RlsAAOSwMyZoDVDG/s-l1600.jpg",
@@ -2042,6 +2035,13 @@
       "image": "https://i.ebayimg.com/images/g/6SwAAOSwX~NoJ64n/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156995234033",
       "price": "$39.00"
+    },
+    {
+      "id": "156998135272",
+      "title": "BioXCell Male Health Supplement Support Blood Health & Vitality  60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/aAUAAOSwYSRoKOP4/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156998135272",
+      "price": "$49.00"
     },
     {
       "id": "156998155142",
@@ -2511,6 +2511,13 @@
       "image": "https://i.ebayimg.com/images/g/~GMAAeSwG3BofBov/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157184047079",
       "price": "$49.00"
+    },
+    {
+      "id": "157192125378",
+      "title": "Sweet Vital Relief Daily Blood Health Support Formula 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/ziIAAeSw1Zlof-yc/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157192125378",
+      "price": "$39.00"
     },
     {
       "id": "157192144778",
