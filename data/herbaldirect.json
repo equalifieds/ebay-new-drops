@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-19T18:53:53+00:00",
+  "scraped_at": "2026-09-19T20:53:31+00:00",
   "count": 585,
   "seen": [
     "153886790983",
@@ -1001,6 +1001,13 @@
       "price": "$33.95"
     },
     {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
+    },
+    {
       "id": "155122078304",
       "title": "Bloodsyl Advanced Health Support Supplement - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/CukAAOSwFI1i~Ai8/s-l1600.jpg",
@@ -1132,13 +1139,6 @@
       "image": "https://i.ebayimg.com/images/g/tngAAOSwxUpkOXQy/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155504722453",
       "price": "$26.95"
-    },
-    {
-      "id": "155509395633",
-      "title": "Gorilla Flow Prostate Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/VA0AAOSwK3pkPG9c/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155509395633",
-      "price": "$34.95"
     },
     {
       "id": "155514413609",
@@ -2884,13 +2884,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157415879830",
-      "title": "Sugar Wise Blood Health Support Dietary Supplement 60 Capsules of SugarWise",
-      "image": "https://i.ebayimg.com/images/g/~UQAAeSwv3Fo~O3r/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157415879830",
-      "price": "$39.00"
-    },
-    {
       "id": "157417635714",
       "title": "ThyraFemme Balance Thyroid Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/rwQAAeSwRqto~ONA/s-l1600.jpg",
@@ -4400,6 +4393,13 @@
       "title": "GumiTide ACV Health Support Gummy Supplement 30 Gummies Gumi Tide",
       "image": "https://i.ebayimg.com/images/g/5xAAAeSwVktqb6Q7/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158147309310",
+      "price": "$39.00"
+    },
+    {
+      "id": "158147455765",
+      "title": "Hawaiian Harmony Blood Health Support Supplement Now In 30 Capsule Bottles",
+      "image": "https://i.ebayimg.com/images/g/p9AAAeSwi1Jqb7hX/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158147455765",
       "price": "$39.00"
     },
     {
