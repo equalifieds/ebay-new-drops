@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-20T08:54:13+00:00",
+  "scraped_at": "2026-09-20T10:53:18+00:00",
   "count": 585,
   "seen": [
     "153886790983",
@@ -1433,13 +1433,6 @@
       "image": "https://i.ebayimg.com/images/g/7aEAAOSw3ChmeHrP/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156269997712",
       "price": "$33.97"
-    },
-    {
-      "id": "156315094321",
-      "title": "GlucoGuard Blood Health Supplement Gluco Support - Genuine Gluco Guard",
-      "image": "https://i.ebayimg.com/images/g/WsoAAOSwjlFmnV4n/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156315094321",
-      "price": "$37.00"
     },
     {
       "id": "156315104001",
@@ -3458,13 +3451,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157667056376",
-      "title": "MemoCept Mind Memory & Cognitive Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/2u8AAeSwbcxph6Xh/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157667056376",
-      "price": "$49.00"
-    },
-    {
       "id": "157667071170",
       "title": "ProstaFlow Prostate Support Mens Health Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/mAEAAeSw5Ktph6iN/s-l1600.jpg",
@@ -3602,6 +3588,13 @@
       "title": "Jelly Burn Weight Support Dietary Supplement 30 Gummies Genuine Jelly Burn",
       "image": "https://i.ebayimg.com/images/g/tcoAAeSwAYxptbw9/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157754289538",
+      "price": "$39.00"
+    },
+    {
+      "id": "157763209658",
+      "title": "Lipo Jaro Weight Support Dietary Supplement 30 Capsules Genuine LipoJaro",
+      "image": "https://i.ebayimg.com/images/g/q2kAAeSwi3ppuXZz/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157763209658",
       "price": "$39.00"
     },
     {
@@ -3785,6 +3778,13 @@
       "image": "https://i.ebayimg.com/images/g/YUAAAeSwajBp4VjC/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157838853875",
       "price": "$49.00"
+    },
+    {
+      "id": "157843261360",
+      "title": "GlucoSera Blood Health Support Dietary Supplement 60 Capsules NTX Gluco Sera",
+      "image": "https://i.ebayimg.com/images/g/~wwAAeSwrclp48iW/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157843261360",
+      "price": "$39.00"
     },
     {
       "id": "157843565869",
