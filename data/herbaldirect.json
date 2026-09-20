@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-19T22:54:39+00:00",
-  "count": 583,
+  "scraped_at": "2026-09-20T00:57:46+00:00",
+  "count": 581,
   "seen": [
     "153886790983",
     "153894822521",
@@ -803,13 +803,6 @@
       "image": "https://i.ebayimg.com/images/g/DuQAAOSwSGRf~gUM/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/154543063693",
       "price": "$41.00"
-    },
-    {
-      "id": "154558269151",
-      "title": "Steel Bite Pro Teeth & Gum Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/lCYAAOSwh-RfzBOK/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/154558269151",
-      "price": "$47.00"
     },
     {
       "id": "154559612323",
@@ -1657,13 +1650,6 @@
       "image": "https://i.ebayimg.com/images/g/nNUAAOSwQmBnvPNv/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156733442536",
       "price": "$49.00"
-    },
-    {
-      "id": "156814692730",
-      "title": "Sweet Restore & Relief Glycogen Support Supplement - Three Bottles Blood Health",
-      "image": "https://i.ebayimg.com/images/g/NCgAAOSw9Zhn3DD1/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156814692730",
-      "price": "$89.95"
     },
     {
       "id": "156824704575",
@@ -4032,13 +4018,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157949247902",
-      "title": "Renu Glyco Daily Blood Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/hVIAAeSw645qGFOw/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157949247902",
-      "price": "$39.00"
-    },
-    {
       "id": "157949251174",
       "title": "HemoNEXA Gluco Blood Health Support Dietary Supplement 30 Capsules Hemo Nexa",
       "image": "https://i.ebayimg.com/images/g/YwAAAeSwf3xqGFSj/s-l1600.jpg",
@@ -4296,6 +4275,13 @@
       "image": "https://i.ebayimg.com/images/g/FT4AAeSwayVqUTnf/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158073799871",
       "price": "$89.00"
+    },
+    {
+      "id": "158074050864",
+      "title": "Jelly Tide Weight Support Dietary Supplement 30 Gummies Genuine Jelly Tide",
+      "image": "https://i.ebayimg.com/images/g/kXwAAeSwNF1qUWdf/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158074050864",
+      "price": "$39.00"
     },
     {
       "id": "158086854101",
