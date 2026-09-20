@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-20T00:57:46+00:00",
-  "count": 581,
+  "scraped_at": "2026-09-20T02:54:38+00:00",
+  "count": 585,
   "seen": [
     "153886790983",
     "153894822521",
@@ -805,11 +805,25 @@
       "price": "$41.00"
     },
     {
+      "id": "154558269151",
+      "title": "Steel Bite Pro Teeth & Gum Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/lCYAAOSwh-RfzBOK/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/154558269151",
+      "price": "$47.00"
+    },
+    {
       "id": "154559612323",
       "title": "Gutamin 7 Weight Loss Probiotic Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/giIAAOSwxN1gfJr9/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/154559612323",
       "price": "$29.00"
+    },
+    {
+      "id": "154573758906",
+      "title": "GlucoFlow Advanced Blood Sugar Upgraded Formula - New",
+      "image": "https://i.ebayimg.com/images/g/rWcAAOSwFu1gEJ1T/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/154573758906",
+      "price": "$49.00"
     },
     {
       "id": "154577566430",
@@ -950,6 +964,13 @@
       "image": "https://i.ebayimg.com/images/g/CvsAAOSw6WhijU3M/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155008727904",
       "price": "$29.95"
+    },
+    {
+      "id": "155068944119",
+      "title": "LeanBiome Probiotic To Promote Weight Management and Gut Health 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/AXMAAOSwx5ZiyE47/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155068944119",
+      "price": "$49.00"
     },
     {
       "id": "155068950774",
@@ -1589,13 +1610,6 @@
       "price": "$39.00"
     },
     {
-      "id": "156613772371",
-      "title": "SugarSync Glyco Optimizer Blood Health Support - 30 Capsules Genuine Sugar Sync",
-      "image": "https://i.ebayimg.com/images/g/VBwAAOSwlPJndXbF/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156613772371",
-      "price": "$39.00"
-    },
-    {
       "id": "156613945297",
       "title": "Steady Blood Health Support Supplement - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/p~cAAOSwS9JndZeX/s-l1600.jpg",
@@ -1650,6 +1664,13 @@
       "image": "https://i.ebayimg.com/images/g/nNUAAOSwQmBnvPNv/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156733442536",
       "price": "$49.00"
+    },
+    {
+      "id": "156814692730",
+      "title": "Sweet Restore & Relief Glycogen Support Supplement - Three Bottles Blood Health",
+      "image": "https://i.ebayimg.com/images/g/NCgAAOSw9Zhn3DD1/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156814692730",
+      "price": "$89.95"
     },
     {
       "id": "156824704575",
@@ -4015,6 +4036,13 @@
       "title": "Neuro Mind Pro Brain Memory & Cognitive Health Support 30 Capsules NeuroMind",
       "image": "https://i.ebayimg.com/images/g/MrcAAeSwJZ9qGFDO/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157949237221",
+      "price": "$39.00"
+    },
+    {
+      "id": "157949247902",
+      "title": "Renu Glyco Daily Blood Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/hVIAAeSw645qGFOw/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157949247902",
       "price": "$39.00"
     },
     {
