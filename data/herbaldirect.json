@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-20T10:53:18+00:00",
-  "count": 585,
+  "scraped_at": "2026-09-20T12:55:59+00:00",
+  "count": 581,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1001,13 +1001,6 @@
       "price": "$33.95"
     },
     {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
-    },
-    {
       "id": "155122078304",
       "title": "Bloodsyl Advanced Health Support Supplement - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/CukAAOSwFI1i~Ai8/s-l1600.jpg",
@@ -1433,6 +1426,13 @@
       "image": "https://i.ebayimg.com/images/g/7aEAAOSw3ChmeHrP/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156269997712",
       "price": "$33.97"
+    },
+    {
+      "id": "156315094321",
+      "title": "GlucoGuard Blood Health Supplement Gluco Support - Genuine Gluco Guard",
+      "image": "https://i.ebayimg.com/images/g/WsoAAOSwjlFmnV4n/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156315094321",
+      "price": "$37.00"
     },
     {
       "id": "156315104001",
@@ -3283,20 +3283,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157552146788",
-      "title": "Healthy Flow Lung Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/cn4AAeSw2FBpRGMo/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157552146788",
-      "price": "$39.00"
-    },
-    {
-      "id": "157552276752",
-      "title": "Optivell Vision and Eye Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/QNQAAeSwR3ppRGnj/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157552276752",
-      "price": "$39.00"
-    },
-    {
       "id": "157552350126",
       "title": "Blue Horse Salt Trick Mens Health Support Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/35UAAeSwVm5pRWik/s-l1600.jpg",
@@ -3449,6 +3435,13 @@
       "image": "https://i.ebayimg.com/images/g/nS8AAeSwjoxph6Ir/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157667030143",
       "price": "$39.00"
+    },
+    {
+      "id": "157667056376",
+      "title": "MemoCept Mind Memory & Cognitive Health Support Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/2u8AAeSwbcxph6Xh/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157667056376",
+      "price": "$49.00"
     },
     {
       "id": "157667071170",
@@ -3906,13 +3899,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157902814813",
-      "title": "Uro Flow Mens Prostate Support Supplement 60 Capsules Genuine UroFlow",
-      "image": "https://i.ebayimg.com/images/g/gskAAeSw8ohqAkCI/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157902814813",
-      "price": "$39.00"
-    },
-    {
       "id": "157907494651",
       "title": "Fortivir Max Mens Health Dietary Supplement 60 Capsules Genuine FortivirMax",
       "image": "https://i.ebayimg.com/images/g/b2kAAeSwHQBqBJPW/s-l1600.jpg",
@@ -4235,13 +4221,6 @@
       "price": "$39.00"
     },
     {
-      "id": "158035933141",
-      "title": "ZenSulin Blood Health Support Supplement Cinnamon Gymnema Chromium 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/rq4AAeSwWW5qQYBy/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158035933141",
-      "price": "$39.00"
-    },
-    {
       "id": "158041344480",
       "title": "Back Biome Back and Spine Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/eLwAAeSw4f5qQ9cz/s-l1600.jpg",
@@ -4393,13 +4372,6 @@
       "title": "GumiTide ACV Health Support Gummy Supplement 30 Gummies Gumi Tide",
       "image": "https://i.ebayimg.com/images/g/5xAAAeSwVktqb6Q7/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158147309310",
-      "price": "$39.00"
-    },
-    {
-      "id": "158147455765",
-      "title": "Hawaiian Harmony Blood Health Support Supplement Now In 30 Capsule Bottles",
-      "image": "https://i.ebayimg.com/images/g/p9AAAeSwi1Jqb7hX/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158147455765",
       "price": "$39.00"
     },
     {
