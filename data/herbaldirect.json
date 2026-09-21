@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-21T00:58:30+00:00",
-  "count": 583,
+  "scraped_at": "2026-09-21T02:55:47+00:00",
+  "count": 584,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1351,13 +1351,6 @@
       "price": "$39.95"
     },
     {
-      "id": "156211370927",
-      "title": "Ultimate Blood Flow Formula By True Health - Dietary Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/1M4AAOSwUIpmRnkF/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156211370927",
-      "price": "$39.97"
-    },
-    {
       "id": "156211387354",
       "title": "Advanced Blood Sugar Solution From Health Resources 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/dDIAAOSw-2lmRnuH/s-l1600.jpg",
@@ -2366,6 +2359,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157114233555",
+      "title": "Blood Fix Blood Health Support Dietary Supplement 30 Capsules of Blood Fix",
+      "image": "https://i.ebayimg.com/images/g/Ed4AAOSwg05oVHvh/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157114233555",
+      "price": "$39.00"
+    },
+    {
       "id": "157114255665",
       "title": "ProstaMax Prostate Health Support Formula 60 Capsules of Prosta Max",
       "image": "https://i.ebayimg.com/images/g/iFgAAOSwIiBoVH0S/s-l1600.jpg",
@@ -2989,13 +2989,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157445193930",
-      "title": "SugarWell Blood Health Support Supplement Advanced Formula 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/LcEAAeSwSrhpDL4F/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157445193930",
-      "price": "$39.00"
-    },
-    {
       "id": "157445215042",
       "title": "CelluFend Blood Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/WuIAAeSwTllpDMBo/s-l1600.jpg",
@@ -3022,6 +3015,13 @@
       "image": "https://i.ebayimg.com/images/g/KhwAAeSwfzxpEJ1z/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157451931776",
       "price": "$39.00"
+    },
+    {
+      "id": "157451954943",
+      "title": "Nervital Nerve Health and Blood Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/RuMAAeSw9n5pEKBT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157451954943",
+      "price": "$49.00"
     },
     {
       "id": "157451963336",
@@ -3437,6 +3437,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157667030143",
+      "title": "Blood Restore Blood Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/nS8AAeSwjoxph6Ir/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157667030143",
+      "price": "$39.00"
+    },
+    {
       "id": "157667056376",
       "title": "MemoCept Mind Memory & Cognitive Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/2u8AAeSwbcxph6Xh/s-l1600.jpg",
@@ -3584,6 +3591,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157763209658",
+      "title": "Lipo Jaro Weight Support Dietary Supplement 30 Capsules Genuine LipoJaro",
+      "image": "https://i.ebayimg.com/images/g/q2kAAeSwi3ppuXZz/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157763209658",
+      "price": "$39.00"
+    },
+    {
       "id": "157763719872",
       "title": "BioGlyco Flow Blood Health Support Dietary Supplement 60 Capsules Bio Glyco Flow",
       "image": "https://i.ebayimg.com/images/g/KUMAAeSweQppuaeQ/s-l1600.jpg",
@@ -3624,13 +3638,6 @@
       "image": "https://i.ebayimg.com/images/g/HvQAAeSwO05pxXgw/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157782072579",
       "price": "$59.00"
-    },
-    {
-      "id": "157785231307",
-      "title": "Breath Clear Lung Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/knsAAeSwwP5pxEnX/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157785231307",
-      "price": "$39.00"
     },
     {
       "id": "157791410061",
