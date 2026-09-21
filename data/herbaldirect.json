@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-21T20:53:38+00:00",
-  "count": 581,
+  "scraped_at": "2026-09-21T22:54:16+00:00",
+  "count": 580,
   "seen": [
     "153886790983",
     "153894822521",
@@ -3262,6 +3262,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157552276752",
+      "title": "Optivell Vision and Eye Health Support Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/QNQAAeSwR3ppRGnj/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157552276752",
+      "price": "$39.00"
+    },
+    {
       "id": "157552350126",
       "title": "Blue Horse Salt Trick Mens Health Support Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/35UAAeSwVm5pRWik/s-l1600.jpg",
@@ -3875,13 +3882,6 @@
       "title": "ProstaPure Advantage Prostate Health Support Supplement 60 Capsules Prosta Pure",
       "image": "https://i.ebayimg.com/images/g/L9sAAeSwI3ZqAj50/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157902789094",
-      "price": "$39.00"
-    },
-    {
-      "id": "157902814813",
-      "title": "Uro Flow Mens Prostate Support Supplement 60 Capsules Genuine UroFlow",
-      "image": "https://i.ebayimg.com/images/g/gskAAeSw8ohqAkCI/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157902814813",
       "price": "$39.00"
     },
     {
@@ -4519,13 +4519,6 @@
       "title": "HerpaFend Advanced Dietary Supplement | Wellness & Skin Health 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/mp0AAeSw02JqkzW1/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158237096606",
-      "price": "$39.00"
-    },
-    {
-      "id": "158237211274",
-      "title": "MemoFix Mind & Cognitive Health Support Dietary Supplement 60 Capsules Memo Fix",
-      "image": "https://i.ebayimg.com/images/g/8skAAeSwuVhqk0B-/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158237211274",
       "price": "$39.00"
     },
     {
