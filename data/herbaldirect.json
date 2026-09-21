@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-20T22:54:17+00:00",
-  "count": 580,
+  "scraped_at": "2026-09-21T00:58:30+00:00",
+  "count": 583,
   "seen": [
     "153886790983",
     "153894822521",
@@ -728,6 +728,13 @@
       "price": "$39.00"
     },
     {
+      "id": "154383204313",
+      "title": "Synapse XT Tinnitus Ear Ringing Relief Support Supplement 60 Capsules SynapseXT",
+      "image": "https://i.ebayimg.com/images/g/JuEAAOSwYL9fyqrz/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/154383204313",
+      "price": "$37.00"
+    },
+    {
       "id": "154387963238",
       "title": "AcidaBurn Detox Cleanse Capsules Supports Weight Loss & Gut Health - New",
       "image": "https://i.ebayimg.com/images/g/ExMAAOSwq85f2TW8/s-l1600.jpg",
@@ -810,6 +817,13 @@
       "image": "https://i.ebayimg.com/images/g/giIAAOSwxN1gfJr9/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/154559612323",
       "price": "$29.00"
+    },
+    {
+      "id": "154573758906",
+      "title": "GlucoFlow Advanced Blood Sugar Upgraded Formula - New",
+      "image": "https://i.ebayimg.com/images/g/rWcAAOSwFu1gEJ1T/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/154573758906",
+      "price": "$49.00"
     },
     {
       "id": "154577566430",
@@ -950,6 +964,13 @@
       "image": "https://i.ebayimg.com/images/g/CvsAAOSw6WhijU3M/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155008727904",
       "price": "$29.95"
+    },
+    {
+      "id": "155068944119",
+      "title": "LeanBiome Probiotic To Promote Weight Management and Gut Health 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/AXMAAOSwx5ZiyE47/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155068944119",
+      "price": "$49.00"
     },
     {
       "id": "155068950774",
@@ -2254,6 +2275,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157072005144",
+      "title": "Nerve Regain Nerve Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/~2YAAOSw~-ZoRIsF/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157072005144",
+      "price": "$49.00"
+    },
+    {
       "id": "157072231855",
       "title": "Health Flux Blood Balance Blood Health Support Optimizer 30 Capsules HealthFlux",
       "image": "https://i.ebayimg.com/images/g/sdIAAOSw8yBoRKVT/s-l1600.jpg",
@@ -2335,13 +2363,6 @@
       "title": "Premium Glyco Blood Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/-rAAAOSw5gNoVE83/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157113990968",
-      "price": "$39.00"
-    },
-    {
-      "id": "157114233555",
-      "title": "Blood Fix Blood Health Support Dietary Supplement 30 Capsules of Blood Fix",
-      "image": "https://i.ebayimg.com/images/g/Ed4AAOSwg05oVHvh/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157114233555",
       "price": "$39.00"
     },
     {
@@ -2968,6 +2989,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157445193930",
+      "title": "SugarWell Blood Health Support Supplement Advanced Formula 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/LcEAAeSwSrhpDL4F/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157445193930",
+      "price": "$39.00"
+    },
+    {
       "id": "157445215042",
       "title": "CelluFend Blood Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/WuIAAeSwTllpDMBo/s-l1600.jpg",
@@ -2994,13 +3022,6 @@
       "image": "https://i.ebayimg.com/images/g/KhwAAeSwfzxpEJ1z/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157451931776",
       "price": "$39.00"
-    },
-    {
-      "id": "157451954943",
-      "title": "Nervital Nerve Health and Blood Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/RuMAAeSw9n5pEKBT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157451954943",
-      "price": "$49.00"
     },
     {
       "id": "157451963336",
@@ -3416,13 +3437,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157667030143",
-      "title": "Blood Restore Blood Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/nS8AAeSwjoxph6Ir/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157667030143",
-      "price": "$39.00"
-    },
-    {
       "id": "157667056376",
       "title": "MemoCept Mind Memory & Cognitive Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/2u8AAeSwbcxph6Xh/s-l1600.jpg",
@@ -3570,13 +3584,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157763209658",
-      "title": "Lipo Jaro Weight Support Dietary Supplement 30 Capsules Genuine LipoJaro",
-      "image": "https://i.ebayimg.com/images/g/q2kAAeSwi3ppuXZz/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157763209658",
-      "price": "$39.00"
-    },
-    {
       "id": "157763719872",
       "title": "BioGlyco Flow Blood Health Support Dietary Supplement 60 Capsules Bio Glyco Flow",
       "image": "https://i.ebayimg.com/images/g/KUMAAeSweQppuaeQ/s-l1600.jpg",
@@ -3588,6 +3595,13 @@
       "title": "EchoZen Hearing Support Formula Dietary Supplement 60 Capsules Echo Zen",
       "image": "https://i.ebayimg.com/images/g/W6MAAeSwTyVpuyNK/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157767704396",
+      "price": "$49.00"
+    },
+    {
+      "id": "157781942047",
+      "title": "Vyrixin Mens Health Support Dietary Supplement From Hampshire Labs 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/kmgAAeSwfDRpwt4Z/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157781942047",
       "price": "$49.00"
     },
     {
@@ -3750,6 +3764,13 @@
       "image": "https://i.ebayimg.com/images/g/YUAAAeSwajBp4VjC/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157838853875",
       "price": "$49.00"
+    },
+    {
+      "id": "157843261360",
+      "title": "GlucoSera Blood Health Support Dietary Supplement 60 Capsules NTX Gluco Sera",
+      "image": "https://i.ebayimg.com/images/g/~wwAAeSwrclp48iW/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157843261360",
+      "price": "$39.00"
     },
     {
       "id": "157843565869",
