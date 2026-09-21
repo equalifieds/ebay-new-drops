@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-21T12:55:55+00:00",
-  "count": 582,
+  "scraped_at": "2026-09-21T14:56:03+00:00",
+  "count": 583,
   "seen": [
     "153886790983",
     "153894822521",
@@ -686,6 +686,13 @@
       "price": "$45.00"
     },
     {
+      "id": "154333737567",
+      "title": "Carbo Fix Carbohydrate Management Formula 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/g4UAAOSwCt9gCEaD/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/154333737567",
+      "price": "$49.00"
+    },
+    {
       "id": "154344139816",
       "title": "CarboFix Carbohydrate Management Formula 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/acoAAOSwHxNgB1ml/s-l1600.jpg",
@@ -1358,13 +1365,6 @@
       "price": "$39.97"
     },
     {
-      "id": "156224191514",
-      "title": "Ultimate BP Formula By True Health - Blood Health Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/KFsAAOSwhQRmUOhH/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156224191514",
-      "price": "$39.97"
-    },
-    {
       "id": "156225696785",
       "title": "BactiCure Natural Probiotic Immune System Support - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/e0MAAOSwYwJmUk3e/s-l1600.jpg",
@@ -1568,6 +1568,13 @@
       "price": "$59.00"
     },
     {
+      "id": "156437062557",
+      "title": "Everyday BP Blood Health Support Supplement 60 Vegetarian Capsules",
+      "image": "https://i.ebayimg.com/images/g/qVUAAOSwqO9m~Fw8/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156437062557",
+      "price": "$39.97"
+    },
+    {
       "id": "156439874845",
       "title": "GlucoBio Blood Health Support Dietary Supplement -60 Capsules",
       "image": "https://i.ebayimg.com/images/g/qeMAAOSwEH5m~qyO/s-l1600.jpg",
@@ -1650,13 +1657,6 @@
       "image": "https://i.ebayimg.com/images/g/I0wAAOSwBqpnk7Rs/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156653366184",
       "price": "$39.00"
-    },
-    {
-      "id": "156653416545",
-      "title": "MitoLyn Advanced Health and Weight Support 3 Bottles Original Formula  Mito Lyn",
-      "image": "https://i.ebayimg.com/images/g/Z80AAOSwePdnk75J/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156653416545",
-      "price": "$39.95"
     },
     {
       "id": "156733442536",
@@ -3682,6 +3682,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157798092353",
+      "title": "Balance Blends Blood Health Formula Mulberry Cinnamon 30 Capsules Genuine",
+      "image": "https://i.ebayimg.com/images/g/aWcAAeSw5rNpys6y/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157798092353",
+      "price": "$39.00"
+    },
+    {
       "id": "157800819114",
       "title": "NervoLyn Nerve Health Support Dietary Supplement 30 Capsules Nervo Lyn",
       "image": "https://i.ebayimg.com/images/g/vJQAAeSwjX9pzC-4/s-l1600.jpg",
@@ -4298,13 +4305,6 @@
       "price": "$89.00"
     },
     {
-      "id": "158074050864",
-      "title": "Jelly Tide Weight Support Dietary Supplement 30 Gummies Genuine Jelly Tide",
-      "image": "https://i.ebayimg.com/images/g/kXwAAeSwNF1qUWdf/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158074050864",
-      "price": "$39.00"
-    },
-    {
       "id": "158086854101",
       "title": "Jertaris Prostate Health Support Dietary Supplement 60 Capsules By Biotaris",
       "image": "https://i.ebayimg.com/images/g/FJIAAeSwNKlqWAmO/s-l1600.jpg",
@@ -4331,6 +4331,13 @@
       "image": "https://i.ebayimg.com/images/g/-B8AAeSw2~5qYjjH/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158112735600",
       "price": "$39.00"
+    },
+    {
+      "id": "158116862964",
+      "title": "Dentanol Promotes Healthy Teeth And Gums 30 Chewable Probiotic Tablets",
+      "image": "https://i.ebayimg.com/images/g/g2YAAeSwrptqY8Xw/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158116862964",
+      "price": "$49.00"
     },
     {
       "id": "158116973586",
@@ -4421,13 +4428,6 @@
       "title": "Nephora Renal Restore Kidney Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/x5UAAeSwR01qd5Yy/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158167967876",
-      "price": "$39.00"
-    },
-    {
-      "id": "158168155480",
-      "title": "Life Support Labs  Blood Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/hVcAAeSwUulqd61n/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158168155480",
       "price": "$39.00"
     },
     {
@@ -4618,6 +4618,13 @@
       "image": "https://i.ebayimg.com/images/g/wQ0AAeSwMYBqpuPZ/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158288400548",
       "price": "$39.00"
+    },
+    {
+      "id": "158288450631",
+      "title": "Apoapsis Advanced Formula Mens Health Support Dietary Supplement | 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/AlgAAeSwquFqpugt/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158288450631",
+      "price": "$49.00"
     },
     {
       "id": "158292480037",
