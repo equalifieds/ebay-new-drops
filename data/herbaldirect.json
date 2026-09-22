@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-22T04:55:28+00:00",
+  "scraped_at": "2026-09-22T06:58:57+00:00",
   "count": 584,
   "seen": [
     "153886790983",
@@ -784,6 +784,13 @@
       "price": "$49.00"
     },
     {
+      "id": "154469066570",
+      "title": "Diaba Core Blood Health Support Supplement - New 30 Capsules of DiabaCore",
+      "image": "https://i.ebayimg.com/images/g/K0AAAOSwldJgrtsR/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/154469066570",
+      "price": "$49.00"
+    },
+    {
       "id": "154480310007",
       "title": "Sonavel Hearing Support and Tinnitus Formula - New 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/zZcAAOSwNgVgrteO/s-l1600.jpg",
@@ -1111,13 +1118,6 @@
       "image": "https://i.ebayimg.com/images/g/AQgAAOSweRdkBpYj/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155441971485",
       "price": "$39.95"
-    },
-    {
-      "id": "155457631968",
-      "title": "Cardio Shield Health Supplement Pills - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/y8EAAOSwQelkE7CG/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155457631968",
-      "price": "$49.00"
     },
     {
       "id": "155493265736",
