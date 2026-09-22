@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-22T18:56:35+00:00",
-  "count": 580,
+  "scraped_at": "2026-09-22T20:54:54+00:00",
+  "count": 584,
   "seen": [
     "153886790983",
     "153894822521",
@@ -999,13 +999,6 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
-    },
-    {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -2100,6 +2093,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157014226700",
+      "title": "Memory Defender Advanced Brain & Cognitive Health Support 60 Capsules Genuine",
+      "image": "https://i.ebayimg.com/images/g/WxwAAOSwoRNoLzs~/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157014226700",
+      "price": "$49.00"
+    },
+    {
       "id": "157014241922",
       "title": "ReNerve Nerve Health Support Supplement Genuine 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/Gl4AAOSwKs5oLzzI/s-l1600.jpg",
@@ -2118,6 +2118,13 @@
       "title": "Glyco Assist Blood Health Support Supplement Genuine GlycoAssist 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/1X0AAOSwBDtoMI24/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157017697492",
+      "price": "$39.00"
+    },
+    {
+      "id": "157017701248",
+      "title": "GlucoStat Blood Health Support Supplement Genuine Gluco Stat 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Gz8AAOSwlYBoMI8Y/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157017701248",
       "price": "$39.00"
     },
     {
@@ -2189,6 +2196,13 @@
       "image": "https://i.ebayimg.com/images/g/tFkAAOSwUk9oONXe/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157040290264",
       "price": "$39.00"
+    },
+    {
+      "id": "157050816023",
+      "title": "Brain Defender Healthy Brain Support Supplement 30 Capsules Brain Defender",
+      "image": "https://i.ebayimg.com/images/g/JqwAAOSwXk9oPKQj/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157050816023",
+      "price": "$49.00"
     },
     {
       "id": "157050878077",
@@ -2342,6 +2356,13 @@
       "title": "Premium Glyco Blood Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/-rAAAOSw5gNoVE83/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157113990968",
+      "price": "$39.00"
+    },
+    {
+      "id": "157114233555",
+      "title": "Blood Fix Blood Health Support Dietary Supplement 30 Capsules of Blood Fix",
+      "image": "https://i.ebayimg.com/images/g/Ed4AAOSwg05oVHvh/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157114233555",
       "price": "$39.00"
     },
     {
@@ -3178,6 +3199,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157488051134",
+      "title": "Memo Genesis Memory Support | Focus Clarity & Brain Health Formula 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/hdIAAeSwjWtpIMOx/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157488051134",
+      "price": "$49.00"
+    },
+    {
       "id": "157488074108",
       "title": "Burn Peak Weight Management | Metabolism & Energy Support Formula 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/Q-AAAeSwh5ZpIMgS/s-l1600.jpg",
@@ -3645,6 +3673,13 @@
       "image": "https://i.ebayimg.com/images/g/el0AAeSwnhhpyBwc/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157793470447",
       "price": "$49.00"
+    },
+    {
+      "id": "157793670121",
+      "title": "GlycoCept Blood Health Support Dietary Supplement 60 Capsules Natural Wellness",
+      "image": "https://i.ebayimg.com/images/g/WiQAAeSw-2ppyCgD/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157793670121",
+      "price": "$39.00"
     },
     {
       "id": "157795955639",
@@ -4338,13 +4373,6 @@
       "image": "https://i.ebayimg.com/images/g/gecAAeSwFKNqb5cc/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158147206511",
       "price": "$49.00"
-    },
-    {
-      "id": "158147237994",
-      "title": "Venus Factor Advanced Heath & Vitality Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/CcoAAeSwapBqb5uX/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158147237994",
-      "price": "$39.00"
     },
     {
       "id": "158147277199",
