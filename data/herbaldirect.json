@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-22T14:57:37+00:00",
-  "count": 579,
+  "scraped_at": "2026-09-22T16:55:57+00:00",
+  "count": 580,
   "seen": [
     "153886790983",
     "153894822521",
@@ -999,6 +999,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -2079,13 +2086,6 @@
       "price": "$49.00"
     },
     {
-      "id": "157014226700",
-      "title": "Memory Defender Advanced Brain & Cognitive Health Support 60 Capsules Genuine",
-      "image": "https://i.ebayimg.com/images/g/WxwAAOSwoRNoLzs~/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157014226700",
-      "price": "$49.00"
-    },
-    {
       "id": "157014241922",
       "title": "ReNerve Nerve Health Support Supplement Genuine 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/Gl4AAOSwKs5oLzzI/s-l1600.jpg",
@@ -2175,6 +2175,13 @@
       "image": "https://i.ebayimg.com/images/g/tFkAAOSwUk9oONXe/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157040290264",
       "price": "$39.00"
+    },
+    {
+      "id": "157050816023",
+      "title": "Brain Defender Healthy Brain Support Supplement 30 Capsules Brain Defender",
+      "image": "https://i.ebayimg.com/images/g/JqwAAOSwXk9oPKQj/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157050816023",
+      "price": "$49.00"
     },
     {
       "id": "157050878077",
