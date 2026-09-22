@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-22T20:54:54+00:00",
-  "count": 584,
+  "scraped_at": "2026-09-22T22:54:03+00:00",
+  "count": 585,
   "seen": [
     "153886790983",
     "153894822521",
@@ -999,6 +999,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -3493,13 +3500,6 @@
       "price": "$49.00"
     },
     {
-      "id": "157698221789",
-      "title": "ProstaGorx Prostate Health Support Original Formula 60 Capsules Innovus Pharma",
-      "image": "https://i.ebayimg.com/images/g/UJIAAeSwLixpmjAC/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157698221789",
-      "price": "$39.00"
-    },
-    {
       "id": "157700921391",
       "title": "Testo Dark Mens Health Support Dietary Supplement 60 Capsules TestoDark",
       "image": "https://i.ebayimg.com/images/g/RscAAeSwKytpm5A9/s-l1600.jpg",
@@ -4373,6 +4373,13 @@
       "image": "https://i.ebayimg.com/images/g/gecAAeSwFKNqb5cc/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158147206511",
       "price": "$49.00"
+    },
+    {
+      "id": "158147237994",
+      "title": "Venus Factor Advanced Heath & Vitality Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/CcoAAeSwapBqb5uX/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158147237994",
+      "price": "$39.00"
     },
     {
       "id": "158147277199",
