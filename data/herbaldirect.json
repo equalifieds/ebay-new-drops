@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-22T02:55:37+00:00",
-  "count": 583,
+  "scraped_at": "2026-09-22T04:55:28+00:00",
+  "count": 584,
   "seen": [
     "153886790983",
     "153894822521",
@@ -784,13 +784,6 @@
       "price": "$49.00"
     },
     {
-      "id": "154469066570",
-      "title": "Diaba Core Blood Health Support Supplement - New 30 Capsules of DiabaCore",
-      "image": "https://i.ebayimg.com/images/g/K0AAAOSwldJgrtsR/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/154469066570",
-      "price": "$49.00"
-    },
-    {
       "id": "154480310007",
       "title": "Sonavel Hearing Support and Tinnitus Formula - New 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/zZcAAOSwNgVgrteO/s-l1600.jpg",
@@ -999,6 +992,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -1657,6 +1657,13 @@
       "image": "https://i.ebayimg.com/images/g/I0wAAOSwBqpnk7Rs/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156653366184",
       "price": "$39.00"
+    },
+    {
+      "id": "156653416545",
+      "title": "MitoLyn Advanced Health and Weight Support 3 Bottles Original Formula  Mito Lyn",
+      "image": "https://i.ebayimg.com/images/g/Z80AAOSwePdnk75J/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156653416545",
+      "price": "$39.95"
     },
     {
       "id": "156733442536",
@@ -2349,6 +2356,13 @@
       "title": "Premium Glyco Blood Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/-rAAAOSw5gNoVE83/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157113990968",
+      "price": "$39.00"
+    },
+    {
+      "id": "157114233555",
+      "title": "Blood Fix Blood Health Support Dietary Supplement 30 Capsules of Blood Fix",
+      "image": "https://i.ebayimg.com/images/g/Ed4AAOSwg05oVHvh/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157114233555",
       "price": "$39.00"
     },
     {
@@ -3266,13 +3280,6 @@
       "title": "Healthy Flow Prostate Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/smkAAeSwCUJpRFI0/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157552043079",
-      "price": "$39.00"
-    },
-    {
-      "id": "157552146788",
-      "title": "Healthy Flow Lung Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/cn4AAeSw2FBpRGMo/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157552146788",
       "price": "$39.00"
     },
     {
