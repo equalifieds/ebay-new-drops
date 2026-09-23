@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-23T06:58:43+00:00",
-  "count": 584,
+  "scraped_at": "2026-09-23T08:56:30+00:00",
+  "count": 580,
   "seen": [
     "153886790983",
     "153894822521",
@@ -999,13 +999,6 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
-    },
-    {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -2310,6 +2303,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157079254614",
+      "title": "Block Sugar Pro Blood Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/fcEAAOSwkOdoR1~M/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157079254614",
+      "price": "$39.00"
+    },
+    {
       "id": "157079298545",
       "title": "SugarWell Blood Health Support Advanced Formula 60 Capsules of Sugar Well",
       "image": "https://i.ebayimg.com/images/g/-8wAAOSwQbpoR2R9/s-l1600.jpg",
@@ -2594,13 +2594,6 @@
       "title": "CircuLife Blood Health Support Dietary Supplement 30 Capsules Circu Life Support",
       "image": "https://i.ebayimg.com/images/g/0JkAAeSwbrdoioZl/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157208617843",
-      "price": "$39.00"
-    },
-    {
-      "id": "157208678992",
-      "title": "Neuro Surge Memory Cognition & Brain Support 60 Capsules of NeuroSurge",
-      "image": "https://i.ebayimg.com/images/g/5HYAAeSwknxoio-O/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157208678992",
       "price": "$39.00"
     },
     {
@@ -3197,6 +3190,13 @@
       "image": "https://i.ebayimg.com/images/g/BeUAAeSwbKppH5K5/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157485141136",
       "price": "$39.00"
+    },
+    {
+      "id": "157488051134",
+      "title": "Memo Genesis Memory Support | Focus Clarity & Brain Health Formula 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/hdIAAeSwjWtpIMOx/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157488051134",
+      "price": "$49.00"
     },
     {
       "id": "157488074108",
@@ -4382,20 +4382,6 @@
       "price": "$39.00"
     },
     {
-      "id": "158147309310",
-      "title": "GumiTide ACV Health Support Gummy Supplement 30 Gummies Gumi Tide",
-      "image": "https://i.ebayimg.com/images/g/5xAAAeSwVktqb6Q7/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158147309310",
-      "price": "$39.00"
-    },
-    {
-      "id": "158147455765",
-      "title": "Hawaiian Harmony Blood Health Support Supplement Now In 30 Capsule Bottles",
-      "image": "https://i.ebayimg.com/images/g/p9AAAeSwi1Jqb7hX/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158147455765",
-      "price": "$39.00"
-    },
-    {
       "id": "158147488929",
       "title": "NeuroVera Mind & Cognitive Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/uYIAAeSw2Ohqb7ys/s-l1600.jpg",
@@ -4417,24 +4403,10 @@
       "price": "$39.00"
     },
     {
-      "id": "158167909238",
-      "title": "GlyTrix Blood Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/MmwAAeSwSUhqd5Ft/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158167909238",
-      "price": "$39.00"
-    },
-    {
       "id": "158167967876",
       "title": "Nephora Renal Restore Kidney Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/x5UAAeSwR01qd5Yy/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158167967876",
-      "price": "$39.00"
-    },
-    {
-      "id": "158168155480",
-      "title": "Life Support Labs  Blood Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/hVcAAeSwUulqd61n/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158168155480",
       "price": "$39.00"
     },
     {
