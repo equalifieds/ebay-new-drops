@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-23T14:57:35+00:00",
-  "count": 580,
+  "scraped_at": "2026-09-23T16:56:09+00:00",
+  "count": 578,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1953,6 +1953,13 @@
       "price": "$39.00"
     },
     {
+      "id": "156946709778",
+      "title": "Glycetra Blood Health Support Dietary Supplement Genuine 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/PpIAAOSwbP5oE~hr/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156946709778",
+      "price": "$39.00"
+    },
+    {
       "id": "156952555707",
       "title": "FitPill Advanced Health Support Formula Genuine 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/7nQAAOSwe~hoFnjD/s-l1600.jpg",
@@ -2112,20 +2119,6 @@
       "image": "https://i.ebayimg.com/images/g/FikAAOSwko5oL0Ae/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157014277346",
       "price": "$49.00"
-    },
-    {
-      "id": "157017697492",
-      "title": "Glyco Assist Blood Health Support Supplement Genuine GlycoAssist 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/1X0AAOSwBDtoMI24/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157017697492",
-      "price": "$39.00"
-    },
-    {
-      "id": "157017701248",
-      "title": "GlucoStat Blood Health Support Supplement Genuine Gluco Stat 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Gz8AAOSwlYBoMI8Y/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157017701248",
-      "price": "$39.00"
     },
     {
       "id": "157022034540",
@@ -2343,6 +2336,13 @@
       "image": "https://i.ebayimg.com/images/g/CCUAAOSw-m5oTxME/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157099912790",
       "price": "$49.00"
+    },
+    {
+      "id": "157107553035",
+      "title": "Nerve Flow Nerve Health and Fuction Support 30 Capsules Genuine Nerve Flow",
+      "image": "https://i.ebayimg.com/images/g/Ms8AAOSwWrVoUeps/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157107553035",
+      "price": "$39.00"
     },
     {
       "id": "157113990968",
@@ -2797,6 +2797,13 @@
       "title": "Memo Blast Advanced Mind Memory Cognitive Support 60 Capsules Genuine MemoBlast",
       "image": "https://i.ebayimg.com/images/g/0b4AAeSwoaBo82Zm/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157399843904",
+      "price": "$49.00"
+    },
+    {
+      "id": "157399865614",
+      "title": "Iron Horse Mens Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/2cQAAeSwlnxo82lr/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157399865614",
       "price": "$49.00"
     },
     {
@@ -3899,13 +3906,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157911008807",
-      "title": "Nervenix Advanced Nerve Health Support Dietary Supplement 60 Capsules Genuine",
-      "image": "https://i.ebayimg.com/images/g/WbcAAeSwwelqBjzD/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157911008807",
-      "price": "$39.00"
-    },
-    {
       "id": "157913838887",
       "title": "Stem Cell Renew by Vitality Now Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/PFgAAeSws11qB42G/s-l1600.jpg",
@@ -4298,13 +4298,6 @@
       "price": "$39.00"
     },
     {
-      "id": "158112735600",
-      "title": "Glyco Reset Blood Health Support Dietary Supplement Now In 30 Capsule Bottles",
-      "image": "https://i.ebayimg.com/images/g/-B8AAeSw2~5qYjjH/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158112735600",
-      "price": "$39.00"
-    },
-    {
       "id": "158116862964",
       "title": "Dentanol Promotes Healthy Teeth And Gums 30 Chewable Probiotic Tablets",
       "image": "https://i.ebayimg.com/images/g/g2YAAeSwrptqY8Xw/s-l1600.jpg",
@@ -4351,13 +4344,6 @@
       "title": "Nerve Revive 360 Nerve Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/qpQAAeSwdbtqb6F8/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158147277199",
-      "price": "$39.00"
-    },
-    {
-      "id": "158147309310",
-      "title": "GumiTide ACV Health Support Gummy Supplement 30 Gummies Gumi Tide",
-      "image": "https://i.ebayimg.com/images/g/5xAAAeSwVktqb6Q7/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158147309310",
       "price": "$39.00"
     },
     {
