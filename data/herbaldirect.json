@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-23T16:56:09+00:00",
+  "scraped_at": "2026-09-23T18:56:18+00:00",
   "count": 578,
   "seen": [
     "153886790983",
@@ -637,13 +637,6 @@
       "price": "$19.99"
     },
     {
-      "id": "153907149225",
-      "title": "ParaZyte Intestine Support With Wormwood, Black Walnut Hull, Pau D' Arco",
-      "image": "https://i.ebayimg.com/images/g/Yg4AAOSw3v5Ypxsq/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/153907149225",
-      "price": "$24.97"
-    },
-    {
       "id": "154217248308",
       "title": "Liposomal Vitamin C Capsules High Absorption 1,000 mg Per Serving Immune Support",
       "image": "https://i.ebayimg.com/images/g/n34AAOSwzLNejmKG/s-l1600.jpg",
@@ -999,13 +992,6 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
-    },
-    {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -2121,6 +2107,20 @@
       "price": "$49.00"
     },
     {
+      "id": "157017697492",
+      "title": "Glyco Assist Blood Health Support Supplement Genuine GlycoAssist 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/1X0AAOSwBDtoMI24/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157017697492",
+      "price": "$39.00"
+    },
+    {
+      "id": "157017701248",
+      "title": "GlucoStat Blood Health Support Supplement Genuine Gluco Stat 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Gz8AAOSwlYBoMI8Y/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157017701248",
+      "price": "$39.00"
+    },
+    {
       "id": "157022034540",
       "title": "Gluco Synq Blood Health Support Supplement Advanced Formula GlucoSynq 60 Capsule",
       "image": "https://i.ebayimg.com/images/g/LNgAAOSwFTBoMigD/s-l1600.jpg",
@@ -2800,13 +2800,6 @@
       "price": "$49.00"
     },
     {
-      "id": "157399865614",
-      "title": "Iron Horse Mens Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/2cQAAeSwlnxo82lr/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157399865614",
-      "price": "$49.00"
-    },
-    {
       "id": "157406856722",
       "title": "Proven Joint Health Support Advanced SugarWise Mobility Support 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/qAQAAeSwdfpo90UJ/s-l1600.jpg",
@@ -2860,6 +2853,13 @@
       "title": "Retina Clear Eye and Vision Health Dietary Supplement 60 Calpsules",
       "image": "https://i.ebayimg.com/images/g/gXYAAeSwSFho-ROU/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157410298608",
+      "price": "$39.00"
+    },
+    {
+      "id": "157412365578",
+      "title": "Alpha Boost Mens Health Support Supplement 60 Capsules Alpha Boost By NatuPrime",
+      "image": "https://i.ebayimg.com/images/g/cZ0AAeSwYiZo-jOG/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157412365578",
       "price": "$39.00"
     },
     {
@@ -3204,13 +3204,6 @@
       "image": "https://i.ebayimg.com/images/g/SyYAAeSwwnVpIiY9/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157491373384",
       "price": "$49.00"
-    },
-    {
-      "id": "157494319980",
-      "title": "Katara Wellness Glyco Optimizer Blood Health Support Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/~roAAeSw4LNpI2Iy/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157494319980",
-      "price": "$39.00"
     },
     {
       "id": "157494427846",
@@ -3906,6 +3899,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157911008807",
+      "title": "Nervenix Advanced Nerve Health Support Dietary Supplement 60 Capsules Genuine",
+      "image": "https://i.ebayimg.com/images/g/WbcAAeSwwelqBjzD/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157911008807",
+      "price": "$39.00"
+    },
+    {
       "id": "157913838887",
       "title": "Stem Cell Renew by Vitality Now Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/PFgAAeSws11qB42G/s-l1600.jpg",
@@ -4347,6 +4347,13 @@
       "price": "$39.00"
     },
     {
+      "id": "158147309310",
+      "title": "GumiTide ACV Health Support Gummy Supplement 30 Gummies Gumi Tide",
+      "image": "https://i.ebayimg.com/images/g/5xAAAeSwVktqb6Q7/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158147309310",
+      "price": "$39.00"
+    },
+    {
       "id": "158147455765",
       "title": "Hawaiian Harmony Blood Health Support Supplement Now In 30 Capsule Bottles",
       "image": "https://i.ebayimg.com/images/g/p9AAAeSwi1Jqb7hX/s-l1600.jpg",
@@ -4449,13 +4456,6 @@
       "title": "Sugar Balance Blood Health Support Advanced Formula Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/1q4AAeSw-95qh3Ir/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158210297073",
-      "price": "$39.00"
-    },
-    {
-      "id": "158216240479",
-      "title": "HemaVex Joint Capsules Joint Health Support Mobility & Comfort 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/fpoAAeSwiX1qizxf/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158216240479",
       "price": "$39.00"
     },
     {
