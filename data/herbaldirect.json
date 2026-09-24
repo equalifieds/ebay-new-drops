@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-23T22:53:57+00:00",
-  "count": 563,
+  "scraped_at": "2026-09-24T00:57:46+00:00",
+  "count": 574,
   "seen": [
     "153886790983",
     "153894822521",
@@ -973,13 +973,6 @@
       "price": "$49.00"
     },
     {
-      "id": "155068950774",
-      "title": "FluxActive Complete Vital Prostate Wellness Formula 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/RM4AAOSwnLhiyFFt/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155068950774",
-      "price": "$39.95"
-    },
-    {
       "id": "155083491939",
       "title": "Uricinex Uric Acid Support Supplement - 60 Capsules - New",
       "image": "https://i.ebayimg.com/images/g/Bk4AAOSwlI1fwugL/s-l1600.jpg",
@@ -1288,13 +1281,6 @@
       "price": "$39.00"
     },
     {
-      "id": "155945735527",
-      "title": "Nerve Savior Health Supplement 60 Capsules Genuine Nerve Savior",
-      "image": "https://i.ebayimg.com/images/g/AMwAAOSwYrZleIVl/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155945735527",
-      "price": "$37.00"
-    },
-    {
       "id": "155965956285",
       "title": "Hemoglutrix Blood Health Supplement Genuine 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/kGMAAOSwtPNlhmgj/s-l1600.jpg",
@@ -1400,6 +1386,13 @@
       "price": "$37.00"
     },
     {
+      "id": "156245192175",
+      "title": "Liv Pure Liver Health Support Supplement 60 Capsules of LivPure",
+      "image": "https://i.ebayimg.com/images/g/U4IAAOSwYLVmYgEM/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156245192175",
+      "price": "$37.00"
+    },
+    {
       "id": "156247876494",
       "title": "Care Renew Blood Health Advanced Support Formula - 60 Capsules By CareRenew",
       "image": "https://i.ebayimg.com/images/g/esAAAOSwUlZmZLqk/s-l1600.jpg",
@@ -1474,6 +1467,13 @@
       "title": "CelluCare Advanced Blood Health Support Supplement - 30 Capsules Genuine",
       "image": "https://i.ebayimg.com/images/g/SrYAAOSw6upmyN6o/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156370698110",
+      "price": "$39.00"
+    },
+    {
+      "id": "156383690753",
+      "title": "Arteris Plus Blood Health Dietary Supplement - 60 Capsules Arteries Plus Genuine",
+      "image": "https://i.ebayimg.com/images/g/SNkAAOSwkHJm03wv/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156383690753",
       "price": "$39.00"
     },
     {
@@ -1687,11 +1687,11 @@
       "price": "$39.00"
     },
     {
-      "id": "156857127640",
-      "title": "Lymph Savior Advanced Lymphatic Health Support 60 Capsules Genuine Lymph Savior",
-      "image": "https://i.ebayimg.com/images/g/E6kAAOSwH1Zn8FUi/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156857127640",
-      "price": "$49.00"
+      "id": "156856695376",
+      "title": "Striction D Advanced Formula Blood Health Support 60 Capsules Genuine StrictionD",
+      "image": "https://i.ebayimg.com/images/g/to8AAOSwzaNn8DRo/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156856695376",
+      "price": "$29.95"
     },
     {
       "id": "156857190414",
@@ -1939,6 +1939,13 @@
       "price": "$39.00"
     },
     {
+      "id": "156952567494",
+      "title": "Nerve Axionis Advanced Herve Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ix8AAOSwQXdoFnoK/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156952567494",
+      "price": "$49.00"
+    },
+    {
       "id": "156952587218",
       "title": "Neura Shield Nerve Healh Dietary Supplement Genuine 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/~tEAAOSwKW1oFnzt/s-l1600.jpg",
@@ -2156,6 +2163,27 @@
       "price": "$49.00"
     },
     {
+      "id": "157040229863",
+      "title": "Vision Support Maximum Strength Eye Health Support 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/tKQAAOSwZR5oONGe/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157040229863",
+      "price": "$39.00"
+    },
+    {
+      "id": "157040290264",
+      "title": "GlucoPlus Blood Health Support & Optimizer Supplement 30 Capsules Gluco Plus",
+      "image": "https://i.ebayimg.com/images/g/tFkAAOSwUk9oONXe/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157040290264",
+      "price": "$39.00"
+    },
+    {
+      "id": "157050816023",
+      "title": "Brain Defender Healthy Brain Support Supplement 30 Capsules Brain Defender",
+      "image": "https://i.ebayimg.com/images/g/JqwAAOSwXk9oPKQj/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157050816023",
+      "price": "$49.00"
+    },
+    {
       "id": "157050878077",
       "title": "Sumatra Slim Belly Dietary Supplement 60 Capsules of Genuine Sumatra Slim Belly",
       "image": "https://i.ebayimg.com/images/g/1UgAAOSwmihoPKpW/s-l1600.jpg",
@@ -2202,13 +2230,6 @@
       "title": "NervLief6 Advanced Nerve Health Support Supplement NervLief 6 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/1fcAAOSwm89oQgm3/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157065495630",
-      "price": "$49.00"
-    },
-    {
-      "id": "157065499582",
-      "title": "Neuro Clean Advanced MInd & Cognitive Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/DcYAAOSwCFRoQgtm/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157065499582",
       "price": "$49.00"
     },
     {
@@ -2485,13 +2506,6 @@
       "price": "$49.00"
     },
     {
-      "id": "157194419551",
-      "title": "Virile Flow Mens Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/omcAAeSwkuRogTqH/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157194419551",
-      "price": "$49.00"
-    },
-    {
       "id": "157194446383",
       "title": "Metabolyn Healthy Weight Loss & Energy Support Formula 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/s40AAeSw~cdogTzw/s-l1600.jpg",
@@ -2604,6 +2618,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157242261663",
+      "title": "GlucoAdvance Blood Health Support Dietary Supplement 60 Capsules Gluco Advance",
+      "image": "https://i.ebayimg.com/images/g/i4AAAeSwCT9onP1c/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157242261663",
+      "price": "$39.00"
+    },
+    {
       "id": "157249518903",
       "title": "Total Flow Blood Health Daily Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/g6EAAeSw3M9ooPcb/s-l1600.jpg",
@@ -2615,6 +2636,13 @@
       "title": "Healthy Flow Cleanse Dietary Supplement 60 Capsules of Healthy Flow Cleanse",
       "image": "https://i.ebayimg.com/images/g/MhIAAeSwKe1ooPmB/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157249536623",
+      "price": "$39.00"
+    },
+    {
+      "id": "157254295813",
+      "title": "CircuPulse Blood Health Support Dietary Supplement 60 Capsules Circu Pulse",
+      "image": "https://i.ebayimg.com/images/g/3dgAAeSwf0Voo6mM/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157254295813",
       "price": "$39.00"
     },
     {
@@ -2658,13 +2686,6 @@
       "image": "https://i.ebayimg.com/images/g/WugAAeSw5qlorNWr/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157271586640",
       "price": "$39.00"
-    },
-    {
-      "id": "157279518211",
-      "title": "Apex Force Mens Health Support Dietary Supplement For Stamina 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/isYAAeSwHlposNwE/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157279518211",
-      "price": "$49.00"
     },
     {
       "id": "157284335544",
@@ -2968,6 +2989,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157451963336",
+      "title": "Glycevia Blood Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/I8IAAeSwO5dpEKMw/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157451963336",
+      "price": "$39.00"
+    },
+    {
       "id": "157451982725",
       "title": "Dear Apothecary Advanced Blood Health Support Dietary Supplemet 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/LDIAAeSwrwppEKW6/s-l1600.jpg",
@@ -3010,6 +3038,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157456797292",
+      "title": "Beast Force Mens Health Support Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/KX0AAeSw~eNpE01y/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157456797292",
+      "price": "$49.00"
+    },
+    {
       "id": "157456856769",
       "title": "Memyts Mind Health and Cognitive Blend Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/RXIAAeSwzZRpE1ai/s-l1600.jpg",
@@ -3043,6 +3078,13 @@
       "image": "https://i.ebayimg.com/images/g/WugAAeSw5qlorNWr/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157462392257",
       "price": "$50.00"
+    },
+    {
+      "id": "157462901971",
+      "title": "EliteXTREME Prostate Health Support Dietary Supplement 60 Capsules Elite Xtreme",
+      "image": "https://i.ebayimg.com/images/g/CMwAAeSwUABpFk7w/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157462901971",
+      "price": "$39.00"
     },
     {
       "id": "157463069927",
@@ -3108,11 +3150,11 @@
       "price": "$49.00"
     },
     {
-      "id": "157488051134",
-      "title": "Memo Genesis Memory Support | Focus Clarity & Brain Health Formula 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/hdIAAeSwjWtpIMOx/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157488051134",
-      "price": "$49.00"
+      "id": "157485141136",
+      "title": "Glyco Balancer Blood Health Support Dietary Supplement 30 Capsules GlycoBalancer",
+      "image": "https://i.ebayimg.com/images/g/BeUAAeSwbKppH5K5/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157485141136",
+      "price": "$39.00"
     },
     {
       "id": "157488074108",
@@ -3339,13 +3381,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157664054442",
-      "title": "Ember Ghee Mens Health Support Male Dietary Supplement 30 Capsules Genuine",
-      "image": "https://i.ebayimg.com/images/g/l2sAAeSwk69phiHZ/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157664054442",
-      "price": "$49.00"
-    },
-    {
       "id": "157666999606",
       "title": "Prosta Defender Prostate Support Dietary Supplement 60 Capsules ProstaDefender",
       "image": "https://i.ebayimg.com/images/g/aZoAAeSwWQFph5y3/s-l1600.jpg",
@@ -3428,6 +3463,13 @@
       "image": "https://i.ebayimg.com/images/g/F8kAAeSw1m1pnh4j/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157706270679",
       "price": "$39.00"
+    },
+    {
+      "id": "157735370064",
+      "title": "Boost Power Mens Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/JW0AAeSw4v9prcTt/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157735370064",
+      "price": "$49.00"
     },
     {
       "id": "157735399970",
@@ -3528,6 +3570,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157782031582",
+      "title": "Sweet Restore Keto ACV Gummies Dietary Supplement 30 Gummies",
+      "image": "https://i.ebayimg.com/images/g/P7EAAeSwQONpwuo0/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157782031582",
+      "price": "$39.00"
+    },
+    {
       "id": "157782040394",
       "title": "Sweet Restore Cleanse Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/YJsAAeSwlBhpwuzw/s-l1600.jpg",
@@ -3582,13 +3631,6 @@
       "image": "https://i.ebayimg.com/images/g/aioAAeSwin9pyZDA/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157795955639",
       "price": "$49.00"
-    },
-    {
-      "id": "157798092353",
-      "title": "Balance Blends Blood Health Formula Mulberry Cinnamon 30 Capsules Genuine",
-      "image": "https://i.ebayimg.com/images/g/aWcAAeSw5rNpys6y/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157798092353",
-      "price": "$39.00"
     },
     {
       "id": "157800819114",
@@ -3724,6 +3766,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157843653870",
+      "title": "Glycogen Plus 800mg Capsules Blood Health Support 30 Capsules GlycogenPlus",
+      "image": "https://i.ebayimg.com/images/g/ELAAAeSwGTpp4~c0/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157843653870",
+      "price": "$39.00"
+    },
+    {
       "id": "157845887523",
       "title": "Neuro Elite Mind & Cognitive Dietary Supplement 30 Capsules NTX NeuroElite",
       "image": "https://i.ebayimg.com/images/g/syAAAeSwpzNp5TW5/s-l1600.jpg",
@@ -3763,6 +3812,13 @@
       "title": "MemoPryl Mind & Cognitive Health Support Dietary Supplement 30 Capsules Genuine",
       "image": "https://i.ebayimg.com/images/g/uh4AAeSwqUtp9Pjc/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157876358482",
+      "price": "$39.00"
+    },
+    {
+      "id": "157876457452",
+      "title": "Gluco Capsules Blood Health & Optimizer Support 30 Capsules WellSpring Nutrients",
+      "image": "https://i.ebayimg.com/images/g/HakAAeSweM9p9QXJ/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157876457452",
       "price": "$39.00"
     },
     {
@@ -4074,13 +4130,6 @@
       "price": "$49.00"
     },
     {
-      "id": "158011922221",
-      "title": "JB Restore Pain Relief Natural Joint Function and Mobility Support 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/dMEAAeSwf9FqNZIZ/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158011922221",
-      "price": "$39.00"
-    },
-    {
       "id": "158020977201",
       "title": "Flexi Move Advanced Joint Health Support Supplement 60 Capsules FlexiMove",
       "image": "https://i.ebayimg.com/images/g/~bAAAeSwK8pqOvvE/s-l1600.jpg",
@@ -4163,6 +4212,13 @@
       "image": "https://i.ebayimg.com/images/g/fHAAAeSwFQVqSsSm/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158058134720",
       "price": "$39.00"
+    },
+    {
+      "id": "158058398776",
+      "title": "Male Pro Edge Extra Strength Mens Health Support Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/f1MAAeSwrthqSuKl/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158058398776",
+      "price": "$49.00"
     },
     {
       "id": "158058428284",
@@ -4256,6 +4312,13 @@
       "price": "$49.00"
     },
     {
+      "id": "158147237994",
+      "title": "Venus Factor Advanced Heath & Vitality Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/CcoAAeSwapBqb5uX/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158147237994",
+      "price": "$39.00"
+    },
+    {
       "id": "158147277199",
       "title": "Nerve Revive 360 Nerve Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/qpQAAeSwdbtqb6F8/s-l1600.jpg",
@@ -4309,6 +4372,13 @@
       "title": "Nephora Renal Restore Kidney Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/x5UAAeSwR01qd5Yy/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158167967876",
+      "price": "$39.00"
+    },
+    {
+      "id": "158168155480",
+      "title": "Life Support Labs  Blood Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/hVcAAeSwUulqd61n/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158168155480",
       "price": "$39.00"
     },
     {
@@ -4452,13 +4522,6 @@
       "price": "$49.00"
     },
     {
-      "id": "158243684727",
-      "title": "Neuro Serge Mind & Cognitive Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/XZ8AAeSwhYZqldNC/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158243684727",
-      "price": "$49.00"
-    },
-    {
       "id": "158243784725",
       "title": "Horse Jello Mens Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/138AAeSwYspqld2F/s-l1600.jpg",
@@ -4480,6 +4543,13 @@
       "price": "$39.00"
     },
     {
+      "id": "158275186364",
+      "title": "Glyco Barrier Blood Health Support Supplement Now Available In 60 Capsule Bottle",
+      "image": "https://i.ebayimg.com/images/g/jAcAAeSw7QVqoXya/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158275186364",
+      "price": "$39.00"
+    },
+    {
       "id": "158285110270",
       "title": "DentaVive Probiotics For Healthy Teeth And Gums | 30 Soft Tablets | Genuine",
       "image": "https://i.ebayimg.com/images/g/5b0AAeSwyXtqpZzY/s-l1600.jpg",
@@ -4494,11 +4564,11 @@
       "price": "$39.00"
     },
     {
-      "id": "158288450631",
-      "title": "Apoapsis Advanced Formula Mens Health Support Dietary Supplement | 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/AlgAAeSwquFqpugt/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158288450631",
-      "price": "$49.00"
+      "id": "158292480037",
+      "title": "Healvora  Clear Lungs Lung & Breathing Support Supplement | 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ct4AAeSwJs5qqGBi/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158292480037",
+      "price": "$39.00"
     },
     {
       "id": "158292503310",
@@ -4519,6 +4589,13 @@
       "title": "Hema Renew Blood Health Support Dietary Supplement | 60 Capsules | HemaRenew",
       "image": "https://i.ebayimg.com/images/g/eHIAAeSwSkFqqHDT/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158292644492",
+      "price": "$39.00"
+    },
+    {
+      "id": "158299513229",
+      "title": "Thermo Burn Pro Advanced Energy & Health Supplement ThermoBurnPro 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/1YIAAeSwO7ZqqwN1/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158299513229",
       "price": "$39.00"
     }
   ]
