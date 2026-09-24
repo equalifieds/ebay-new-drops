@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-24T10:55:45+00:00",
-  "count": 582,
+  "scraped_at": "2026-09-24T12:59:20+00:00",
+  "count": 579,
   "seen": [
     "153886790983",
     "153894822521",
@@ -2009,6 +2009,13 @@
       "price": "$39.00"
     },
     {
+      "id": "156991863032",
+      "title": "Gluco Nutra Blood Health Support With Biotin & Mulberry 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/LScAAOSwEi5oJmT~/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156991863032",
+      "price": "$39.00"
+    },
+    {
       "id": "156995234033",
       "title": "Natural Glyco Blood Health Support Blood & Circulation Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/6SwAAOSwX~NoJ64n/s-l1600.jpg",
@@ -2919,13 +2926,6 @@
       "price": "$49.00"
     },
     {
-      "id": "157433270879",
-      "title": "TrueGlyco Glyco Optimizer Blood Health Support 30 Calpsules True Glyco",
-      "image": "https://i.ebayimg.com/images/g/Fr8AAeSwDV1pBimq/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157433270879",
-      "price": "$39.00"
-    },
-    {
       "id": "157433287866",
       "title": "Citolyn Blood Health and Weight Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/yUwAAeSwlzhpBixK/s-l1600.jpg",
@@ -3115,13 +3115,6 @@
       "price": "$49.00"
     },
     {
-      "id": "157464848964",
-      "title": "GutOptim Digestive and Gut Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/QtkAAeSwV-hpFz8A/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157464848964",
-      "price": "$39.00"
-    },
-    {
       "id": "157465940711",
       "title": "Zanari Mens Health Supplement Supports Energy and Endurance 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/j~AAAeSwHpZpF6Oy/s-l1600.jpg",
@@ -3162,13 +3155,6 @@
       "image": "https://i.ebayimg.com/images/g/cF8AAeSwSFBpGKBw/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157467642549",
       "price": "$49.00"
-    },
-    {
-      "id": "157485141136",
-      "title": "Glyco Balancer Blood Health Support Dietary Supplement 30 Capsules GlycoBalancer",
-      "image": "https://i.ebayimg.com/images/g/BeUAAeSwbKppH5K5/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157485141136",
-      "price": "$39.00"
     },
     {
       "id": "157488051134",
@@ -4393,13 +4379,6 @@
       "title": "GlycoVista Blood Health Support Dietary Supplement 60 Capsules of Glyco Vista",
       "image": "https://i.ebayimg.com/images/g/T1wAAeSwimlqcKn3/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158149962838",
-      "price": "$39.00"
-    },
-    {
-      "id": "158167866259",
-      "title": "GlycoScience Blood Health Support Dietary Supplement 60 Capsules Glyco Science",
-      "image": "https://i.ebayimg.com/images/g/FmcAAeSwdh5qd4yu/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158167866259",
       "price": "$39.00"
     },
     {
