@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-25T00:57:49+00:00",
+  "scraped_at": "2026-09-25T02:55:32+00:00",
   "count": 583,
   "seen": [
     "153886790983",
@@ -1001,13 +1001,6 @@
       "price": "$33.95"
     },
     {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
-    },
-    {
       "id": "155122078304",
       "title": "Bloodsyl Advanced Health Support Supplement - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/CukAAOSwFI1i~Ai8/s-l1600.jpg",
@@ -1635,13 +1628,6 @@
       "title": "Glyco Peak Glyco Optimizer Blood Health Support Supplement GlycoPeak 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/m30AAOSwTkVneA5e/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156617001553",
-      "price": "$39.00"
-    },
-    {
-      "id": "156617228633",
-      "title": "Gluco Renu Blood Health Support Supplement 60 Capsules Genuine GlucoRenu",
-      "image": "https://i.ebayimg.com/images/g/tVoAAOSwhh1neEBz/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156617228633",
       "price": "$39.00"
     },
     {
@@ -3549,6 +3535,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157735644269",
+      "title": "Alpha Capsules Mens Health Support Dietary Supplement Now In 60 Capsule Bottles",
+      "image": "https://i.ebayimg.com/images/g/laQAAeSwv5NpreGx/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157735644269",
+      "price": "$49.00"
+    },
+    {
       "id": "157738031124",
       "title": "SpartaMax Mens Health Support Dietary Supplement Now In 30 Capsule Bottles",
       "image": "https://i.ebayimg.com/images/g/FyQAAeSwdWNprzKO/s-l1600.jpg",
@@ -4046,13 +4039,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157949251174",
-      "title": "HemoNEXA Gluco Blood Health Support Dietary Supplement 30 Capsules Hemo Nexa",
-      "image": "https://i.ebayimg.com/images/g/YwAAAeSwf3xqGFSj/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157949251174",
-      "price": "$39.00"
-    },
-    {
       "id": "157955566982",
       "title": "Nervetin Capsules Nerve Health Support Premium Formula Advanced 30 Count Bottle",
       "image": "https://i.ebayimg.com/images/g/XooAAeSwWa1qG0lb/s-l1600.jpg",
@@ -4120,6 +4106,13 @@
       "title": "UroCalm Prostate and Urinary Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/QsEAAeSwQl1qLxom/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158000320105",
+      "price": "$39.00"
+    },
+    {
+      "id": "158000362962",
+      "title": "ViriFlow Prostate Health Support Supplement Now In 60 Capsule Bottles",
+      "image": "https://i.ebayimg.com/images/g/g7cAAeSwNUBqLx2N/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158000362962",
       "price": "$39.00"
     },
     {
@@ -4625,6 +4618,13 @@
       "image": "https://i.ebayimg.com/images/g/wQ0AAeSwMYBqpuPZ/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158288400548",
       "price": "$39.00"
+    },
+    {
+      "id": "158288450631",
+      "title": "Apoapsis Advanced Formula Mens Health Support Dietary Supplement | 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/AlgAAeSwquFqpugt/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158288450631",
+      "price": "$49.00"
     },
     {
       "id": "158292480037",
