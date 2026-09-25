@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-25T04:56:40+00:00",
-  "count": 579,
+  "scraped_at": "2026-09-25T06:59:30+00:00",
+  "count": 578,
   "seen": [
     "153886790983",
     "153894822521",
@@ -987,6 +987,13 @@
       "price": "$33.95"
     },
     {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
+    },
+    {
       "id": "155122078304",
       "title": "Bloodsyl Advanced Health Support Supplement - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/CukAAOSwFI1i~Ai8/s-l1600.jpg",
@@ -1468,13 +1475,6 @@
       "image": "https://i.ebayimg.com/images/g/SNkAAOSwkHJm03wv/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156383690753",
       "price": "$39.00"
-    },
-    {
-      "id": "156383752562",
-      "title": "NervoVive Dietary Supplement - 60 Capsules Genuine Nervo Vive",
-      "image": "https://i.ebayimg.com/images/g/mpMAAOSwOk1m04iJ/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156383752562",
-      "price": "$49.00"
     },
     {
       "id": "156389876279",
@@ -2499,6 +2499,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157192125378",
+      "title": "Sweet Vital Relief Daily Blood Health Support Formula 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/ziIAAeSw1Zlof-yc/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157192125378",
+      "price": "$39.00"
+    },
+    {
       "id": "157192144778",
       "title": "Power Pulse Advanced Mind Memory & Cognitive Support Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/f8EAAeSwP5pof-5n/s-l1600.jpg",
@@ -2643,6 +2650,13 @@
       "title": "Healthy Flow Cleanse Dietary Supplement 60 Capsules of Healthy Flow Cleanse",
       "image": "https://i.ebayimg.com/images/g/MhIAAeSwKe1ooPmB/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157249536623",
+      "price": "$39.00"
+    },
+    {
+      "id": "157254295813",
+      "title": "CircuPulse Blood Health Support Dietary Supplement 60 Capsules Circu Pulse",
+      "image": "https://i.ebayimg.com/images/g/3dgAAeSwf0Voo6mM/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157254295813",
       "price": "$39.00"
     },
     {
@@ -3136,11 +3150,11 @@
       "price": "$39.00"
     },
     {
-      "id": "157467614480",
-      "title": "CogniSurge Premium Mind & Cognitive Formula Supplement 60 Capsules Cogni Surge",
-      "image": "https://i.ebayimg.com/images/g/cjAAAeSwlPBpGJw5/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157467614480",
-      "price": "$49.00"
+      "id": "157467387436",
+      "title": "Gluco Essence Blood Health Support Dietary Supplement 60 Capsules GlucoEssence",
+      "image": "https://i.ebayimg.com/images/g/53kAAeSwlw1pGIMq/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157467387436",
+      "price": "$39.00"
     },
     {
       "id": "157467642549",
@@ -4298,13 +4312,6 @@
       "price": "$39.00"
     },
     {
-      "id": "158116862964",
-      "title": "Dentanol Promotes Healthy Teeth And Gums 30 Chewable Probiotic Tablets",
-      "image": "https://i.ebayimg.com/images/g/g2YAAeSwrptqY8Xw/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158116862964",
-      "price": "$49.00"
-    },
-    {
       "id": "158116973586",
       "title": "JellyFil Mens Health Support Stamina & Endurance Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/Oy8AAeSwwnxqY8s4/s-l1600.jpg",
@@ -4351,13 +4358,6 @@
       "title": "GumiTide ACV Health Support Gummy Supplement 30 Gummies Gumi Tide",
       "image": "https://i.ebayimg.com/images/g/5xAAAeSwVktqb6Q7/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158147309310",
-      "price": "$39.00"
-    },
-    {
-      "id": "158147455765",
-      "title": "Hawaiian Harmony Blood Health Support Supplement Now In 30 Capsule Bottles",
-      "image": "https://i.ebayimg.com/images/g/p9AAAeSwi1Jqb7hX/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158147455765",
       "price": "$39.00"
     },
     {
@@ -4590,13 +4590,6 @@
       "image": "https://i.ebayimg.com/images/g/wQ0AAeSwMYBqpuPZ/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158288400548",
       "price": "$39.00"
-    },
-    {
-      "id": "158288450631",
-      "title": "Apoapsis Advanced Formula Mens Health Support Dietary Supplement | 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/AlgAAeSwquFqpugt/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158288450631",
-      "price": "$49.00"
     },
     {
       "id": "158292480037",
