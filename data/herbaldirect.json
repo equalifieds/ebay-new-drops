@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-26T04:55:07+00:00",
-  "count": 581,
+  "scraped_at": "2026-09-26T06:57:23+00:00",
+  "count": 582,
   "seen": [
     "153886790983",
     "153894822521",
@@ -987,6 +987,13 @@
       "price": "$33.95"
     },
     {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
+    },
+    {
       "id": "155122078304",
       "title": "Bloodsyl Advanced Health Support Supplement - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/CukAAOSwFI1i~Ai8/s-l1600.jpg",
@@ -1314,6 +1321,13 @@
       "image": "https://i.ebayimg.com/images/g/seoAAOSwn49l8a5T/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156210834516",
       "price": "$126.00"
+    },
+    {
+      "id": "156211325852",
+      "title": "GlycogenX Blood Health Support Supplement Glycogen X Advanced Formula",
+      "image": "https://i.ebayimg.com/images/g/SXUAAOSwgVhmRm-i/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156211325852",
+      "price": "$39.95"
     },
     {
       "id": "156211370927",
@@ -4541,13 +4555,6 @@
       "image": "https://i.ebayimg.com/images/g/YVAAAeSweAVqk1Lw/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158237431200",
       "price": "$39.00"
-    },
-    {
-      "id": "158243636474",
-      "title": "Memo Meister Mind & Cognitive Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/uA4AAeSw9OVqlc12/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158243636474",
-      "price": "$49.00"
     },
     {
       "id": "158243658967",
