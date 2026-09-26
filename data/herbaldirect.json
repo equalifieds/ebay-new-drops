@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-26T18:56:20+00:00",
-  "count": 586,
+  "scraped_at": "2026-09-26T20:54:27+00:00",
+  "count": 583,
   "seen": [
     "153886790983",
     "153894822521",
@@ -3451,13 +3451,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157667056376",
-      "title": "MemoCept Mind Memory & Cognitive Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/2u8AAeSwbcxph6Xh/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157667056376",
-      "price": "$49.00"
-    },
-    {
       "id": "157667071170",
       "title": "ProstaFlow Prostate Support Mens Health Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/mAEAAeSw5Ktph6iN/s-l1600.jpg",
@@ -3659,13 +3652,6 @@
       "image": "https://i.ebayimg.com/images/g/iLcAAeSwWyhpxt~s/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157791410061",
       "price": "$49.00"
-    },
-    {
-      "id": "157791429973",
-      "title": "Bio Gluco Life Blood Health Support Dietary Supplement 30 Capsules BioGluco Life",
-      "image": "https://i.ebayimg.com/images/g/avYAAeSwSqlpxuMy/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157791429973",
-      "price": "$39.00"
     },
     {
       "id": "157793470447",
@@ -4106,13 +4092,6 @@
       "title": "GlucoZen Blood Health Support Dietary Supplement 30 Capsules Genuine Gluco Zen",
       "image": "https://i.ebayimg.com/images/g/XKoAAeSwz6xqLayH/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157997140939",
-      "price": "$39.00"
-    },
-    {
-      "id": "157997208461",
-      "title": "Glyco Harmony Blood Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/exAAAeSwHJ5qLbRx/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157997208461",
       "price": "$39.00"
     },
     {
