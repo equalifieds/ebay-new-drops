@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-26T08:55:06+00:00",
-  "count": 583,
+  "scraped_at": "2026-09-26T10:54:09+00:00",
+  "count": 581,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1138,13 +1138,6 @@
       "title": "Sight Care Vision Supplement Healthy Vision and Eyesight - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/wHsAAOSwWeZkQWMj/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155514413609",
-      "price": "$39.00"
-    },
-    {
-      "id": "155565067422",
-      "title": "Sight Care Vision Supplement Healthy Eyesight Support - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/wHsAAOSwWeZkQWMj/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155565067422",
       "price": "$39.00"
     },
     {
@@ -3871,13 +3864,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157881986390",
-      "title": "Max Vitalize Mens Health Support Dietary Supplement 30 Capsules MaxVitalize",
-      "image": "https://i.ebayimg.com/images/g/eQcAAeSwkB5p96tu/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157881986390",
-      "price": "$49.00"
-    },
-    {
       "id": "157900153387",
       "title": "Glyco Pulse Blood Health Support Dietary Supplement 30 Capsules GlycoPulse",
       "image": "https://i.ebayimg.com/images/g/tVMAAeSwjiVqAPjv/s-l1600.jpg",
@@ -4116,13 +4102,6 @@
       "price": "$39.00"
     },
     {
-      "id": "158000362962",
-      "title": "ViriFlow Prostate Health Support Supplement Now In 60 Capsule Bottles",
-      "image": "https://i.ebayimg.com/images/g/g7cAAeSwNUBqLx2N/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158000362962",
-      "price": "$39.00"
-    },
-    {
       "id": "158010220835",
       "title": "GlycoTide Blood Health Support Supplement Glyco Tide Now In 30 Capsule Bottles",
       "image": "https://i.ebayimg.com/images/g/hKUAAeSwDs5qNGkU/s-l1600.jpg",
@@ -4190,6 +4169,13 @@
       "title": "Flexi Move Advanced Joint Health Support Supplement 60 Capsules FlexiMove",
       "image": "https://i.ebayimg.com/images/g/~bAAAeSwK8pqOvvE/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158020977201",
+      "price": "$39.00"
+    },
+    {
+      "id": "158027517441",
+      "title": "Katara Wellness Joint Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/HK4AAeSwX5NqPbGI/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158027517441",
       "price": "$39.00"
     },
     {
