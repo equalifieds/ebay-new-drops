@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-27T04:56:06+00:00",
-  "count": 585,
+  "scraped_at": "2026-09-27T06:58:34+00:00",
+  "count": 583,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1239,13 +1239,6 @@
       "price": "$49.00"
     },
     {
-      "id": "155857836862",
-      "title": "Quietum Plus Ear Ringing and Ear Health Supplement - Genuine - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/1ugAAOSwXk1lPrje/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155857836862",
-      "price": "$39.00"
-    },
-    {
       "id": "155857860291",
       "title": "PuraVive Capsules - Weight Loss Support Supplement 30 Non-GMO Capsules - Genuine",
       "image": "https://i.ebayimg.com/images/g/qa0AAOSwMbdlPrzu/s-l1600.jpg",
@@ -1481,6 +1474,13 @@
       "title": "CelluCare Advanced Blood Health Support Supplement - 30 Capsules Genuine",
       "image": "https://i.ebayimg.com/images/g/SrYAAOSw6upmyN6o/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156370698110",
+      "price": "$39.00"
+    },
+    {
+      "id": "156383690753",
+      "title": "Arteris Plus Blood Health Dietary Supplement - 60 Capsules Arteries Plus Genuine",
+      "image": "https://i.ebayimg.com/images/g/SNkAAOSwkHJm03wv/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156383690753",
       "price": "$39.00"
     },
     {
@@ -1743,13 +1743,6 @@
       "price": "$39.00"
     },
     {
-      "id": "156866374551",
-      "title": "ProstaPrime Supplement (6 Pack) - Men's Prostate Health & Wellness - Save More!",
-      "image": "https://i.ebayimg.com/images/g/g1gAAOSwb6Vn8vIF/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156866374551",
-      "price": "$169.00"
-    },
-    {
       "id": "156882641814",
       "title": "Blood Sugar Complete Maximum Strength Blood Health Support - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/8AAAAOSw025n-UgS/s-l1600.jpg",
@@ -1811,13 +1804,6 @@
       "image": "https://i.ebayimg.com/images/g/Au0AAOSwsotn~sc6/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156895756194",
       "price": "$39.00"
-    },
-    {
-      "id": "156898398917",
-      "title": "Memo Defender Brain & Memory Health Support 60 Capsules of MemoDefender",
-      "image": "https://i.ebayimg.com/images/g/AnYAAOSw9ORn~9or/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156898398917",
-      "price": "$49.00"
     },
     {
       "id": "156901535929",
