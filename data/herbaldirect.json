@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-27T20:54:57+00:00",
-  "count": 579,
+  "scraped_at": "2026-09-27T22:55:43+00:00",
+  "count": 581,
   "seen": [
     "153886790983",
     "153894822521",
@@ -819,6 +819,13 @@
       "price": "$29.00"
     },
     {
+      "id": "154573758906",
+      "title": "GlucoFlow Advanced Blood Sugar Upgraded Formula - New",
+      "image": "https://i.ebayimg.com/images/g/rWcAAOSwFu1gEJ1T/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/154573758906",
+      "price": "$49.00"
+    },
+    {
       "id": "154577566430",
       "title": "Hyperexol  Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/ALEAAOSwbm9dyegn/s-l1600.jpg",
@@ -959,6 +966,20 @@
       "price": "$29.95"
     },
     {
+      "id": "155068944119",
+      "title": "LeanBiome Probiotic To Promote Weight Management and Gut Health 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/AXMAAOSwx5ZiyE47/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155068944119",
+      "price": "$49.00"
+    },
+    {
+      "id": "155068950774",
+      "title": "FluxActive Complete Vital Prostate Wellness Formula 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/RM4AAOSwnLhiyFFt/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155068950774",
+      "price": "$39.95"
+    },
+    {
       "id": "155083491939",
       "title": "Uricinex Uric Acid Support Supplement - 60 Capsules - New",
       "image": "https://i.ebayimg.com/images/g/Bk4AAOSwlI1fwugL/s-l1600.jpg",
@@ -978,6 +999,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -1006,6 +1034,13 @@
       "image": "https://i.ebayimg.com/images/g/ITcAAOSwtuZjAp5Z/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155129598913",
       "price": "$39.95"
+    },
+    {
+      "id": "155181441413",
+      "title": "AlphaBark Prostate Support Supplement 60 Capsules - Alpha Bark Prostate Pills",
+      "image": "https://i.ebayimg.com/images/g/2FEAAOSw1ypjM2I1/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155181441413",
+      "price": "$59.00"
     },
     {
       "id": "155204800591",
@@ -1603,13 +1638,6 @@
       "price": "$39.00"
     },
     {
-      "id": "156617228633",
-      "title": "Gluco Renu Blood Health Support Supplement 60 Capsules Genuine GlucoRenu",
-      "image": "https://i.ebayimg.com/images/g/tVoAAOSwhh1neEBz/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156617228633",
-      "price": "$39.00"
-    },
-    {
       "id": "156648619843",
       "title": "ProstaPrime Advanced Formula Supports Normal Prostate Health Prosta Prime",
       "image": "https://i.ebayimg.com/images/g/hy8AAOSwK1ZnkBAY/s-l1600.jpg",
@@ -1873,6 +1901,13 @@
       "title": "Gluco Wonder Blood Health Support Supplement Genuine 60 Capsules 1 Month Supply",
       "image": "https://i.ebayimg.com/images/g/U5cAAOSwQU9oDU7K/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156931203780",
+      "price": "$39.00"
+    },
+    {
+      "id": "156931225302",
+      "title": "Blood Balance Plus Blood Support Dietary Supplement Genuine 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/RlsAAOSwMyZoDVDG/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156931225302",
       "price": "$39.00"
     },
     {
@@ -2140,13 +2175,6 @@
       "image": "https://i.ebayimg.com/images/g/wPoAAOSw6SRoONB-/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157040219613",
       "price": "$49.00"
-    },
-    {
-      "id": "157040229863",
-      "title": "Vision Support Maximum Strength Eye Health Support 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/tKQAAOSwZR5oONGe/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157040229863",
-      "price": "$39.00"
     },
     {
       "id": "157040290264",
@@ -2478,13 +2506,6 @@
       "price": "$49.00"
     },
     {
-      "id": "157192125378",
-      "title": "Sweet Vital Relief Daily Blood Health Support Formula 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/ziIAAeSw1Zlof-yc/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157192125378",
-      "price": "$39.00"
-    },
-    {
       "id": "157192144778",
       "title": "Power Pulse Advanced Mind Memory & Cognitive Support Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/f8EAAeSwP5pof-5n/s-l1600.jpg",
@@ -2503,13 +2524,6 @@
       "title": "Metabolyn Healthy Weight Loss & Energy Support Formula 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/s40AAeSw~cdogTzw/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157194446383",
-      "price": "$39.00"
-    },
-    {
-      "id": "157194587651",
-      "title": "Super Memory Formula Memory and Cognitive Health Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/P3UAAeSwQXJogVPr/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157194587651",
       "price": "$39.00"
     },
     {
@@ -3080,13 +3094,6 @@
       "price": "$50.00"
     },
     {
-      "id": "157462901971",
-      "title": "EliteXTREME Prostate Health Support Dietary Supplement 60 Capsules Elite Xtreme",
-      "image": "https://i.ebayimg.com/images/g/CMwAAeSwUABpFk7w/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157462901971",
-      "price": "$39.00"
-    },
-    {
       "id": "157463069927",
       "title": "CogniClear Advanced Mind and Memory Support Supplement 60 Capsules Cogni Clear",
       "image": "https://i.ebayimg.com/images/g/opkAAeSwXKdpFlqE/s-l1600.jpg",
@@ -3322,6 +3329,13 @@
       "title": "GlycoPezil Blood Health Support Dietary Supplement Now In 30 Capsule Bottle",
       "image": "https://i.ebayimg.com/images/g/BkkAAeSwrYFpeS7J/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157642023294",
+      "price": "$39.00"
+    },
+    {
+      "id": "157642049607",
+      "title": "BioVera Burn Gummies Apple Cider Vinegar 30 Naturally Flavored Gummies",
+      "image": "https://i.ebayimg.com/images/g/ESUAAeSw1WRpeTJy/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157642049607",
       "price": "$39.00"
     },
     {
