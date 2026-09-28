@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-28T19:00:22+00:00",
-  "count": 583,
+  "scraped_at": "2026-09-28T20:58:44+00:00",
+  "count": 586,
   "seen": [
     "153886790983",
     "153894822521",
@@ -2198,6 +2198,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157050816023",
+      "title": "Brain Defender Healthy Brain Support Supplement 30 Capsules Brain Defender",
+      "image": "https://i.ebayimg.com/images/g/JqwAAOSwXk9oPKQj/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157050816023",
+      "price": "$49.00"
+    },
+    {
       "id": "157050878077",
       "title": "Sumatra Slim Belly Dietary Supplement 60 Capsules of Genuine Sumatra Slim Belly",
       "image": "https://i.ebayimg.com/images/g/1UgAAOSwmihoPKpW/s-l1600.jpg",
@@ -2538,6 +2545,13 @@
       "title": "Metabolyn Healthy Weight Loss & Energy Support Formula 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/s40AAeSw~cdogTzw/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157194446383",
+      "price": "$39.00"
+    },
+    {
+      "id": "157194587651",
+      "title": "Super Memory Formula Memory and Cognitive Health Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/P3UAAeSwQXJogVPr/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157194587651",
       "price": "$39.00"
     },
     {
@@ -3140,6 +3154,13 @@
       "title": "Zanari Mens Health Supplement Supports Energy and Endurance 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/j~AAAeSwHpZpF6Oy/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157465940711",
+      "price": "$49.00"
+    },
+    {
+      "id": "157467282608",
+      "title": "Mega Male Mens Health Support Dietary Supplement Stamina & Energy 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/FgoAAeSw~EVpGHP~/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157467282608",
       "price": "$49.00"
     },
     {
@@ -4130,6 +4151,13 @@
       "price": "$39.00"
     },
     {
+      "id": "158011700623",
+      "title": "Vigor Peak Mens Health Support Dietary Supplement 60 Capsules VigorPeak",
+      "image": "https://i.ebayimg.com/images/g/zh0AAeSwtZFqNWj2/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158011700623",
+      "price": "$49.00"
+    },
+    {
       "id": "158011713672",
       "title": "TrueMan Boost Mens Daily Health Support Dietary Supplement 30 Capsules True Man",
       "image": "https://i.ebayimg.com/images/g/6UQAAeSwGfNqNWuu/s-l1600.jpg",
@@ -4526,13 +4554,6 @@
       "title": "HerpaFend Advanced Dietary Supplement | Wellness & Skin Health 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/mp0AAeSw02JqkzW1/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158237096606",
-      "price": "$39.00"
-    },
-    {
-      "id": "158237211274",
-      "title": "MemoFix Mind & Cognitive Health Support Dietary Supplement 60 Capsules Memo Fix",
-      "image": "https://i.ebayimg.com/images/g/8skAAeSwuVhqk0B-/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158237211274",
       "price": "$39.00"
     },
     {
