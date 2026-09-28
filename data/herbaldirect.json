@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-28T20:58:44+00:00",
-  "count": 586,
+  "scraped_at": "2026-09-28T22:55:48+00:00",
+  "count": 584,
   "seen": [
     "153886790983",
     "153894822521",
@@ -999,13 +999,6 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
-    },
-    {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -2412,13 +2405,6 @@
       "title": "ProstaShield Prostate Support Health Supplement 60 Capsules Prosta Shield",
       "image": "https://i.ebayimg.com/images/g/awIAAeSw0tBoZaVn/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157142978221",
-      "price": "$39.00"
-    },
-    {
-      "id": "157147145258",
-      "title": "GlucoZone Blood Health Support Dietary Supplement 60 Capsules Genuine Gluco Zone",
-      "image": "https://i.ebayimg.com/images/g/g0AAAeSwoR9oZ-7Z/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157147145258",
       "price": "$39.00"
     },
     {
