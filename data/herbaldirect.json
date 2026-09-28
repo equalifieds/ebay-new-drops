@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-28T13:00:41+00:00",
-  "count": 581,
+  "scraped_at": "2026-09-28T15:01:36+00:00",
+  "count": 584,
   "seen": [
     "153886790983",
     "153894822521",
@@ -999,6 +999,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -2177,25 +2184,11 @@
       "price": "$49.00"
     },
     {
-      "id": "157040229863",
-      "title": "Vision Support Maximum Strength Eye Health Support 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/tKQAAOSwZR5oONGe/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157040229863",
-      "price": "$39.00"
-    },
-    {
       "id": "157040290264",
       "title": "GlucoPlus Blood Health Support & Optimizer Supplement 30 Capsules Gluco Plus",
       "image": "https://i.ebayimg.com/images/g/tFkAAOSwUk9oONXe/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157040290264",
       "price": "$39.00"
-    },
-    {
-      "id": "157050816023",
-      "title": "Brain Defender Healthy Brain Support Supplement 30 Capsules Brain Defender",
-      "image": "https://i.ebayimg.com/images/g/JqwAAOSwXk9oPKQj/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157050816023",
-      "price": "$49.00"
     },
     {
       "id": "157050878077",
@@ -3143,6 +3136,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157467282608",
+      "title": "Mega Male Mens Health Support Dietary Supplement Stamina & Energy 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/FgoAAeSw~EVpGHP~/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157467282608",
+      "price": "$49.00"
+    },
+    {
       "id": "157467370621",
       "title": "Pure Glyco Blood Health Support Dietary Supplement 60 Capsules of PureGlyco",
       "image": "https://i.ebayimg.com/images/g/cwEAAeSw9JlpGH~k/s-l1600.jpg",
@@ -3294,6 +3294,13 @@
       "title": "NeuroDyne Mind Memory & Cognitive Support Now in 60 Capsules Neuro Dyne Focus",
       "image": "https://i.ebayimg.com/images/g/akkAAeSwJZRpZnIT/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157611513058",
+      "price": "$49.00"
+    },
+    {
+      "id": "157623895135",
+      "title": "VapoFil Mens Health Support Dietary Supplement 60 Capsules Vicks Trick VapoFil",
+      "image": "https://i.ebayimg.com/images/g/SmsAAeSwn0VpbqKZ/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157623895135",
       "price": "$49.00"
     },
     {
@@ -4123,6 +4130,13 @@
       "price": "$39.00"
     },
     {
+      "id": "158011700623",
+      "title": "Vigor Peak Mens Health Support Dietary Supplement 60 Capsules VigorPeak",
+      "image": "https://i.ebayimg.com/images/g/zh0AAeSwtZFqNWj2/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158011700623",
+      "price": "$49.00"
+    },
+    {
       "id": "158011713672",
       "title": "TrueMan Boost Mens Daily Health Support Dietary Supplement 30 Capsules True Man",
       "image": "https://i.ebayimg.com/images/g/6UQAAeSwGfNqNWuu/s-l1600.jpg",
@@ -4645,6 +4659,13 @@
       "title": "Thermo Burn Pro Advanced Energy & Health Supplement ThermoBurnPro 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/1YIAAeSwO7ZqqwN1/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158299513229",
+      "price": "$39.00"
+    },
+    {
+      "id": "158357055851",
+      "title": "Gold Standard Wellness Blood Health Support Dietary Supplement | 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/lMIAAeSw9D9qunfI/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158357055851",
       "price": "$39.00"
     }
   ]
