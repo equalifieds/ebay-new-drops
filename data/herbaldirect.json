@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-28T10:58:04+00:00",
-  "count": 585,
+  "scraped_at": "2026-09-28T13:00:41+00:00",
+  "count": 581,
   "seen": [
     "153886790983",
     "153894822521",
@@ -999,13 +999,6 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
-    },
-    {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -2548,13 +2541,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157194587651",
-      "title": "Super Memory Formula Memory and Cognitive Health Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/P3UAAeSwQXJogVPr/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157194587651",
-      "price": "$39.00"
-    },
-    {
       "id": "157196384618",
       "title": "Sugar Vita Blood Health Support Dietary Supplement 60 Capsules Genuine SugarVita",
       "image": "https://i.ebayimg.com/images/g/o3EAAeSwJtpognY0/s-l1600.jpg",
@@ -3157,13 +3143,6 @@
       "price": "$49.00"
     },
     {
-      "id": "157467282608",
-      "title": "Mega Male Mens Health Support Dietary Supplement Stamina & Energy 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/FgoAAeSw~EVpGHP~/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157467282608",
-      "price": "$49.00"
-    },
-    {
       "id": "157467370621",
       "title": "Pure Glyco Blood Health Support Dietary Supplement 60 Capsules of PureGlyco",
       "image": "https://i.ebayimg.com/images/g/cwEAAeSw9JlpGH~k/s-l1600.jpg",
@@ -3318,18 +3297,18 @@
       "price": "$49.00"
     },
     {
-      "id": "157623895135",
-      "title": "VapoFil Mens Health Support Dietary Supplement 60 Capsules Vicks Trick VapoFil",
-      "image": "https://i.ebayimg.com/images/g/SmsAAeSwn0VpbqKZ/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157623895135",
-      "price": "$49.00"
-    },
-    {
       "id": "157623906083",
       "title": "MemoForce Mind and Cognitive Support 30 Capsules Memo Force Focus Supplement",
       "image": "https://i.ebayimg.com/images/g/GhoAAeSwzlJpbqTE/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157623906083",
       "price": "$49.00"
+    },
+    {
+      "id": "157626180582",
+      "title": "Sugar Clean Pro Blood Health Support Dietary Supplement Now In 60 Capsule Bottle",
+      "image": "https://i.ebayimg.com/images/g/WEMAAeSwxOJpb~G4/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157626180582",
+      "price": "$39.00"
     },
     {
       "id": "157626208600",
@@ -4142,13 +4121,6 @@
       "image": "https://i.ebayimg.com/images/g/kGQAAeSwQKZqNWIw/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158011669050",
       "price": "$39.00"
-    },
-    {
-      "id": "158011700623",
-      "title": "Vigor Peak Mens Health Support Dietary Supplement 60 Capsules VigorPeak",
-      "image": "https://i.ebayimg.com/images/g/zh0AAeSwtZFqNWj2/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158011700623",
-      "price": "$49.00"
     },
     {
       "id": "158011713672",
