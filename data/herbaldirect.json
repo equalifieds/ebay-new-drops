@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-29T04:57:19+00:00",
-  "count": 581,
+  "scraped_at": "2026-09-29T07:01:02+00:00",
+  "count": 580,
   "seen": [
     "153886790983",
     "153894822521",
@@ -698,6 +698,13 @@
       "image": "https://i.ebayimg.com/images/g/acoAAOSwHxNgB1ml/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/154344139816",
       "price": "$39.00"
+    },
+    {
+      "id": "154354475876",
+      "title": "Blood Balance Formula New Sealed",
+      "image": "https://i.ebayimg.com/images/g/rJQAAOSw-gJfrwyL/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/154354475876",
+      "price": "$31.95"
     },
     {
       "id": "154355736834",
@@ -3864,6 +3871,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157881986390",
+      "title": "Max Vitalize Mens Health Support Dietary Supplement 30 Capsules MaxVitalize",
+      "image": "https://i.ebayimg.com/images/g/eQcAAeSwkB5p96tu/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157881986390",
+      "price": "$49.00"
+    },
+    {
       "id": "157900153387",
       "title": "Glyco Pulse Blood Health Support Dietary Supplement 30 Capsules GlycoPulse",
       "image": "https://i.ebayimg.com/images/g/tVMAAeSwjiVqAPjv/s-l1600.jpg",
@@ -4123,13 +4137,6 @@
       "price": "$39.00"
     },
     {
-      "id": "158011700623",
-      "title": "Vigor Peak Mens Health Support Dietary Supplement 60 Capsules VigorPeak",
-      "image": "https://i.ebayimg.com/images/g/zh0AAeSwtZFqNWj2/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158011700623",
-      "price": "$49.00"
-    },
-    {
       "id": "158011713672",
       "title": "TrueMan Boost Mens Daily Health Support Dietary Supplement 30 Capsules True Man",
       "image": "https://i.ebayimg.com/images/g/6UQAAeSwGfNqNWuu/s-l1600.jpg",
@@ -4375,13 +4382,6 @@
       "price": "$39.00"
     },
     {
-      "id": "158147455765",
-      "title": "Hawaiian Harmony Blood Health Support Supplement Now In 30 Capsule Bottles",
-      "image": "https://i.ebayimg.com/images/g/p9AAAeSwi1Jqb7hX/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158147455765",
-      "price": "$39.00"
-    },
-    {
       "id": "158147488929",
       "title": "NeuroVera Mind & Cognitive Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/uYIAAeSw2Ohqb7ys/s-l1600.jpg",
@@ -4435,6 +4435,13 @@
       "title": "Gut-Glucose Blood Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/OgcAAeSwwSNqghhD/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158195517275",
+      "price": "$39.00"
+    },
+    {
+      "id": "158195572231",
+      "title": "Sugar Reset Blood and Metabolic Health Support Now In 30 Capule Bottles",
+      "image": "https://i.ebayimg.com/images/g/ftEAAeSw6qlqgh7Q/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158195572231",
       "price": "$39.00"
     },
     {
@@ -4522,13 +4529,6 @@
       "price": "$39.00"
     },
     {
-      "id": "158237211274",
-      "title": "MemoFix Mind & Cognitive Health Support Dietary Supplement 60 Capsules Memo Fix",
-      "image": "https://i.ebayimg.com/images/g/8skAAeSwuVhqk0B-/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158237211274",
-      "price": "$39.00"
-    },
-    {
       "id": "158237231038",
       "title": "Silentia Ear Health & Hearing Support Formula Now In 30 Cappsule Bottles",
       "image": "https://i.ebayimg.com/images/g/lqAAAeSwzkRqk0Tm/s-l1600.jpg",
@@ -4576,13 +4576,6 @@
       "image": "https://i.ebayimg.com/images/g/9dAAAeSwbS9qlfHe/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158244039319",
       "price": "$69.00"
-    },
-    {
-      "id": "158251278553",
-      "title": "Nervo Max Nerve Health Support Dietary Supplement 60 Capsules NervoMax",
-      "image": "https://i.ebayimg.com/images/g/wsUAAeSwoAJqmJca/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158251278553",
-      "price": "$39.00"
     },
     {
       "id": "158275186364",
