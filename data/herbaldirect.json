@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-29T02:56:49+00:00",
-  "count": 584,
+  "scraped_at": "2026-09-29T04:57:19+00:00",
+  "count": 581,
   "seen": [
     "153886790983",
     "153894822521",
@@ -700,13 +700,6 @@
       "price": "$39.00"
     },
     {
-      "id": "154354475876",
-      "title": "Blood Balance Formula New Sealed",
-      "image": "https://i.ebayimg.com/images/g/rJQAAOSw-gJfrwyL/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/154354475876",
-      "price": "$31.95"
-    },
-    {
       "id": "154355736834",
       "title": "Altai Balance Herbal Blood Health Supplement - New",
       "image": "https://i.ebayimg.com/images/g/AA0AAOSwJ61gPW9I/s-l1600.jpg",
@@ -999,13 +992,6 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
-    },
-    {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -1491,6 +1477,13 @@
       "price": "$39.00"
     },
     {
+      "id": "156383752562",
+      "title": "NervoVive Dietary Supplement - 60 Capsules Genuine Nervo Vive",
+      "image": "https://i.ebayimg.com/images/g/mpMAAOSwOk1m04iJ/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156383752562",
+      "price": "$49.00"
+    },
+    {
       "id": "156389876279",
       "title": "Dentavim Dental Health Support With Sulforaphane - Chlorophyta - Roselle  & More",
       "image": "https://i.ebayimg.com/images/g/9YkAAOSwDEdm14X-/s-l1600.jpg",
@@ -1664,6 +1657,13 @@
       "image": "https://i.ebayimg.com/images/g/nNUAAOSwQmBnvPNv/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156733442536",
       "price": "$49.00"
+    },
+    {
+      "id": "156814692730",
+      "title": "Sweet Restore & Relief Glycogen Support Supplement - Three Bottles Blood Health",
+      "image": "https://i.ebayimg.com/images/g/NCgAAOSw9Zhn3DD1/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156814692730",
+      "price": "$89.95"
     },
     {
       "id": "156824704575",
@@ -2196,6 +2196,13 @@
       "image": "https://i.ebayimg.com/images/g/1UgAAOSwmihoPKpW/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157050878077",
       "price": "$39.00"
+    },
+    {
+      "id": "157054769524",
+      "title": "Neuro Ease Nerve Health Support Dietary Supplement 60 Capsules Genuine NeuroEase",
+      "image": "https://i.ebayimg.com/images/g/GKUAAOSwxldoPgoO/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157054769524",
+      "price": "$49.00"
     },
     {
       "id": "157058523594",
@@ -3248,13 +3255,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157551996422",
-      "title": "MemoTril Advanced Mind & Cognitive Support Formula 30 Capsules Genuine Memo Tril",
-      "image": "https://i.ebayimg.com/images/g/HEYAAeSwDyppREk8/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157551996422",
-      "price": "$39.00"
-    },
-    {
       "id": "157552043079",
       "title": "Healthy Flow Prostate Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/smkAAeSwCUJpRFI0/s-l1600.jpg",
@@ -3864,13 +3864,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157881986390",
-      "title": "Max Vitalize Mens Health Support Dietary Supplement 30 Capsules MaxVitalize",
-      "image": "https://i.ebayimg.com/images/g/eQcAAeSwkB5p96tu/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157881986390",
-      "price": "$49.00"
-    },
-    {
       "id": "157900153387",
       "title": "Glyco Pulse Blood Health Support Dietary Supplement 30 Capsules GlycoPulse",
       "image": "https://i.ebayimg.com/images/g/tVMAAeSwjiVqAPjv/s-l1600.jpg",
@@ -4445,13 +4438,6 @@
       "price": "$39.00"
     },
     {
-      "id": "158195572231",
-      "title": "Sugar Reset Blood and Metabolic Health Support Now In 30 Capule Bottles",
-      "image": "https://i.ebayimg.com/images/g/ftEAAeSw6qlqgh7Q/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158195572231",
-      "price": "$39.00"
-    },
-    {
       "id": "158195575743",
       "title": "Jelly Blue Premium Formula Mens Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/iVMAAeSwfoNqgiDf/s-l1600.jpg",
@@ -4652,13 +4638,6 @@
       "title": "Hema Renew Blood Health Support Dietary Supplement | 60 Capsules | HemaRenew",
       "image": "https://i.ebayimg.com/images/g/eHIAAeSwSkFqqHDT/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158292644492",
-      "price": "$39.00"
-    },
-    {
-      "id": "158299513229",
-      "title": "Thermo Burn Pro Advanced Energy & Health Supplement ThermoBurnPro 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/1YIAAeSwO7ZqqwN1/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158299513229",
       "price": "$39.00"
     },
     {
