@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-29T15:00:31+00:00",
+  "scraped_at": "2026-09-29T16:59:33+00:00",
   "count": 586,
   "seen": [
     "153886790983",
@@ -4284,6 +4284,13 @@
       "price": "$39.00"
     },
     {
+      "id": "158058398776",
+      "title": "Male Pro Edge Extra Strength Mens Health Support Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/f1MAAeSwrthqSuKl/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158058398776",
+      "price": "$49.00"
+    },
+    {
       "id": "158058428284",
       "title": "Vital Health Mens Performance & Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/~AEAAeSw4E1qSuU2/s-l1600.jpg",
@@ -4393,13 +4400,6 @@
       "title": "GumiTide ACV Health Support Gummy Supplement 30 Gummies Gumi Tide",
       "image": "https://i.ebayimg.com/images/g/5xAAAeSwVktqb6Q7/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158147309310",
-      "price": "$39.00"
-    },
-    {
-      "id": "158147455765",
-      "title": "Hawaiian Harmony Blood Health Support Supplement Now In 30 Capsule Bottles",
-      "image": "https://i.ebayimg.com/images/g/p9AAAeSwi1Jqb7hX/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158147455765",
       "price": "$39.00"
     },
     {
