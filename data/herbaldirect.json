@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-09-29T13:02:00+00:00",
-  "count": 584,
+  "scraped_at": "2026-09-29T15:00:31+00:00",
+  "count": 586,
   "seen": [
     "153886790983",
     "153894822521",
@@ -3843,6 +3843,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157845936276",
+      "title": "DentaBiome Daily Oral Probiotic Healthy Teeth And Gums 30 Soft Chewable Tablets",
+      "image": "https://i.ebayimg.com/images/g/7WIAAeSwKuRp5Tvq/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157845936276",
+      "price": "$49.00"
+    },
+    {
       "id": "157863423625",
       "title": "SlimPic Advanced Daily Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/KU0AAeSwRZlp7nKR/s-l1600.jpg",
@@ -4102,6 +4109,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157997208461",
+      "title": "Glyco Harmony Blood Health Support Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/exAAAeSwHJ5qLbRx/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157997208461",
+      "price": "$39.00"
+    },
+    {
       "id": "157997440424",
       "title": "Glyco Result Blood Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/q~0AAeSw0QpqLdCK/s-l1600.jpg",
@@ -4268,13 +4282,6 @@
       "image": "https://i.ebayimg.com/images/g/fHAAAeSwFQVqSsSm/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158058134720",
       "price": "$39.00"
-    },
-    {
-      "id": "158058398776",
-      "title": "Male Pro Edge Extra Strength Mens Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/f1MAAeSwrthqSuKl/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158058398776",
-      "price": "$49.00"
     },
     {
       "id": "158058428284",
@@ -4449,6 +4456,13 @@
       "title": "Gut-Glucose Blood Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/OgcAAeSwwSNqghhD/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158195517275",
+      "price": "$39.00"
+    },
+    {
+      "id": "158195572231",
+      "title": "Sugar Reset Blood and Metabolic Health Support Now In 30 Capule Bottles",
+      "image": "https://i.ebayimg.com/images/g/ftEAAeSw6qlqgh7Q/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158195572231",
       "price": "$39.00"
     },
     {
