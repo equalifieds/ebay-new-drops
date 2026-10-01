@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-01T16:59:00+00:00",
+  "scraped_at": "2026-10-01T18:59:44+00:00",
   "count": 583,
   "seen": [
     "153886790983",
@@ -3969,13 +3969,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157918769627",
-      "title": "Memo Boost Mind and Memory Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/wlsAAeSwYi9qCgJQ/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157918769627",
-      "price": "$39.00"
-    },
-    {
       "id": "157936013129",
       "title": "Gold Gluco Health Blood Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/ihoAAeSwIDhqEgF2/s-l1600.jpg",
@@ -4051,6 +4044,13 @@
       "image": "https://i.ebayimg.com/images/g/XooAAeSwWa1qG0lb/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157955566982",
       "price": "$39.00"
+    },
+    {
+      "id": "157958040389",
+      "title": "Vigor Boost Mens Health Support Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/fZAAAeSwhe1qHH9b/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157958040389",
+      "price": "$49.00"
     },
     {
       "id": "157958235916",
