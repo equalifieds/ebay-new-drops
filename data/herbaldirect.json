@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-02T02:57:56+00:00",
-  "count": 584,
+  "scraped_at": "2026-10-02T04:58:18+00:00",
+  "count": 586,
   "seen": [
     "153886790983",
     "153894822521",
@@ -3185,6 +3185,20 @@
       "price": "$49.00"
     },
     {
+      "id": "157467642549",
+      "title": "Clarity Max Mind and Cognitive Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/cF8AAeSwSFBpGKBw/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157467642549",
+      "price": "$49.00"
+    },
+    {
+      "id": "157485141136",
+      "title": "Glyco Balancer Blood Health Support Dietary Supplement 30 Capsules GlycoBalancer",
+      "image": "https://i.ebayimg.com/images/g/BeUAAeSwbKppH5K5/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157485141136",
+      "price": "$39.00"
+    },
+    {
       "id": "157488051134",
       "title": "Memo Genesis Memory Support | Focus Clarity & Brain Health Formula 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/hdIAAeSwjWtpIMOx/s-l1600.jpg",
@@ -3612,6 +3626,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157782031582",
+      "title": "Sweet Restore Keto ACV Gummies Dietary Supplement 30 Gummies",
+      "image": "https://i.ebayimg.com/images/g/P7EAAeSwQONpwuo0/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157782031582",
+      "price": "$39.00"
+    },
+    {
       "id": "157782040394",
       "title": "Sweet Restore Cleanse Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/YJsAAeSwlBhpwuzw/s-l1600.jpg",
@@ -3700,6 +3721,13 @@
       "title": "BioSteady Blood Health Support Dietary Supplement 60 Capsules Maximum Strength",
       "image": "https://i.ebayimg.com/images/g/Jn0AAeSwnQRp0Vga/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157808258280",
+      "price": "$39.00"
+    },
+    {
+      "id": "157808270176",
+      "title": "GelaTide Gelatin Trick Weight Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/6I8AAeSw2Rtp0Vu5/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157808270176",
       "price": "$39.00"
     },
     {
@@ -3855,13 +3883,6 @@
       "image": "https://i.ebayimg.com/images/g/HakAAeSweM9p9QXJ/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157876457452",
       "price": "$39.00"
-    },
-    {
-      "id": "157881986390",
-      "title": "Max Vitalize Mens Health Support Dietary Supplement 30 Capsules MaxVitalize",
-      "image": "https://i.ebayimg.com/images/g/eQcAAeSwkB5p96tu/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157881986390",
-      "price": "$49.00"
     },
     {
       "id": "157900153387",
@@ -4092,13 +4113,6 @@
       "title": "UroCalm Prostate and Urinary Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/QsEAAeSwQl1qLxom/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158000320105",
-      "price": "$39.00"
-    },
-    {
-      "id": "158000362962",
-      "title": "ViriFlow Prostate Health Support Supplement Now In 60 Capsule Bottles",
-      "image": "https://i.ebayimg.com/images/g/g7cAAeSwNUBqLx2N/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158000362962",
       "price": "$39.00"
     },
     {
