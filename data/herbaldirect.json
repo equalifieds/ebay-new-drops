@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-03T03:07:37+00:00",
+  "scraped_at": "2026-10-03T04:57:27+00:00",
   "count": 584,
   "seen": [
     "153886790983",
@@ -819,6 +819,13 @@
       "price": "$29.00"
     },
     {
+      "id": "154573758906",
+      "title": "GlucoFlow Advanced Blood Sugar Upgraded Formula - New",
+      "image": "https://i.ebayimg.com/images/g/rWcAAOSwFu1gEJ1T/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/154573758906",
+      "price": "$49.00"
+    },
+    {
       "id": "154577566430",
       "title": "Hyperexol  Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/ALEAAOSwbm9dyegn/s-l1600.jpg",
@@ -957,6 +964,13 @@
       "image": "https://i.ebayimg.com/images/g/CvsAAOSw6WhijU3M/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155008727904",
       "price": "$29.95"
+    },
+    {
+      "id": "155068944119",
+      "title": "LeanBiome Probiotic To Promote Weight Management and Gut Health 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/AXMAAOSwx5ZiyE47/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155068944119",
+      "price": "$49.00"
     },
     {
       "id": "155068950774",
@@ -1470,6 +1484,13 @@
       "price": "$39.00"
     },
     {
+      "id": "156383690753",
+      "title": "Arteris Plus Blood Health Dietary Supplement - 60 Capsules Arteries Plus Genuine",
+      "image": "https://i.ebayimg.com/images/g/SNkAAOSwkHJm03wv/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156383690753",
+      "price": "$39.00"
+    },
+    {
       "id": "156383752562",
       "title": "NervoVive Dietary Supplement - 60 Capsules Genuine Nervo Vive",
       "image": "https://i.ebayimg.com/images/g/mpMAAOSwOk1m04iJ/s-l1600.jpg",
@@ -1754,13 +1775,6 @@
       "title": "Easy Flow Glycogen Support Blood Health Supplement 60 Capsules Genuine Sealed",
       "image": "https://i.ebayimg.com/images/g/RxAAAeSwajlpzW4P/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156885892167",
-      "price": "$39.00"
-    },
-    {
-      "id": "156885937551",
-      "title": "Gluco Health Plus Blood Health Support - Supports Healthy Flow  30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/e0UAAOSwwxZn-qiS/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156885937551",
       "price": "$39.00"
     },
     {
@@ -3122,13 +3136,6 @@
       "price": "$49.00"
     },
     {
-      "id": "157464848964",
-      "title": "GutOptim Digestive and Gut Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/QtkAAeSwV-hpFz8A/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157464848964",
-      "price": "$39.00"
-    },
-    {
       "id": "157465940711",
       "title": "Zanari Mens Health Supplement Supports Energy and Endurance 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/j~AAAeSwHpZpF6Oy/s-l1600.jpg",
@@ -3161,13 +3168,6 @@
       "title": "CogniSurge Premium Mind & Cognitive Formula Supplement 60 Capsules Cogni Surge",
       "image": "https://i.ebayimg.com/images/g/cjAAAeSwlPBpGJw5/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157467614480",
-      "price": "$49.00"
-    },
-    {
-      "id": "157467642549",
-      "title": "Clarity Max Mind and Cognitive Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/cF8AAeSwSFBpGKBw/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157467642549",
       "price": "$49.00"
     },
     {
@@ -3710,13 +3710,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157808283286",
-      "title": "Gelatine Sculpt Gelatin Trick Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/hKkAAeSwHrdp0V-C/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157808283286",
-      "price": "$39.00"
-    },
-    {
       "id": "157808431540",
       "title": "NeuroSalt Nerve Health Support Dietary Supplement 60 Capsules Neuro Salt",
       "image": "https://i.ebayimg.com/images/g/eUcAAeSwridp0W85/s-l1600.jpg",
@@ -3806,6 +3799,13 @@
       "image": "https://i.ebayimg.com/images/g/QZIAAeSw0Qpp4~U9/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157843631984",
       "price": "$49.00"
+    },
+    {
+      "id": "157843653870",
+      "title": "Glycogen Plus 800mg Capsules Blood Health Support 30 Capsules GlycogenPlus",
+      "image": "https://i.ebayimg.com/images/g/ELAAAeSwGTpp4~c0/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157843653870",
+      "price": "$39.00"
     },
     {
       "id": "157845887523",
