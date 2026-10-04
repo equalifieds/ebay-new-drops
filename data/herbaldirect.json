@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-04T18:21:03+00:00",
-  "count": 584,
+  "scraped_at": "2026-10-04T21:22:28+00:00",
+  "count": 586,
   "seen": [
     "153886790983",
     "153894822521",
@@ -824,6 +824,13 @@
       "image": "https://i.ebayimg.com/images/g/rWcAAOSwFu1gEJ1T/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/154573758906",
       "price": "$49.00"
+    },
+    {
+      "id": "154577566430",
+      "title": "Hyperexol  Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/ALEAAOSwbm9dyegn/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/154577566430",
+      "price": "$47.00"
     },
     {
       "id": "154584158816",
@@ -3612,6 +3619,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157782031582",
+      "title": "Sweet Restore Keto ACV Gummies Dietary Supplement 30 Gummies",
+      "image": "https://i.ebayimg.com/images/g/P7EAAeSwQONpwuo0/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157782031582",
+      "price": "$39.00"
+    },
+    {
       "id": "157782040394",
       "title": "Sweet Restore Cleanse Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/YJsAAeSwlBhpwuzw/s-l1600.jpg",
@@ -3687,13 +3701,6 @@
       "image": "https://i.ebayimg.com/images/g/RTQAAeSwTh5pzE25/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157801053711",
       "price": "$119.00"
-    },
-    {
-      "id": "157804773329",
-      "title": "Core Strength Premium Nerve & Joint Health Support Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/8eIAAeSwgyhpzrSO/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157804773329",
-      "price": "$39.00"
     },
     {
       "id": "157808258280",
@@ -4317,6 +4324,13 @@
       "image": "https://i.ebayimg.com/images/g/-B8AAeSw2~5qYjjH/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158112735600",
       "price": "$39.00"
+    },
+    {
+      "id": "158116862964",
+      "title": "Dentanol Promotes Healthy Teeth And Gums 30 Chewable Probiotic Tablets",
+      "image": "https://i.ebayimg.com/images/g/g2YAAeSwrptqY8Xw/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158116862964",
+      "price": "$49.00"
     },
     {
       "id": "158116973586",
