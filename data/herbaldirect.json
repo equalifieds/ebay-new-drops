@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-04T04:31:28+00:00",
+  "scraped_at": "2026-10-04T10:58:05+00:00",
   "count": 585,
   "seen": [
     "153886790983",
@@ -999,13 +999,6 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
-    },
-    {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -3115,6 +3108,13 @@
       "price": "$50.00"
     },
     {
+      "id": "157462901971",
+      "title": "EliteXTREME Prostate Health Support Dietary Supplement 60 Capsules Elite Xtreme",
+      "image": "https://i.ebayimg.com/images/g/CMwAAeSwUABpFk7w/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157462901971",
+      "price": "$39.00"
+    },
+    {
       "id": "157463069927",
       "title": "CogniClear Advanced Mind and Memory Support Supplement 60 Capsules Cogni Clear",
       "image": "https://i.ebayimg.com/images/g/opkAAeSwXKdpFlqE/s-l1600.jpg",
@@ -3168,6 +3168,13 @@
       "title": "CogniSurge Premium Mind & Cognitive Formula Supplement 60 Capsules Cogni Surge",
       "image": "https://i.ebayimg.com/images/g/cjAAAeSwlPBpGJw5/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157467614480",
+      "price": "$49.00"
+    },
+    {
+      "id": "157467642549",
+      "title": "Clarity Max Mind and Cognitive Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/cF8AAeSwSFBpGKBw/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157467642549",
       "price": "$49.00"
     },
     {
@@ -3707,13 +3714,6 @@
       "title": "GelaTide Gelatin Trick Weight Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/6I8AAeSw2Rtp0Vu5/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157808270176",
-      "price": "$39.00"
-    },
-    {
-      "id": "157808283286",
-      "title": "Gelatine Sculpt Gelatin Trick Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/hKkAAeSwHrdp0V-C/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157808283286",
       "price": "$39.00"
     },
     {
