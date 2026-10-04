@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-04T10:58:05+00:00",
-  "count": 585,
+  "scraped_at": "2026-10-04T18:21:03+00:00",
+  "count": 584,
   "seen": [
     "153886790983",
     "153894822521",
@@ -824,13 +824,6 @@
       "image": "https://i.ebayimg.com/images/g/rWcAAOSwFu1gEJ1T/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/154573758906",
       "price": "$49.00"
-    },
-    {
-      "id": "154577566430",
-      "title": "Hyperexol  Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/ALEAAOSwbm9dyegn/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/154577566430",
-      "price": "$47.00"
     },
     {
       "id": "154584158816",
@@ -2681,6 +2674,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157268981199",
+      "title": "Healthy Flow Blood Support and Cleanse Essential Care Combo Package",
+      "image": "https://i.ebayimg.com/images/g/rWAAAeSwMGhoq4LB/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157268981199",
+      "price": "$67.00"
+    },
+    {
       "id": "157269000069",
       "title": "Memory Lift Mind and Cognitive Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/qt8AAeSwA7Zoq4Uf/s-l1600.jpg",
@@ -3612,13 +3612,6 @@
       "price": "$49.00"
     },
     {
-      "id": "157782031582",
-      "title": "Sweet Restore Keto ACV Gummies Dietary Supplement 30 Gummies",
-      "image": "https://i.ebayimg.com/images/g/P7EAAeSwQONpwuo0/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157782031582",
-      "price": "$39.00"
-    },
-    {
       "id": "157782040394",
       "title": "Sweet Restore Cleanse Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/YJsAAeSwlBhpwuzw/s-l1600.jpg",
@@ -3714,6 +3707,13 @@
       "title": "GelaTide Gelatin Trick Weight Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/6I8AAeSw2Rtp0Vu5/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157808270176",
+      "price": "$39.00"
+    },
+    {
+      "id": "157808283286",
+      "title": "Gelatine Sculpt Gelatin Trick Support Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/hKkAAeSwHrdp0V-C/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157808283286",
       "price": "$39.00"
     },
     {
@@ -4317,13 +4317,6 @@
       "image": "https://i.ebayimg.com/images/g/-B8AAeSw2~5qYjjH/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158112735600",
       "price": "$39.00"
-    },
-    {
-      "id": "158116862964",
-      "title": "Dentanol Promotes Healthy Teeth And Gums 30 Chewable Probiotic Tablets",
-      "image": "https://i.ebayimg.com/images/g/g2YAAeSwrptqY8Xw/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158116862964",
-      "price": "$49.00"
     },
     {
       "id": "158116973586",
