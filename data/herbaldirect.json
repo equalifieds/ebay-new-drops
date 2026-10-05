@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-05T02:59:48+00:00",
-  "count": 585,
+  "scraped_at": "2026-10-05T05:16:02+00:00",
+  "count": 586,
   "seen": [
     "153886790983",
     "153894822521",
@@ -999,13 +999,6 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
-    },
-    {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -2450,6 +2443,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157156779168",
+      "title": "ValaCore Joint Support Dietary Supplement Joint Health Balance 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/~qAAAeSw4g1obY7j/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157156779168",
+      "price": "$39.00"
+    },
+    {
       "id": "157160760994",
       "title": "Vital Mind Memory & Cognitive Support 30 Capsules Genuine VitalMind",
       "image": "https://i.ebayimg.com/images/g/deoAAeSwDj5ob9Ly/s-l1600.jpg",
@@ -3115,6 +3115,13 @@
       "price": "$50.00"
     },
     {
+      "id": "157462901971",
+      "title": "EliteXTREME Prostate Health Support Dietary Supplement 60 Capsules Elite Xtreme",
+      "image": "https://i.ebayimg.com/images/g/CMwAAeSwUABpFk7w/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157462901971",
+      "price": "$39.00"
+    },
+    {
       "id": "157463069927",
       "title": "CogniClear Advanced Mind and Memory Support Supplement 60 Capsules Cogni Clear",
       "image": "https://i.ebayimg.com/images/g/opkAAeSwXKdpFlqE/s-l1600.jpg",
@@ -3168,6 +3175,13 @@
       "title": "CogniSurge Premium Mind & Cognitive Formula Supplement 60 Capsules Cogni Surge",
       "image": "https://i.ebayimg.com/images/g/cjAAAeSwlPBpGJw5/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157467614480",
+      "price": "$49.00"
+    },
+    {
+      "id": "157467642549",
+      "title": "Clarity Max Mind and Cognitive Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/cF8AAeSwSFBpGKBw/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157467642549",
       "price": "$49.00"
     },
     {
@@ -4254,13 +4268,6 @@
       "image": "https://i.ebayimg.com/images/g/fHAAAeSwFQVqSsSm/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158058134720",
       "price": "$39.00"
-    },
-    {
-      "id": "158058398776",
-      "title": "Male Pro Edge Extra Strength Mens Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/f1MAAeSwrthqSuKl/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158058398776",
-      "price": "$49.00"
     },
     {
       "id": "158058428284",
