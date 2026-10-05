@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-04T22:56:26+00:00",
-  "count": 581,
+  "scraped_at": "2026-10-05T01:03:48+00:00",
+  "count": 583,
   "seen": [
     "153886790983",
     "153894822521",
@@ -2653,6 +2653,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157242261663",
+      "title": "GlucoAdvance Blood Health Support Dietary Supplement 60 Capsules Gluco Advance",
+      "image": "https://i.ebayimg.com/images/g/i4AAAeSwCT9onP1c/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157242261663",
+      "price": "$39.00"
+    },
+    {
       "id": "157249518903",
       "title": "Total Flow Blood Health Daily Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/g6EAAeSw3M9ooPcb/s-l1600.jpg",
@@ -2679,6 +2686,13 @@
       "image": "https://i.ebayimg.com/images/g/5C8AAeSwNDVopk6z/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157259007825",
       "price": "$39.00"
+    },
+    {
+      "id": "157268981199",
+      "title": "Healthy Flow Blood Support and Cleanse Essential Care Combo Package",
+      "image": "https://i.ebayimg.com/images/g/rWAAAeSwMGhoq4LB/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157268981199",
+      "price": "$67.00"
     },
     {
       "id": "157269000069",
@@ -3161,6 +3175,13 @@
       "title": "CogniSurge Premium Mind & Cognitive Formula Supplement 60 Capsules Cogni Surge",
       "image": "https://i.ebayimg.com/images/g/cjAAAeSwlPBpGJw5/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157467614480",
+      "price": "$49.00"
+    },
+    {
+      "id": "157467642549",
+      "title": "Clarity Max Mind and Cognitive Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/cF8AAeSwSFBpGKBw/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157467642549",
       "price": "$49.00"
     },
     {
@@ -3805,13 +3826,6 @@
       "title": "Neuro Elite Mind & Cognitive Dietary Supplement 30 Capsules NTX NeuroElite",
       "image": "https://i.ebayimg.com/images/g/syAAAeSwpzNp5TW5/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157845887523",
-      "price": "$49.00"
-    },
-    {
-      "id": "157845936276",
-      "title": "DentaBiome Daily Oral Probiotic Healthy Teeth And Gums 30 Soft Chewable Tablets",
-      "image": "https://i.ebayimg.com/images/g/7WIAAeSwKuRp5Tvq/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157845936276",
       "price": "$49.00"
     },
     {
