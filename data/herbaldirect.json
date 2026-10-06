@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-06T15:01:14+00:00",
+  "scraped_at": "2026-10-06T17:00:40+00:00",
   "count": 584,
   "seen": [
     "153886790983",
@@ -1001,6 +1001,13 @@
       "price": "$33.95"
     },
     {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
+    },
+    {
       "id": "155122078304",
       "title": "Bloodsyl Advanced Health Support Supplement - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/CukAAOSwFI1i~Ai8/s-l1600.jpg",
@@ -1771,6 +1778,13 @@
       "price": "$39.00"
     },
     {
+      "id": "156885937551",
+      "title": "Gluco Health Plus Blood Health Support - Supports Healthy Flow  30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/e0UAAOSwwxZn-qiS/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156885937551",
+      "price": "$39.00"
+    },
+    {
       "id": "156886167996",
       "title": "Glucocyn Blood Health Support Supplement Advanced Formula 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/YrIAAOSwavJn-sO0/s-l1600.jpg",
@@ -2219,13 +2233,6 @@
       "price": "$49.00"
     },
     {
-      "id": "157062083585",
-      "title": "Brain Savior Mind Boost Formula Supports Brain and Cognitive Health 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/d6gAAOSwS5FoQLS1/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157062083585",
-      "price": "$49.00"
-    },
-    {
       "id": "157065423911",
       "title": "AlphaCur Nerve Health Support Dietary Supplement 30 Capsules Alpha Cure",
       "image": "https://i.ebayimg.com/images/g/yl0AAOSwa~ZoQgWH/s-l1600.jpg",
@@ -2660,18 +2667,18 @@
       "price": "$39.00"
     },
     {
+      "id": "157254295813",
+      "title": "CircuPulse Blood Health Support Dietary Supplement 60 Capsules Circu Pulse",
+      "image": "https://i.ebayimg.com/images/g/3dgAAeSwf0Voo6mM/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157254295813",
+      "price": "$39.00"
+    },
+    {
       "id": "157259007825",
       "title": "BalanceFlow Blood Health Support Supplement 30 Capsules Balance Flow Glyco",
       "image": "https://i.ebayimg.com/images/g/5C8AAeSwNDVopk6z/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157259007825",
       "price": "$39.00"
-    },
-    {
-      "id": "157268981199",
-      "title": "Healthy Flow Blood Support and Cleanse Essential Care Combo Package",
-      "image": "https://i.ebayimg.com/images/g/rWAAAeSwMGhoq4LB/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157268981199",
-      "price": "$67.00"
     },
     {
       "id": "157269000069",
@@ -2874,6 +2881,13 @@
       "title": "ThyraFemme Balance Thyroid Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/rwQAAeSwRqto~ONA/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157417635714",
+      "price": "$39.00"
+    },
+    {
+      "id": "157419869851",
+      "title": "Tadala Flow Mens Health Support Dietary Supplement 60 Capsules of Tadala Flow",
+      "image": "https://i.ebayimg.com/images/g/jC4AAeSwlN9o~j9a/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157419869851",
       "price": "$39.00"
     },
     {
@@ -3154,13 +3168,6 @@
       "title": "CogniSurge Premium Mind & Cognitive Formula Supplement 60 Capsules Cogni Surge",
       "image": "https://i.ebayimg.com/images/g/cjAAAeSwlPBpGJw5/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157467614480",
-      "price": "$49.00"
-    },
-    {
-      "id": "157467642549",
-      "title": "Clarity Max Mind and Cognitive Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/cF8AAeSwSFBpGKBw/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157467642549",
       "price": "$49.00"
     },
     {
@@ -3463,13 +3470,6 @@
       "image": "https://i.ebayimg.com/images/g/vmgAAeSwNtxplN-p/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157689260400",
       "price": "$49.00"
-    },
-    {
-      "id": "157698221789",
-      "title": "ProstaGorx Prostate Health Support Original Formula 60 Capsules Innovus Pharma",
-      "image": "https://i.ebayimg.com/images/g/UJIAAeSwLixpmjAC/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157698221789",
-      "price": "$39.00"
     },
     {
       "id": "157700921391",
