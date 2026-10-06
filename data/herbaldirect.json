@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-06T02:58:32+00:00",
-  "count": 582,
+  "scraped_at": "2026-10-06T04:58:58+00:00",
+  "count": 584,
   "seen": [
     "153886790983",
     "153894822521",
@@ -999,13 +999,6 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
-    },
-    {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -2450,6 +2443,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157156779168",
+      "title": "ValaCore Joint Support Dietary Supplement Joint Health Balance 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/~qAAAeSw4g1obY7j/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157156779168",
+      "price": "$39.00"
+    },
+    {
       "id": "157160760994",
       "title": "Vital Mind Memory & Cognitive Support 30 Capsules Genuine VitalMind",
       "image": "https://i.ebayimg.com/images/g/deoAAeSwDj5ob9Ly/s-l1600.jpg",
@@ -2664,6 +2664,13 @@
       "title": "Healthy Flow Cleanse Dietary Supplement 60 Capsules of Healthy Flow Cleanse",
       "image": "https://i.ebayimg.com/images/g/MhIAAeSwKe1ooPmB/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157249536623",
+      "price": "$39.00"
+    },
+    {
+      "id": "157254295813",
+      "title": "CircuPulse Blood Health Support Dietary Supplement 60 Capsules Circu Pulse",
+      "image": "https://i.ebayimg.com/images/g/3dgAAeSwf0Voo6mM/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157254295813",
       "price": "$39.00"
     },
     {
@@ -3696,6 +3703,13 @@
       "price": "$119.00"
     },
     {
+      "id": "157804773329",
+      "title": "Core Strength Premium Nerve & Joint Health Support Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/8eIAAeSwgyhpzrSO/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157804773329",
+      "price": "$39.00"
+    },
+    {
       "id": "157808258280",
       "title": "BioSteady Blood Health Support Dietary Supplement 60 Capsules Maximum Strength",
       "image": "https://i.ebayimg.com/images/g/Jn0AAeSwnQRp0Vga/s-l1600.jpg",
@@ -3969,13 +3983,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157936013129",
-      "title": "Gold Gluco Health Blood Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/ihoAAeSwIDhqEgF2/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157936013129",
-      "price": "$39.00"
-    },
-    {
       "id": "157936204532",
       "title": "Horse Boost Mens Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/4LIAAeSwJy5qEiB0/s-l1600.jpg",
@@ -4172,6 +4179,13 @@
       "price": "$39.00"
     },
     {
+      "id": "158027517441",
+      "title": "Katara Wellness Joint Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/HK4AAeSwX5NqPbGI/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158027517441",
+      "price": "$39.00"
+    },
+    {
       "id": "158027554426",
       "title": "Slim Tide Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/QAAAAeSwnCNqPbWJ/s-l1600.jpg",
@@ -4246,13 +4260,6 @@
       "title": "Male Pro Edge Extra Strength Mens Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/f1MAAeSwrthqSuKl/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158058398776",
-      "price": "$49.00"
-    },
-    {
-      "id": "158058428284",
-      "title": "Vital Health Mens Performance & Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/~AEAAeSw4E1qSuU2/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158058428284",
       "price": "$49.00"
     },
     {
@@ -4358,6 +4365,13 @@
       "title": "GumiTide ACV Health Support Gummy Supplement 30 Gummies Gumi Tide",
       "image": "https://i.ebayimg.com/images/g/5xAAAeSwVktqb6Q7/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158147309310",
+      "price": "$39.00"
+    },
+    {
+      "id": "158147455765",
+      "title": "Hawaiian Harmony Blood Health Support Supplement Now In 30 Capsule Bottles",
+      "image": "https://i.ebayimg.com/images/g/p9AAAeSwi1Jqb7hX/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158147455765",
       "price": "$39.00"
     },
     {
