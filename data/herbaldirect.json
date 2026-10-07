@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-07T02:58:59+00:00",
-  "count": 583,
+  "scraped_at": "2026-10-07T05:01:00+00:00",
+  "count": 584,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1484,6 +1484,13 @@
       "price": "$39.00"
     },
     {
+      "id": "156383690753",
+      "title": "Arteris Plus Blood Health Dietary Supplement - 60 Capsules Arteries Plus Genuine",
+      "image": "https://i.ebayimg.com/images/g/SNkAAOSwkHJm03wv/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156383690753",
+      "price": "$39.00"
+    },
+    {
       "id": "156383752562",
       "title": "NervoVive Dietary Supplement - 60 Capsules Genuine Nervo Vive",
       "image": "https://i.ebayimg.com/images/g/mpMAAOSwOk1m04iJ/s-l1600.jpg",
@@ -2555,13 +2562,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157196606747",
-      "title": "Neuro Sharp Memory Focus & Cognitive Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/dT4AAeSwd3Jogplr/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157196606747",
-      "price": "$39.00"
-    },
-    {
       "id": "157196618074",
       "title": "BioSlim Cleanse Advanced Formula For Digestive Support 60 Capsules of Bio Slim",
       "image": "https://i.ebayimg.com/images/g/eu4AAeSwzIRogpvA/s-l1600.jpg",
@@ -3178,13 +3178,6 @@
       "price": "$49.00"
     },
     {
-      "id": "157485141136",
-      "title": "Glyco Balancer Blood Health Support Dietary Supplement 30 Capsules GlycoBalancer",
-      "image": "https://i.ebayimg.com/images/g/BeUAAeSwbKppH5K5/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157485141136",
-      "price": "$39.00"
-    },
-    {
       "id": "157488051134",
       "title": "Memo Genesis Memory Support | Focus Clarity & Brain Health Formula 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/hdIAAeSwjWtpIMOx/s-l1600.jpg",
@@ -3588,6 +3581,13 @@
       "title": "Lipo Jaro Weight Support Dietary Supplement 30 Capsules Genuine LipoJaro",
       "image": "https://i.ebayimg.com/images/g/q2kAAeSwi3ppuXZz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157763209658",
+      "price": "$39.00"
+    },
+    {
+      "id": "157763719872",
+      "title": "BioGlyco Flow Blood Health Support Dietary Supplement 60 Capsules Bio Glyco Flow",
+      "image": "https://i.ebayimg.com/images/g/KUMAAeSweQppuaeQ/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157763719872",
       "price": "$39.00"
     },
     {
@@ -4058,6 +4058,13 @@
       "image": "https://i.ebayimg.com/images/g/vegAAeSwOqxqHJDM/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157958235916",
       "price": "$89.00"
+    },
+    {
+      "id": "157960440011",
+      "title": "ManForceX Advanced Mens Health Support Supplement Man Force X 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/UyQAAeSwALNqHZIB/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157960440011",
+      "price": "$49.00"
     },
     {
       "id": "157975841400",
