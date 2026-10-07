@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-07T09:00:22+00:00",
+  "scraped_at": "2026-10-07T11:00:01+00:00",
   "count": 586,
   "seen": [
     "153886790983",
@@ -999,6 +999,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -3666,13 +3673,6 @@
       "image": "https://i.ebayimg.com/images/g/el0AAeSwnhhpyBwc/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157793470447",
       "price": "$49.00"
-    },
-    {
-      "id": "157793670121",
-      "title": "GlycoCept Blood Health Support Dietary Supplement 60 Capsules Natural Wellness",
-      "image": "https://i.ebayimg.com/images/g/WiQAAeSw-2ppyCgD/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157793670121",
-      "price": "$39.00"
     },
     {
       "id": "157795955639",
