@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-07T01:05:15+00:00",
+  "scraped_at": "2026-10-07T02:58:59+00:00",
   "count": 583,
   "seen": [
     "153886790983",
@@ -4172,13 +4172,6 @@
       "price": "$39.00"
     },
     {
-      "id": "158027517441",
-      "title": "Katara Wellness Joint Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/HK4AAeSwX5NqPbGI/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158027517441",
-      "price": "$39.00"
-    },
-    {
       "id": "158027554426",
       "title": "Slim Tide Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/QAAAAeSwnCNqPbWJ/s-l1600.jpg",
@@ -4365,6 +4358,13 @@
       "title": "GumiTide ACV Health Support Gummy Supplement 30 Gummies Gumi Tide",
       "image": "https://i.ebayimg.com/images/g/5xAAAeSwVktqb6Q7/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158147309310",
+      "price": "$39.00"
+    },
+    {
+      "id": "158147455765",
+      "title": "Hawaiian Harmony Blood Health Support Supplement Now In 30 Capsule Bottles",
+      "image": "https://i.ebayimg.com/images/g/p9AAAeSwi1Jqb7hX/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158147455765",
       "price": "$39.00"
     },
     {
