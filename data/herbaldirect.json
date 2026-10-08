@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-08T14:05:33+00:00",
-  "count": 585,
+  "scraped_at": "2026-10-08T20:12:30+00:00",
+  "count": 587,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1001,13 +1001,6 @@
       "price": "$33.95"
     },
     {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
-    },
-    {
       "id": "155122078304",
       "title": "Bloodsyl Advanced Health Support Supplement - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/CukAAOSwFI1i~Ai8/s-l1600.jpg",
@@ -1069,6 +1062,13 @@
       "image": "https://i.ebayimg.com/images/g/ZDUAAOSwOnVj9oCY/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155422684797",
       "price": "$39.00"
+    },
+    {
+      "id": "155425822883",
+      "title": "GlucoTrust Blood Health Support Formula - 30 Capsules of Gluco Trust",
+      "image": "https://i.ebayimg.com/images/g/KdsAAOSwOgZj-Oia/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155425822883",
+      "price": "$34.95"
     },
     {
       "id": "155425981482",
@@ -4095,6 +4095,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157997208461",
+      "title": "Glyco Harmony Blood Health Support Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/exAAAeSwHJ5qLbRx/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157997208461",
+      "price": "$39.00"
+    },
+    {
       "id": "157997440424",
       "title": "Glyco Result Blood Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/q~0AAeSw0QpqLdCK/s-l1600.jpg",
@@ -4186,6 +4193,13 @@
       "price": "$39.00"
     },
     {
+      "id": "158027517441",
+      "title": "Katara Wellness Joint Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/HK4AAeSwX5NqPbGI/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158027517441",
+      "price": "$39.00"
+    },
+    {
       "id": "158027554426",
       "title": "Slim Tide Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/QAAAAeSwnCNqPbWJ/s-l1600.jpg",
@@ -4260,13 +4274,6 @@
       "title": "Male Pro Edge Extra Strength Mens Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/f1MAAeSwrthqSuKl/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158058398776",
-      "price": "$49.00"
-    },
-    {
-      "id": "158058428284",
-      "title": "Vital Health Mens Performance & Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/~AEAAeSw4E1qSuU2/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158058428284",
       "price": "$49.00"
     },
     {
@@ -4393,13 +4400,6 @@
       "title": "GlycoVista Blood Health Support Dietary Supplement 60 Capsules of Glyco Vista",
       "image": "https://i.ebayimg.com/images/g/T1wAAeSwimlqcKn3/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158149962838",
-      "price": "$39.00"
-    },
-    {
-      "id": "158167866259",
-      "title": "GlycoScience Blood Health Support Dietary Supplement 60 Capsules Glyco Science",
-      "image": "https://i.ebayimg.com/images/g/FmcAAeSwdh5qd4yu/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158167866259",
       "price": "$39.00"
     },
     {
@@ -4673,6 +4673,20 @@
       "title": "Hema Balance Blood Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/uroAAeSwk3pqvsxX/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158377717570",
+      "price": "$39.00"
+    },
+    {
+      "id": "960038125699",
+      "title": "Ilyra Tart Cherry Extract Dietary Supplement 3600mg 90 Capsules",
+      "image": "https://i.ebayimg.com/images/g/PD8AAeSwtqtqx7v0/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/960038125699",
+      "price": "$27.00"
+    },
+    {
+      "id": "960038596824",
+      "title": "VertiGenics Brain & Balance Cognitive Health Support Supplement | 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/ExkAAeSwLZBqx-vq/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/960038596824",
       "price": "$39.00"
     }
   ]
