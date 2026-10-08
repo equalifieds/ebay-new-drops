@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-08T06:42:22+00:00",
-  "count": 584,
+  "scraped_at": "2026-10-08T14:05:33+00:00",
+  "count": 585,
   "seen": [
     "153886790983",
     "153894822521",
@@ -819,6 +819,13 @@
       "price": "$29.00"
     },
     {
+      "id": "154573758906",
+      "title": "GlucoFlow Advanced Blood Sugar Upgraded Formula - New",
+      "image": "https://i.ebayimg.com/images/g/rWcAAOSwFu1gEJ1T/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/154573758906",
+      "price": "$49.00"
+    },
+    {
       "id": "154577566430",
       "title": "Hyperexol  Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/ALEAAOSwbm9dyegn/s-l1600.jpg",
@@ -959,6 +966,13 @@
       "price": "$29.95"
     },
     {
+      "id": "155068944119",
+      "title": "LeanBiome Probiotic To Promote Weight Management and Gut Health 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/AXMAAOSwx5ZiyE47/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155068944119",
+      "price": "$49.00"
+    },
+    {
       "id": "155068950774",
       "title": "FluxActive Complete Vital Prostate Wellness Formula 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/RM4AAOSwnLhiyFFt/s-l1600.jpg",
@@ -1055,13 +1069,6 @@
       "image": "https://i.ebayimg.com/images/g/ZDUAAOSwOnVj9oCY/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155422684797",
       "price": "$39.00"
-    },
-    {
-      "id": "155425822883",
-      "title": "GlucoTrust Blood Health Support Formula - 30 Capsules of Gluco Trust",
-      "image": "https://i.ebayimg.com/images/g/KdsAAOSwOgZj-Oia/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155425822883",
-      "price": "$34.95"
     },
     {
       "id": "155425981482",
@@ -3311,6 +3318,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157623906083",
+      "title": "MemoForce Mind and Cognitive Support 30 Capsules Memo Force Focus Supplement",
+      "image": "https://i.ebayimg.com/images/g/GhoAAeSwzlJpbqTE/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157623906083",
+      "price": "$49.00"
+    },
+    {
       "id": "157626180582",
       "title": "Sugar Clean Pro Blood Health Support Dietary Supplement Now In 60 Capsule Bottle",
       "image": "https://i.ebayimg.com/images/g/WEMAAeSwxOJpb~G4/s-l1600.jpg",
@@ -4169,13 +4183,6 @@
       "title": "Flexi Move Advanced Joint Health Support Supplement 60 Capsules FlexiMove",
       "image": "https://i.ebayimg.com/images/g/~bAAAeSwK8pqOvvE/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158020977201",
-      "price": "$39.00"
-    },
-    {
-      "id": "158027517441",
-      "title": "Katara Wellness Joint Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/HK4AAeSwX5NqPbGI/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158027517441",
       "price": "$39.00"
     },
     {
