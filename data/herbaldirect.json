@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-09T06:49:23+00:00",
-  "count": 585,
+  "scraped_at": "2026-10-09T15:36:24+00:00",
+  "count": 588,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1813,6 +1813,13 @@
       "price": "$39.00"
     },
     {
+      "id": "156895756194",
+      "title": "Health Charm Blood Health Support Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Au0AAOSwsotn~sc6/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156895756194",
+      "price": "$39.00"
+    },
+    {
       "id": "156898398917",
       "title": "Memo Defender Brain & Memory Health Support 60 Capsules of MemoDefender",
       "image": "https://i.ebayimg.com/images/g/AnYAAOSw9ORn~9or/s-l1600.jpg",
@@ -2555,13 +2562,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157196606747",
-      "title": "Neuro Sharp Memory Focus & Cognitive Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/dT4AAeSwd3Jogplr/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157196606747",
-      "price": "$39.00"
-    },
-    {
       "id": "157196618074",
       "title": "BioSlim Cleanse Advanced Formula For Digestive Support 60 Capsules of Bio Slim",
       "image": "https://i.ebayimg.com/images/g/eu4AAeSwzIRogpvA/s-l1600.jpg",
@@ -2961,6 +2961,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157445139836",
+      "title": "New Era Protect Advanced Female Support Bladder Comfort & Pelvic Health 30 Caps",
+      "image": "https://i.ebayimg.com/images/g/yXMAAeSwBB9pDLUZ/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157445139836",
+      "price": "$39.00"
+    },
+    {
       "id": "157445158384",
       "title": "Memo Master Premium Mind & Cognitive Health Support Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/mksAAeSwDqdpDLjx/s-l1600.jpg",
@@ -3108,6 +3115,13 @@
       "price": "$50.00"
     },
     {
+      "id": "157462901971",
+      "title": "EliteXTREME Prostate Health Support Dietary Supplement 60 Capsules Elite Xtreme",
+      "image": "https://i.ebayimg.com/images/g/CMwAAeSwUABpFk7w/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157462901971",
+      "price": "$39.00"
+    },
+    {
       "id": "157463069927",
       "title": "CogniClear Advanced Mind and Memory Support Supplement 60 Capsules Cogni Clear",
       "image": "https://i.ebayimg.com/images/g/opkAAeSwXKdpFlqE/s-l1600.jpg",
@@ -3162,6 +3176,20 @@
       "image": "https://i.ebayimg.com/images/g/cjAAAeSwlPBpGJw5/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157467614480",
       "price": "$49.00"
+    },
+    {
+      "id": "157467642549",
+      "title": "Clarity Max Mind and Cognitive Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/cF8AAeSwSFBpGKBw/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157467642549",
+      "price": "$49.00"
+    },
+    {
+      "id": "157485141136",
+      "title": "Glyco Balancer Blood Health Support Dietary Supplement 30 Capsules GlycoBalancer",
+      "image": "https://i.ebayimg.com/images/g/BeUAAeSwbKppH5K5/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157485141136",
+      "price": "$39.00"
     },
     {
       "id": "157488051134",
@@ -4044,13 +4072,6 @@
       "image": "https://i.ebayimg.com/images/g/vegAAeSwOqxqHJDM/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157958235916",
       "price": "$89.00"
-    },
-    {
-      "id": "157960440011",
-      "title": "ManForceX Advanced Mens Health Support Supplement Man Force X 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/UyQAAeSwALNqHZIB/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157960440011",
-      "price": "$49.00"
     },
     {
       "id": "157975841400",
