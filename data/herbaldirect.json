@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-08T20:12:30+00:00",
+  "scraped_at": "2026-10-09T00:42:31+00:00",
   "count": 587,
   "seen": [
     "153886790983",
@@ -999,6 +999,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -3073,13 +3080,6 @@
       "price": "$49.00"
     },
     {
-      "id": "157456797292",
-      "title": "Beast Force Mens Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/KX0AAeSw~eNpE01y/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157456797292",
-      "price": "$49.00"
-    },
-    {
       "id": "157456856769",
       "title": "Memyts Mind Health and Cognitive Blend Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/RXIAAeSwzZRpE1ai/s-l1600.jpg",
@@ -3183,13 +3183,6 @@
       "image": "https://i.ebayimg.com/images/g/cF8AAeSwSFBpGKBw/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157467642549",
       "price": "$49.00"
-    },
-    {
-      "id": "157485141136",
-      "title": "Glyco Balancer Blood Health Support Dietary Supplement 30 Capsules GlycoBalancer",
-      "image": "https://i.ebayimg.com/images/g/BeUAAeSwbKppH5K5/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157485141136",
-      "price": "$39.00"
     },
     {
       "id": "157488051134",
@@ -3666,13 +3659,6 @@
       "image": "https://i.ebayimg.com/images/g/el0AAeSwnhhpyBwc/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157793470447",
       "price": "$49.00"
-    },
-    {
-      "id": "157793670121",
-      "title": "GlycoCept Blood Health Support Dietary Supplement 60 Capsules Natural Wellness",
-      "image": "https://i.ebayimg.com/images/g/WiQAAeSw-2ppyCgD/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157793670121",
-      "price": "$39.00"
     },
     {
       "id": "157795955639",
@@ -4277,6 +4263,13 @@
       "price": "$49.00"
     },
     {
+      "id": "158058428284",
+      "title": "Vital Health Mens Performance & Health Support Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/~AEAAeSw4E1qSuU2/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158058428284",
+      "price": "$49.00"
+    },
+    {
       "id": "158073786603",
       "title": "Horse Peak Gelatin Mens Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/tz4AAeSwMDlqUThn/s-l1600.jpg",
@@ -4400,6 +4393,13 @@
       "title": "GlycoVista Blood Health Support Dietary Supplement 60 Capsules of Glyco Vista",
       "image": "https://i.ebayimg.com/images/g/T1wAAeSwimlqcKn3/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158149962838",
+      "price": "$39.00"
+    },
+    {
+      "id": "158167866259",
+      "title": "GlycoScience Blood Health Support Dietary Supplement 60 Capsules Glyco Science",
+      "image": "https://i.ebayimg.com/images/g/FmcAAeSwdh5qd4yu/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158167866259",
       "price": "$39.00"
     },
     {
