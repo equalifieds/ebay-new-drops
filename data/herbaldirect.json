@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-10T01:57:10+00:00",
-  "count": 588,
+  "scraped_at": "2026-10-10T09:05:54+00:00",
+  "count": 586,
   "seen": [
     "153886790983",
     "153894822521",
@@ -882,6 +882,13 @@
       "price": "$24.97"
     },
     {
+      "id": "154673516963",
+      "title": "Gorilla Flow Prostate Support Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/KQ8AAOSwN3FhZK92/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/154673516963",
+      "price": "$59.00"
+    },
+    {
       "id": "154691226945",
       "title": "FoliFort Extra Strength Hair Health Supplement - 60 Tablets Genuine",
       "image": "https://i.ebayimg.com/images/g/sNsAAOSwR4NhiZgq/s-l1600.jpg",
@@ -992,13 +999,6 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
-    },
-    {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -2569,13 +2569,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157202591005",
-      "title": "Teniva Blood Health Support Dietary Supplement 30 Capsules Genuine Teniva",
-      "image": "https://i.ebayimg.com/images/g/PGAAAeSwnr1ohpvY/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157202591005",
-      "price": "$39.00"
-    },
-    {
       "id": "157208576484",
       "title": "GlycoSurge Blood Health Support Dietary Supplement 30 Capsules Glyco Surge",
       "image": "https://i.ebayimg.com/images/g/WpAAAeSwA7loin-H/s-l1600.jpg",
@@ -3164,17 +3157,17 @@
       "price": "$39.00"
     },
     {
+      "id": "157467387436",
+      "title": "Gluco Essence Blood Health Support Dietary Supplement 60 Capsules GlucoEssence",
+      "image": "https://i.ebayimg.com/images/g/53kAAeSwlw1pGIMq/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157467387436",
+      "price": "$39.00"
+    },
+    {
       "id": "157467614480",
       "title": "CogniSurge Premium Mind & Cognitive Formula Supplement 60 Capsules Cogni Surge",
       "image": "https://i.ebayimg.com/images/g/cjAAAeSwlPBpGJw5/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157467614480",
-      "price": "$49.00"
-    },
-    {
-      "id": "157467642549",
-      "title": "Clarity Max Mind and Cognitive Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/cF8AAeSwSFBpGKBw/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157467642549",
       "price": "$49.00"
     },
     {
@@ -3920,6 +3913,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157911008807",
+      "title": "Nervenix Advanced Nerve Health Support Dietary Supplement 60 Capsules Genuine",
+      "image": "https://i.ebayimg.com/images/g/WbcAAeSwwelqBjzD/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157911008807",
+      "price": "$39.00"
+    },
+    {
       "id": "157913838887",
       "title": "Stem Cell Renew by Vitality Now Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/PFgAAeSws11qB42G/s-l1600.jpg",
@@ -4081,13 +4081,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157997208461",
-      "title": "Glyco Harmony Blood Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/exAAAeSwHJ5qLbRx/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157997208461",
-      "price": "$39.00"
-    },
-    {
       "id": "157997440424",
       "title": "Glyco Result Blood Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/q~0AAeSw0QpqLdCK/s-l1600.jpg",
@@ -4176,13 +4169,6 @@
       "title": "Flexi Move Advanced Joint Health Support Supplement 60 Capsules FlexiMove",
       "image": "https://i.ebayimg.com/images/g/~bAAAeSwK8pqOvvE/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158020977201",
-      "price": "$39.00"
-    },
-    {
-      "id": "158027517441",
-      "title": "Katara Wellness Joint Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/HK4AAeSwX5NqPbGI/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158027517441",
       "price": "$39.00"
     },
     {
