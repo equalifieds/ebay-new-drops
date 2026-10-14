@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-14T01:26:59+00:00",
-  "count": 594,
+  "scraped_at": "2026-10-14T08:04:31+00:00",
+  "count": 595,
   "seen": [
     "153886790983",
     "153894822521",
@@ -999,6 +999,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -2310,13 +2317,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157093731034",
-      "title": "SugarReset Blood Health Support Supplement 60 Capsules Genuine Sugar Reset",
-      "image": "https://i.ebayimg.com/images/g/swcAAOSwAPJoTJer/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157093731034",
-      "price": "$39.00"
-    },
-    {
       "id": "157097126470",
       "title": "CoreSpark Blood Balance Blood Health Support 30 Capsules Core Spark",
       "image": "https://i.ebayimg.com/images/g/964AAOSwFL1oTey2/s-l1600.jpg",
@@ -2721,6 +2721,13 @@
       "image": "https://i.ebayimg.com/images/g/OfUAAeSwuopos3XR/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157284335544",
       "price": "$39.00"
+    },
+    {
+      "id": "157284377015",
+      "title": "Erecton  Mens Health Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Z-wAAeSwvMJos3wO/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157284377015",
+      "price": "$49.00"
     },
     {
       "id": "157343276205",
