@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-14T14:05:57+00:00",
-  "count": 592,
+  "scraped_at": "2026-10-14T18:58:42+00:00",
+  "count": 595,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1001,13 +1001,6 @@
       "price": "$33.95"
     },
     {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
-    },
-    {
       "id": "155122078304",
       "title": "Bloodsyl Advanced Health Support Supplement - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/CukAAOSwFI1i~Ai8/s-l1600.jpg",
@@ -1538,6 +1531,13 @@
       "image": "https://i.ebayimg.com/images/g/rOAAAOSwHYJm9tJ7/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156430281044",
       "price": "$60.95"
+    },
+    {
+      "id": "156430530863",
+      "title": "Urgent Liver 911 Advanced Liver Health Support Formula - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/JokAAOSwGPFm9w~G/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156430530863",
+      "price": "$57.00"
     },
     {
       "id": "156430636487",
@@ -2884,6 +2884,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157419869851",
+      "title": "Tadala Flow Mens Health Support Dietary Supplement 60 Capsules of Tadala Flow",
+      "image": "https://i.ebayimg.com/images/g/jC4AAeSwlN9o~j9a/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157419869851",
+      "price": "$39.00"
+    },
+    {
       "id": "157422171199",
       "title": "Gluco Ally Blood Health Support Supplement 30 Capsules Genuine Gluco Ally",
       "image": "https://i.ebayimg.com/images/g/RAsAAeSwrzFo~4jJ/s-l1600.jpg",
@@ -3059,6 +3066,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157456797292",
+      "title": "Beast Force Mens Health Support Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/KX0AAeSw~eNpE01y/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157456797292",
+      "price": "$49.00"
+    },
+    {
       "id": "157456856769",
       "title": "Memyts Mind Health and Cognitive Blend Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/RXIAAeSwzZRpE1ai/s-l1600.jpg",
@@ -3140,6 +3154,13 @@
       "title": "Pure Glyco Blood Health Support Dietary Supplement 60 Capsules of PureGlyco",
       "image": "https://i.ebayimg.com/images/g/cwEAAeSw9JlpGH~k/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157467370621",
+      "price": "$39.00"
+    },
+    {
+      "id": "157467387436",
+      "title": "Gluco Essence Blood Health Support Dietary Supplement 60 Capsules GlucoEssence",
+      "image": "https://i.ebayimg.com/images/g/53kAAeSwlw1pGIMq/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157467387436",
       "price": "$39.00"
     },
     {
