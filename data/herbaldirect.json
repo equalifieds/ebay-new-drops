@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-14T23:29:48+00:00",
-  "count": 591,
+  "scraped_at": "2026-10-15T05:18:48+00:00",
+  "count": 588,
   "seen": [
     "153886790983",
     "153894822521",
@@ -819,13 +819,6 @@
       "price": "$29.00"
     },
     {
-      "id": "154573758906",
-      "title": "GlucoFlow Advanced Blood Sugar Upgraded Formula - New",
-      "image": "https://i.ebayimg.com/images/g/rWcAAOSwFu1gEJ1T/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/154573758906",
-      "price": "$49.00"
-    },
-    {
       "id": "154577566430",
       "title": "Hyperexol  Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/ALEAAOSwbm9dyegn/s-l1600.jpg",
@@ -966,13 +959,6 @@
       "price": "$29.95"
     },
     {
-      "id": "155068944119",
-      "title": "LeanBiome Probiotic To Promote Weight Management and Gut Health 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/AXMAAOSwx5ZiyE47/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155068944119",
-      "price": "$49.00"
-    },
-    {
       "id": "155068950774",
       "title": "FluxActive Complete Vital Prostate Wellness Formula 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/RM4AAOSwnLhiyFFt/s-l1600.jpg",
@@ -999,6 +985,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -1974,13 +1967,6 @@
       "price": "$39.00"
     },
     {
-      "id": "156952813598",
-      "title": "GlycoMax Blood Health Support Dietary Supplementnt 60 Capsules Glyco Max",
-      "image": "https://i.ebayimg.com/images/g/R3oAAOSw6hVoHArF/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156952813598",
-      "price": "$39.00"
-    },
-    {
       "id": "156965800402",
       "title": "Natural Glyco Joint Support For Blood and Circulation Health Genuine 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/4jMAAOSw~k5oG6oW/s-l1600.jpg",
@@ -2310,10 +2296,10 @@
       "price": "$39.00"
     },
     {
-      "id": "157093731034",
-      "title": "SugarReset Blood Health Support Supplement 60 Capsules Genuine Sugar Reset",
-      "image": "https://i.ebayimg.com/images/g/swcAAOSwAPJoTJer/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157093731034",
+      "id": "157097126470",
+      "title": "CoreSpark Blood Balance Blood Health Support 30 Capsules Core Spark",
+      "image": "https://i.ebayimg.com/images/g/964AAOSwFL1oTey2/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157097126470",
       "price": "$39.00"
     },
     {
@@ -3703,13 +3689,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157808283286",
-      "title": "Gelatine Sculpt Gelatin Trick Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/hKkAAeSwHrdp0V-C/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157808283286",
-      "price": "$39.00"
-    },
-    {
       "id": "157808431540",
       "title": "NeuroSalt Nerve Health Support Dietary Supplement 60 Capsules Neuro Salt",
       "image": "https://i.ebayimg.com/images/g/eUcAAeSwridp0W85/s-l1600.jpg",
@@ -3952,6 +3931,13 @@
       "title": "Memo Boost Mind and Memory Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/wlsAAeSwYi9qCgJQ/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157918769627",
+      "price": "$39.00"
+    },
+    {
+      "id": "157936013129",
+      "title": "Gold Gluco Health Blood Health Support Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/ihoAAeSwIDhqEgF2/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157936013129",
       "price": "$39.00"
     },
     {
@@ -4498,13 +4484,6 @@
       "title": "ProtaFlo Mens Health Prostate Support Formula 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/2PAAAeSw6Rlqkftp/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158234052881",
-      "price": "$39.00"
-    },
-    {
-      "id": "158237096606",
-      "title": "HerpaFend Advanced Dietary Supplement | Wellness & Skin Health 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/mp0AAeSw02JqkzW1/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158237096606",
       "price": "$39.00"
     },
     {
