@@ -1,7 +1,7 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-17T12:28:54+00:00",
+  "scraped_at": "2026-10-17T15:59:55+00:00",
   "count": 594,
   "seen": [
     "153886790983",
@@ -1820,13 +1820,6 @@
       "price": "$49.00"
     },
     {
-      "id": "156901535929",
-      "title": "DentaSmile Pro For Healthy Teeth & Gums - 30  Tablets - Genuine Denta Smile Pro",
-      "image": "https://i.ebayimg.com/images/g/m70AAOSwizhoASFN/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156901535929",
-      "price": "$49.00"
-    },
-    {
       "id": "156902603560",
       "title": "Glyco Boost Blood Health Support Supplement 30 Capsules Genuine GlycoBoost",
       "image": "https://i.ebayimg.com/images/g/BAUAAOSwm4JoAYxM/s-l1600.jpg",
@@ -3409,6 +3402,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157650904471",
+      "title": "Iron Pure Mens Health Dietary Supplement 30 Capsules IronPure Stamina & Health",
+      "image": "https://i.ebayimg.com/images/g/z1YAAeSwYAVpfn6B/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157650904471",
+      "price": "$49.00"
+    },
+    {
       "id": "157650910173",
       "title": "VisMax Revive Vision & Eye Health Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/1GMAAeSwCfFpfoBd/s-l1600.jpg",
@@ -4221,6 +4221,13 @@
       "price": "$39.00"
     },
     {
+      "id": "158035933141",
+      "title": "ZenSulin Blood Health Support Supplement Cinnamon Gymnema Chromium 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/rq4AAeSwWW5qQYBy/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158035933141",
+      "price": "$39.00"
+    },
+    {
       "id": "158041344480",
       "title": "Back Biome Back and Spine Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/eLwAAeSw4f5qQ9cz/s-l1600.jpg",
@@ -4519,13 +4526,6 @@
       "title": "ProtaFlo Mens Health Prostate Support Formula 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/2PAAAeSw6Rlqkftp/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158234052881",
-      "price": "$39.00"
-    },
-    {
-      "id": "158237096606",
-      "title": "HerpaFend Advanced Dietary Supplement | Wellness & Skin Health 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/mp0AAeSw02JqkzW1/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158237096606",
       "price": "$39.00"
     },
     {
