@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-18T16:11:01+00:00",
-  "count": 597,
+  "scraped_at": "2026-10-18T19:00:07+00:00",
+  "count": 596,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1876,13 +1876,6 @@
       "price": "$39.00"
     },
     {
-      "id": "156919007600",
-      "title": "Nerve Freedom 3 Bottle Special For m*******69",
-      "image": "https://i.ebayimg.com/images/g/rPcAAOSwUqNn-uXV/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156919007600",
-      "price": "$108.00"
-    },
-    {
       "id": "156930294974",
       "title": "VitaFlow Blood Balance Blood Support Blend Genuine VitaFlow 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/IXsAAOSwxBpoDOKi/s-l1600.jpg",
@@ -1965,13 +1958,6 @@
       "image": "https://i.ebayimg.com/images/g/~tEAAOSwKW1oFnzt/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156952587218",
       "price": "$39.00"
-    },
-    {
-      "id": "156952607062",
-      "title": "Tinni2Clear Hearing Relief Dietary Supplement 60 Capsules of Tinni 2 Clear",
-      "image": "https://i.ebayimg.com/images/g/3CcAAOSwX9ZoFn7G/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156952607062",
-      "price": "$49.00"
     },
     {
       "id": "156952653364",
@@ -4247,6 +4233,13 @@
       "image": "https://i.ebayimg.com/images/g/ZzYAAeSwJY1qQ9ws/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158041392684",
       "price": "$49.00"
+    },
+    {
+      "id": "158057893850",
+      "title": "Visium Plus Plus Eye Health Vision Support Supplement 60 Capsules  Hungary Ship",
+      "image": "https://i.ebayimg.com/images/g/ehgAAOSwfZxhs6mt/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158057893850",
+      "price": "$39.00"
     },
     {
       "id": "158058129400",
