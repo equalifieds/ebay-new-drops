@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-19T00:34:00+00:00",
-  "count": 597,
+  "scraped_at": "2026-10-19T05:24:24+00:00",
+  "count": 596,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1708,13 +1708,6 @@
       "price": "$49.00"
     },
     {
-      "id": "156857190414",
-      "title": "GumAktiv Oral Probiotics Healthy Teeth & Gums - 30 Tablets - Genuine Gum Aktiv",
-      "image": "https://i.ebayimg.com/images/g/Qu8AAOSwkFRn8Fgr/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156857190414",
-      "price": "$49.00"
-    },
-    {
       "id": "156857212857",
       "title": "Neuro Genica Supports Nerve Health & Function Good Mix NeuroGenica 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/pWMAAOSwdp9n8Fnr/s-l1600.jpg",
@@ -1965,13 +1958,6 @@
       "image": "https://i.ebayimg.com/images/g/~tEAAOSwKW1oFnzt/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156952587218",
       "price": "$39.00"
-    },
-    {
-      "id": "156952607062",
-      "title": "Tinni2Clear Hearing Relief Dietary Supplement 60 Capsules of Tinni 2 Clear",
-      "image": "https://i.ebayimg.com/images/g/3CcAAOSwX9ZoFn7G/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156952607062",
-      "price": "$49.00"
     },
     {
       "id": "156952653364",
@@ -3820,6 +3806,13 @@
       "image": "https://i.ebayimg.com/images/g/QZIAAeSw0Qpp4~U9/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157843631984",
       "price": "$49.00"
+    },
+    {
+      "id": "157843653870",
+      "title": "Glycogen Plus 800mg Capsules Blood Health Support 30 Capsules GlycogenPlus",
+      "image": "https://i.ebayimg.com/images/g/ELAAAeSwGTpp4~c0/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157843653870",
+      "price": "$39.00"
     },
     {
       "id": "157845887523",
