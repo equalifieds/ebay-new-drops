@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-20T17:35:20+00:00",
-  "count": 594,
+  "scraped_at": "2026-10-20T21:56:48+00:00",
+  "count": 595,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1001,13 +1001,6 @@
       "price": "$33.95"
     },
     {
-      "id": "155115244032",
-      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/155115244032",
-      "price": "$49.00"
-    },
-    {
       "id": "155122078304",
       "title": "Bloodsyl Advanced Health Support Supplement - 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/CukAAOSwFI1i~Ai8/s-l1600.jpg",
@@ -1687,6 +1680,13 @@
       "price": "$39.00"
     },
     {
+      "id": "156856654037",
+      "title": "Kick Start Blood Health Support Supplement Genuine KickStart - 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/R3oAAOSwYAln8DHo/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156856654037",
+      "price": "$39.00"
+    },
+    {
       "id": "156856695376",
       "title": "Striction D Advanced Formula Blood Health Support 60 Capsules Genuine StrictionD",
       "image": "https://i.ebayimg.com/images/g/to8AAOSwzaNn8DRo/s-l1600.jpg",
@@ -1958,6 +1958,13 @@
       "image": "https://i.ebayimg.com/images/g/~tEAAOSwKW1oFnzt/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156952587218",
       "price": "$39.00"
+    },
+    {
+      "id": "156952607062",
+      "title": "Tinni2Clear Hearing Relief Dietary Supplement 60 Capsules of Tinni 2 Clear",
+      "image": "https://i.ebayimg.com/images/g/3CcAAOSwX9ZoFn7G/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156952607062",
+      "price": "$49.00"
     },
     {
       "id": "156952653364",
@@ -3766,6 +3773,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157843261360",
+      "title": "GlucoSera Blood Health Support Dietary Supplement 60 Capsules NTX Gluco Sera",
+      "image": "https://i.ebayimg.com/images/g/~wwAAeSwrclp48iW/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157843261360",
+      "price": "$39.00"
+    },
+    {
       "id": "157843565869",
       "title": "Blood Balance Plus Blood Health Support Dietary Supplement Genuine 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/ByEAAeSw4ABp4-tc/s-l1600.jpg",
@@ -4011,6 +4025,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157949237221",
+      "title": "Neuro Mind Pro Brain Memory & Cognitive Health Support 30 Capsules NeuroMind",
+      "image": "https://i.ebayimg.com/images/g/MrcAAeSwJZ9qGFDO/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157949237221",
+      "price": "$39.00"
+    },
+    {
       "id": "157949247902",
       "title": "Renu Glyco Daily Blood Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/hVIAAeSw645qGFOw/s-l1600.jpg",
@@ -4172,13 +4193,6 @@
       "price": "$39.00"
     },
     {
-      "id": "158027554426",
-      "title": "Slim Tide Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/QAAAAeSwnCNqPbWJ/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158027554426",
-      "price": "$39.00"
-    },
-    {
       "id": "158027556331",
       "title": "GlycoBalance Glyco Optimizer Blood Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/jvEAAeSwpWVqPbZx/s-l1600.jpg",
@@ -4219,13 +4233,6 @@
       "image": "https://i.ebayimg.com/images/g/ZzYAAeSwJY1qQ9ws/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158041392684",
       "price": "$49.00"
-    },
-    {
-      "id": "158057893850",
-      "title": "Visium Plus Plus Eye Health Vision Support Supplement 60 Capsules  Hungary Ship",
-      "image": "https://i.ebayimg.com/images/g/ehgAAOSwfZxhs6mt/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158057893850",
-      "price": "$39.00"
     },
     {
       "id": "158058129400",
