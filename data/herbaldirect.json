@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-20T12:17:24+00:00",
-  "count": 591,
+  "scraped_at": "2026-10-20T17:35:20+00:00",
+  "count": 594,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1687,13 +1687,6 @@
       "price": "$39.00"
     },
     {
-      "id": "156856654037",
-      "title": "Kick Start Blood Health Support Supplement Genuine KickStart - 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/R3oAAOSwYAln8DHo/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/156856654037",
-      "price": "$39.00"
-    },
-    {
       "id": "156856695376",
       "title": "Striction D Advanced Formula Blood Health Support 60 Capsules Genuine StrictionD",
       "image": "https://i.ebayimg.com/images/g/to8AAOSwzaNn8DRo/s-l1600.jpg",
@@ -1705,6 +1698,13 @@
       "title": "Lymph Savior Advanced Lymphatic Health Support 60 Capsules Genuine Lymph Savior",
       "image": "https://i.ebayimg.com/images/g/E6kAAOSwH1Zn8FUi/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156857127640",
+      "price": "$49.00"
+    },
+    {
+      "id": "156857190414",
+      "title": "GumAktiv Oral Probiotics Healthy Teeth & Gums - 30 Tablets - Genuine Gum Aktiv",
+      "image": "https://i.ebayimg.com/images/g/Qu8AAOSwkFRn8Fgr/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156857190414",
       "price": "$49.00"
     },
     {
@@ -1867,6 +1867,13 @@
       "image": "https://i.ebayimg.com/images/g/etYAAOSwEjJoCAUV/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156918441307",
       "price": "$39.00"
+    },
+    {
+      "id": "156919007600",
+      "title": "Nerve Freedom 3 Bottle Special For m*******69",
+      "image": "https://i.ebayimg.com/images/g/rPcAAOSwUqNn-uXV/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156919007600",
+      "price": "$108.00"
     },
     {
       "id": "156930294974",
@@ -3066,6 +3073,13 @@
       "price": "$49.00"
     },
     {
+      "id": "157456866911",
+      "title": "Alpha Stream Plus + Advanced Prostate Support Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/UnEAAeSw9n5pE1oL/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157456866911",
+      "price": "$39.00"
+    },
+    {
       "id": "157456946944",
       "title": "InuLean Plus Appetite & Weight Blood Health Support 30 Capsules InuLean+",
       "image": "https://i.ebayimg.com/images/g/6eQAAeSwMf9pE2K6/s-l1600.jpg",
@@ -4260,6 +4274,13 @@
       "title": "Jelly Tide Weight Support Dietary Supplement 30 Gummies Genuine Jelly Tide",
       "image": "https://i.ebayimg.com/images/g/kXwAAeSwNF1qUWdf/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158074050864",
+      "price": "$39.00"
+    },
+    {
+      "id": "158086854101",
+      "title": "Jertaris Prostate Health Support Dietary Supplement 60 Capsules By Biotaris",
+      "image": "https://i.ebayimg.com/images/g/FJIAAeSwNKlqWAmO/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158086854101",
       "price": "$39.00"
     },
     {
