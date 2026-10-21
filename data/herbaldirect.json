@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-21T01:02:04+00:00",
-  "count": 593,
+  "scraped_at": "2026-10-21T08:02:44+00:00",
+  "count": 595,
   "seen": [
     "153886790983",
     "153894822521",
@@ -985,6 +985,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -3717,13 +3724,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157809919967",
-      "title": "Alpha Fuel Pro Mens Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/GHwAAeSwYrZp0s-2/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157809919967",
-      "price": "$49.00"
-    },
-    {
       "id": "157813928131",
       "title": "Metabo Labs Blood Health Support With Mulberry & Cinnamon Extract 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/C6gAAeSwh-Bp1CaL/s-l1600.jpg",
@@ -4179,6 +4179,13 @@
       "price": "$39.00"
     },
     {
+      "id": "158027554426",
+      "title": "Slim Tide Health Support Dietary Supplement 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/QAAAAeSwnCNqPbWJ/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158027554426",
+      "price": "$39.00"
+    },
+    {
       "id": "158027556331",
       "title": "GlycoBalance Glyco Optimizer Blood Health Support Dietary Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/jvEAAeSwpWVqPbZx/s-l1600.jpg",
@@ -4512,6 +4519,13 @@
       "title": "HerpaFend Advanced Dietary Supplement | Wellness & Skin Health 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/mp0AAeSw02JqkzW1/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158237096606",
+      "price": "$39.00"
+    },
+    {
+      "id": "158237211274",
+      "title": "MemoFix Mind & Cognitive Health Support Dietary Supplement 60 Capsules Memo Fix",
+      "image": "https://i.ebayimg.com/images/g/8skAAeSwuVhqk0B-/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158237211274",
       "price": "$39.00"
     },
     {
