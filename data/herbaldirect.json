@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-23T13:52:18+00:00",
-  "count": 595,
+  "scraped_at": "2026-10-23T18:46:44+00:00",
+  "count": 594,
   "seen": [
     "153886790983",
     "153894822521",
@@ -1684,6 +1684,13 @@
       "title": "Gluco Bio Blood & Cardio Health Dietary Supplement -60 Capsules - GlucoBio",
       "image": "https://i.ebayimg.com/images/g/qeMAAOSwEH5m~qyO/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/156850617146",
+      "price": "$39.00"
+    },
+    {
+      "id": "156856654037",
+      "title": "Kick Start Blood Health Support Supplement Genuine KickStart - 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/R3oAAOSwYAln8DHo/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/156856654037",
       "price": "$39.00"
     },
     {
@@ -3619,18 +3626,18 @@
       "price": "$39.00"
     },
     {
+      "id": "157782040394",
+      "title": "Sweet Restore Cleanse Dietary Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/YJsAAeSwlBhpwuzw/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157782040394",
+      "price": "$39.00"
+    },
+    {
       "id": "157782072579",
       "title": "Sweet Restore Glycogen Support & Sweet Restore Cleanse Combo Pack 120 Capsules",
       "image": "https://i.ebayimg.com/images/g/HvQAAeSwO05pxXgw/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157782072579",
       "price": "$59.00"
-    },
-    {
-      "id": "157785231307",
-      "title": "Breath Clear Lung Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/knsAAeSwwP5pxEnX/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157785231307",
-      "price": "$39.00"
     },
     {
       "id": "157791410061",
@@ -3773,13 +3780,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157843565869",
-      "title": "Blood Balance Plus Blood Health Support Dietary Supplement Genuine 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/ByEAAeSw4ABp4-tc/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157843565869",
-      "price": "$39.00"
-    },
-    {
       "id": "157843582502",
       "title": "Glyco Care Blood Health Support Dietary Supplement Genuine GlycoCare 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/CYAAAeSw5D5p4-1t/s-l1600.jpg",
@@ -3869,13 +3869,6 @@
       "image": "https://i.ebayimg.com/images/g/eQcAAeSwkB5p96tu/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157881986390",
       "price": "$49.00"
-    },
-    {
-      "id": "157900153387",
-      "title": "Glyco Pulse Blood Health Support Dietary Supplement 30 Capsules GlycoPulse",
-      "image": "https://i.ebayimg.com/images/g/tVMAAeSwjiVqAPjv/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157900153387",
-      "price": "$39.00"
     },
     {
       "id": "157902179849",
@@ -4163,13 +4156,6 @@
       "image": "https://i.ebayimg.com/images/g/bgYAAeSwUGhqNXX7/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158011769206",
       "price": "$49.00"
-    },
-    {
-      "id": "158011922221",
-      "title": "JB Restore Pain Relief Natural Joint Function and Mobility Support 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/dMEAAeSwf9FqNZIZ/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158011922221",
-      "price": "$39.00"
     },
     {
       "id": "158020977201",
@@ -4659,6 +4645,13 @@
       "title": "Gold Standard Wellness Blood Health Support Dietary Supplement | 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/lMIAAeSw9D9qunfI/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158357055851",
+      "price": "$39.00"
+    },
+    {
+      "id": "158377552183",
+      "title": "Neuro Recall Mind & Cognitive Health Support Dietary Supplement | 30 Capsules",
+      "image": "https://i.ebayimg.com/images/g/EMIAAeSw87lqvr3s/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/158377552183",
       "price": "$39.00"
     },
     {
