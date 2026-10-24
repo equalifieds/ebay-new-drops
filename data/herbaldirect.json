@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-24T17:39:39+00:00",
-  "count": 594,
+  "scraped_at": "2026-10-24T21:15:03+00:00",
+  "count": 592,
   "seen": [
     "153886790983",
     "153894822521",
@@ -798,13 +798,6 @@
       "price": "$39.99"
     },
     {
-      "id": "154543063693",
-      "title": "ProstaStream - Prosta Stream - Prostate Support Supplement 60 Capsules - New",
-      "image": "https://i.ebayimg.com/images/g/DuQAAOSwSGRf~gUM/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/154543063693",
-      "price": "$41.00"
-    },
-    {
       "id": "154558269151",
       "title": "Steel Bite Pro Teeth & Gum Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/lCYAAOSwh-RfzBOK/s-l1600.jpg",
@@ -999,6 +992,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -3892,6 +3892,13 @@
       "price": "$39.00"
     },
     {
+      "id": "157907494651",
+      "title": "Fortivir Max Mens Health Dietary Supplement 60 Capsules Genuine FortivirMax",
+      "image": "https://i.ebayimg.com/images/g/b2kAAeSwHQBqBJPW/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157907494651",
+      "price": "$49.00"
+    },
+    {
       "id": "157910998792",
       "title": "Glyco Ultra Blood Health Support Dietary Supplement GlycoUltra 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/x5wAAeSwh5lqBjr9/s-l1600.jpg",
@@ -3980,13 +3987,6 @@
       "title": "Crestline Nutrition Glucose Blood Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/EDMAAeSwANdqE2RC/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/157938916838",
-      "price": "$39.00"
-    },
-    {
-      "id": "157938953499",
-      "title": "GlicoDex Advanced Formula Blood Health Support Dietary Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/EFYAAeSwG3xqE2jr/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157938953499",
       "price": "$39.00"
     },
     {
@@ -4270,13 +4270,6 @@
       "price": "$89.00"
     },
     {
-      "id": "158074050864",
-      "title": "Jelly Tide Weight Support Dietary Supplement 30 Gummies Genuine Jelly Tide",
-      "image": "https://i.ebayimg.com/images/g/kXwAAeSwNF1qUWdf/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158074050864",
-      "price": "$39.00"
-    },
-    {
       "id": "158086854101",
       "title": "Jertaris Prostate Health Support Dietary Supplement 60 Capsules By Biotaris",
       "image": "https://i.ebayimg.com/images/g/FJIAAeSwNKlqWAmO/s-l1600.jpg",
@@ -4414,13 +4407,6 @@
       "title": "MemoHoney Mind & Cognitive Health Support Supplement 30 Capsules | Memo Honey",
       "image": "https://i.ebayimg.com/images/g/quwAAeSwWatqeNgs/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158170751220",
-      "price": "$39.00"
-    },
-    {
-      "id": "158195517275",
-      "title": "Gut-Glucose Blood Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/OgcAAeSwwSNqghhD/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158195517275",
       "price": "$39.00"
     },
     {
