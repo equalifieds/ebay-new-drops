@@ -1,8 +1,8 @@
 {
   "store": "HerbalDirect",
   "url": "https://www.ebay.com/str/herbaldirect",
-  "scraped_at": "2026-10-25T16:52:28+00:00",
-  "count": 596,
+  "scraped_at": "2026-10-26T00:46:00+00:00",
+  "count": 595,
   "seen": [
     "153886790983",
     "153894822521",
@@ -999,6 +999,13 @@
       "image": "https://i.ebayimg.com/images/g/OlcAAOSw9OZi9Xmz/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/155115236790",
       "price": "$33.95"
+    },
+    {
+      "id": "155115244032",
+      "title": "Lean Gene Metabolic Weight Loss Support Supplement - 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/Ha0AAOSwJnFi9XzT/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/155115244032",
+      "price": "$49.00"
     },
     {
       "id": "155122078304",
@@ -2961,13 +2968,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157445158384",
-      "title": "Memo Master Premium Mind & Cognitive Health Support Supplement 60 Capsules",
-      "image": "https://i.ebayimg.com/images/g/mksAAeSwDqdpDLjx/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157445158384",
-      "price": "$39.00"
-    },
-    {
       "id": "157445185765",
       "title": "Synaptigen Brain Mind and Cognitive Health Support Supplement 30 Capsules",
       "image": "https://i.ebayimg.com/images/g/7QMAAeSwLp9pDLwR/s-l1600.jpg",
@@ -3696,6 +3696,13 @@
       "price": "$119.00"
     },
     {
+      "id": "157804773329",
+      "title": "Core Strength Premium Nerve & Joint Health Support Supplement 60 Capsules",
+      "image": "https://i.ebayimg.com/images/g/8eIAAeSwgyhpzrSO/s-l1600.jpg",
+      "url": "https://www.ebay.com/itm/157804773329",
+      "price": "$39.00"
+    },
+    {
       "id": "157808258280",
       "title": "BioSteady Blood Health Support Dietary Supplement 60 Capsules Maximum Strength",
       "image": "https://i.ebayimg.com/images/g/Jn0AAeSwnQRp0Vga/s-l1600.jpg",
@@ -4081,13 +4088,6 @@
       "price": "$39.00"
     },
     {
-      "id": "157997208461",
-      "title": "Glyco Harmony Blood Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/exAAAeSwHJ5qLbRx/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/157997208461",
-      "price": "$39.00"
-    },
-    {
       "id": "157997440424",
       "title": "Glyco Result Blood Health Support Dietary Supplement 60 Capsules",
       "image": "https://i.ebayimg.com/images/g/q~0AAeSw0QpqLdCK/s-l1600.jpg",
@@ -4428,13 +4428,6 @@
       "title": "MemoHoney Mind & Cognitive Health Support Supplement 30 Capsules | Memo Honey",
       "image": "https://i.ebayimg.com/images/g/quwAAeSwWatqeNgs/s-l1600.jpg",
       "url": "https://www.ebay.com/itm/158170751220",
-      "price": "$39.00"
-    },
-    {
-      "id": "158195517275",
-      "title": "Gut-Glucose Blood Health Support Dietary Supplement 30 Capsules",
-      "image": "https://i.ebayimg.com/images/g/OgcAAeSwwSNqghhD/s-l1600.jpg",
-      "url": "https://www.ebay.com/itm/158195517275",
       "price": "$39.00"
     },
     {
